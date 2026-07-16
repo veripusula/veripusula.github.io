@@ -1,0 +1,5 @@
+# app-ads.txt — Kupon Öneri
+# AdMob hesabı açıldığında asagidaki satirin yorumu kaldirilacak ve
+# pub-XXXXXXXXXXXXXXXX yerine gercek AdMob yayinci kodu yazilacak:
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
