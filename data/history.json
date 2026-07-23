@@ -1,0 +1,2387 @@
+{
+ "stats": {
+  "total_coupons": 105,
+  "won": 18,
+  "lost": 87,
+  "win_rate": 17.1,
+  "last30_total": 7,
+  "last30_win_rate": 0.0,
+  "by_category": [
+   {
+    "category": "banko",
+    "total": 14,
+    "won": 10,
+    "win_rate": 71.4
+   },
+   {
+    "category": "dengeli",
+    "total": 91,
+    "won": 8,
+    "win_rate": 8.8
+   }
+  ],
+  "disclaimer": "Bu metrikler, Süper Lig 2022-2024 sezonlarının GERÇEK maç sonuçları üzerinde çalıştırılan geriye dönük model testinden (walk-forward backtest) üretilmiştir. Geçmiş başarı, gelecekteki sonuçların garantisi değildir."
+ },
+ "coupons": [
+  {
+   "id": "bt2024w202522d",
+   "category": "dengeli",
+   "generated_at": "2025-06-01",
+   "total_odds": 5.51,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Bodrum FK - Beşiktaş",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.33,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.38,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Başakşehir",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.38,
+     "result": "won"
+    },
+    {
+     "match": "Rizespor - Hatayspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.46,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Konyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.49,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202522b",
+   "category": "banko",
+   "generated_at": "2025-05-26",
+   "total_odds": 1.22,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Hatayspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.22,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202521d",
+   "category": "dengeli",
+   "generated_at": "2025-05-25",
+   "total_odds": 7.66,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Başakşehir - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.26,
+     "result": "lost"
+    },
+    {
+     "match": "Eyüpspor - Antalyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.47,
+     "result": "won"
+    },
+    {
+     "match": "Göztepe - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.53,
+     "result": "lost"
+    },
+    {
+     "match": "Beşiktaş - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.6,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Samsunspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.69,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202520d",
+   "category": "dengeli",
+   "generated_at": "2025-05-18",
+   "total_odds": 6.12,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Kasımpaşa - Başakşehir",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.36,
+     "result": "won"
+    },
+    {
+     "match": "Bodrum FK - Trabzonspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.37,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.47,
+     "result": "won"
+    },
+    {
+     "match": "Adana Demirspor - Hatayspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Fenerbahçe - Eyüpspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.5,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202519b",
+   "category": "banko",
+   "generated_at": "2025-05-11",
+   "total_odds": 1.2,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Göztepe - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.2,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202519d",
+   "category": "dengeli",
+   "generated_at": "2025-05-11",
+   "total_odds": 6.05,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Beşiktaş - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.32,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.37,
+     "result": "lost"
+    },
+    {
+     "match": "Eyüpspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.43,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Trabzonspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202518d",
+   "category": "dengeli",
+   "generated_at": "2025-05-04",
+   "total_odds": 9.19,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Sivasspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.32,
+     "result": "won"
+    },
+    {
+     "match": "Rizespor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.55,
+     "result": "lost"
+    },
+    {
+     "match": "Hatayspor - Başakşehir",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.65,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.69,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202517d",
+   "category": "dengeli",
+   "generated_at": "2025-04-27",
+   "total_odds": 5.96,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Bodrum FK - Samsunspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.33,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Alanyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.34,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.41,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.53,
+     "result": "won"
+    },
+    {
+     "match": "Kayserispor - Rizespor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.55,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202516d",
+   "category": "dengeli",
+   "generated_at": "2025-04-20",
+   "total_odds": 7.12,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Eyüpspor - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.42,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.43,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Bodrum FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Başakşehir - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.57,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202515d",
+   "category": "dengeli",
+   "generated_at": "2025-04-13",
+   "total_odds": 6.28,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Kayserispor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.35,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.39,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "result": "lost"
+    },
+    {
+     "match": "Sivasspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Göztepe - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.56,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202514d",
+   "category": "dengeli",
+   "generated_at": "2025-04-06",
+   "total_odds": 6.7,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Trabzonspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.52,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Başakşehir",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.64,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.64,
+     "result": "won"
+    },
+    {
+     "match": "Başakşehir - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.64,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202513d",
+   "category": "dengeli",
+   "generated_at": "2025-03-29",
+   "total_odds": 7.13,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Samsunspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.4,
+     "result": "lost"
+    },
+    {
+     "match": "Kayserispor - Hatayspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Göztepe",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Beşiktaş - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.5,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.53,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202511d",
+   "category": "dengeli",
+   "generated_at": "2025-03-15",
+   "total_odds": 8.3,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Antalyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.38,
+     "result": "won"
+    },
+    {
+     "match": "Beşiktaş - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.48,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Trabzonspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.53,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Alanyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "won"
+    },
+    {
+     "match": "Gaziantep FK - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.64,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202510d",
+   "category": "dengeli",
+   "generated_at": "2025-03-09",
+   "total_odds": 5.66,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Trabzonspor - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.29,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Sivasspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.34,
+     "result": "won"
+    },
+    {
+     "match": "Gaziantep FK - Eyüpspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.41,
+     "result": "lost"
+    },
+    {
+     "match": "Samsunspor - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Alanyaspor - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.57,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202509d",
+   "category": "dengeli",
+   "generated_at": "2025-03-02",
+   "total_odds": 4.43,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.36,
+     "result": "lost"
+    },
+    {
+     "match": "Fenerbahçe - Antalyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.36,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.46,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Alanyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.64,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202508d",
+   "category": "dengeli",
+   "generated_at": "2025-02-23",
+   "total_odds": 5.91,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Trabzonspor - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.33,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.41,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.43,
+     "result": "lost"
+    },
+    {
+     "match": "Kayserispor - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.48,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.49,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202507d",
+   "category": "dengeli",
+   "generated_at": "2025-02-16",
+   "total_odds": 5.53,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Başakşehir - Bodrum FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.28,
+     "result": "lost"
+    },
+    {
+     "match": "Fenerbahçe - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.35,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.38,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.44,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Eyüpspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202506d",
+   "category": "dengeli",
+   "generated_at": "2025-02-09",
+   "total_odds": 6.48,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.31,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.43,
+     "result": "won"
+    },
+    {
+     "match": "Alanyaspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "result": "lost"
+    },
+    {
+     "match": "Antalyaspor - Başakşehir",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.53,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Rizespor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.56,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202505d",
+   "category": "dengeli",
+   "generated_at": "2025-02-02",
+   "total_odds": 6.53,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Eyüpspor - Sivasspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.32,
+     "result": "won"
+    },
+    {
+     "match": "Göztepe - Alanyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.37,
+     "result": "lost"
+    },
+    {
+     "match": "Fenerbahçe - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.42,
+     "result": "won"
+    },
+    {
+     "match": "Adana Demirspor - Kasımpaşa",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.58,
+     "result": "won"
+    },
+    {
+     "match": "Kayserispor - Trabzonspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202504d",
+   "category": "dengeli",
+   "generated_at": "2025-01-26",
+   "total_odds": 7.94,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Galatasaray - Konyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.4,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Sivasspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.43,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Göztepe",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.55,
+     "result": "won"
+    },
+    {
+     "match": "Bodrum FK - Eyüpspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.59,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.61,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202503b",
+   "category": "banko",
+   "generated_at": "2025-01-19",
+   "total_odds": 1.44,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Göztepe - Antalyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.15,
+     "result": "won"
+    },
+    {
+     "match": "Adana Demirspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.25,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202503d",
+   "category": "dengeli",
+   "generated_at": "2025-01-19",
+   "total_odds": 6.95,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Hatayspor - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.32,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Bodrum FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.37,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Göztepe - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.59,
+     "result": "lost"
+    },
+    {
+     "match": "Konyaspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.6,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202502d",
+   "category": "dengeli",
+   "generated_at": "2025-01-12",
+   "total_odds": 7.25,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Başakşehir - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.36,
+     "result": "won"
+    },
+    {
+     "match": "Kayserispor - Samsunspor",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.46,
+     "result": "won"
+    },
+    {
+     "match": "Gaziantep FK - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.53,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.54,
+     "result": "lost"
+    },
+    {
+     "match": "Beşiktaş - Bodrum FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.55,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202501d",
+   "category": "dengeli",
+   "generated_at": "2025-01-05",
+   "total_odds": 7.29,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.31,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.37,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Adana Demirspor - Başakşehir",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.63,
+     "result": "lost"
+    },
+    {
+     "match": "Bodrum FK - Kayserispor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "YOK",
+     "odds": 1.65,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202451d",
+   "category": "dengeli",
+   "generated_at": "2024-12-22",
+   "total_odds": 7.26,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Kayserispor - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.38,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Trabzonspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.5,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Bodrum FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Göztepe - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.57,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202450d",
+   "category": "dengeli",
+   "generated_at": "2024-12-15",
+   "total_odds": 6.58,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Başakşehir",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Alanyaspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.63,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.65,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202449d",
+   "category": "dengeli",
+   "generated_at": "2024-12-08",
+   "total_odds": 6.75,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Göztepe - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.33,
+     "result": "won"
+    },
+    {
+     "match": "Beşiktaş - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.33,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.52,
+     "result": "won"
+    },
+    {
+     "match": "Kayserispor - Alanyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "lost"
+    },
+    {
+     "match": "Fenerbahçe - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.59,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202448d",
+   "category": "dengeli",
+   "generated_at": "2024-12-01",
+   "total_odds": 7.46,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Alanyaspor - Trabzonspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.42,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.49,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Eyüpspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202447d",
+   "category": "dengeli",
+   "generated_at": "2024-11-24",
+   "total_odds": 11.69,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Sivasspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.56,
+     "result": "lost"
+    },
+    {
+     "match": "Beşiktaş - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.6,
+     "result": "won"
+    },
+    {
+     "match": "Kayserispor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.65,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.66,
+     "result": "lost"
+    },
+    {
+     "match": "Bodrum FK - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.71,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202445d",
+   "category": "dengeli",
+   "generated_at": "2024-11-10",
+   "total_odds": 7.69,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Rizespor - Trabzonspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.46,
+     "result": "lost"
+    },
+    {
+     "match": "Samsunspor - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.47,
+     "result": "lost"
+    },
+    {
+     "match": "Göztepe - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Beşiktaş",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.53,
+     "result": "lost"
+    },
+    {
+     "match": "Galatasaray - Samsunspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.55,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202444d",
+   "category": "dengeli",
+   "generated_at": "2024-11-03",
+   "total_odds": 8.37,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Başakşehir - Eyüpspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.48,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Kayserispor - Adana Demirspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.52,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.56,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Beşiktaş",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.6,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202443d",
+   "category": "dengeli",
+   "generated_at": "2024-10-26",
+   "total_odds": 7.18,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Göztepe - Trabzonspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.59,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Samsunspor",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.67,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Kayserispor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.67,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202442d",
+   "category": "dengeli",
+   "generated_at": "2024-10-20",
+   "total_odds": 8.96,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Beşiktaş - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.47,
+     "result": "lost"
+    },
+    {
+     "match": "Kayserispor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.47,
+     "result": "won"
+    },
+    {
+     "match": "Eyüpspor - Göztepe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.57,
+     "result": "lost"
+    },
+    {
+     "match": "Samsunspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "won"
+    },
+    {
+     "match": "Alanyaspor - Kasımpaşa",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.64,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202440d",
+   "category": "dengeli",
+   "generated_at": "2024-10-06",
+   "total_odds": 7.31,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Hatayspor - Trabzonspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.41,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Alanyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.43,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Samsunspor",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.49,
+     "result": "won"
+    },
+    {
+     "match": "Başakşehir - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.53,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.59,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202439d",
+   "category": "dengeli",
+   "generated_at": "2024-09-29",
+   "total_odds": 10.04,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Samsunspor - Göztepe",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Sivasspor - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.56,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.59,
+     "result": "lost"
+    },
+    {
+     "match": "Eyüpspor - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.72,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2024w202438d",
+   "category": "dengeli",
+   "generated_at": "2024-09-22",
+   "total_odds": 7.9,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Kasımpaşa - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.34,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Alanyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.44,
+     "result": "lost"
+    },
+    {
+     "match": "Rizespor - Samsunspor",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.56,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Bodrum FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202421b",
+   "category": "banko",
+   "generated_at": "2024-05-26",
+   "total_odds": 1.14,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Fenerbahçe - İstanbulspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.14,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202421d",
+   "category": "dengeli",
+   "generated_at": "2024-05-26",
+   "total_odds": 6.32,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Pendikspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.42,
+     "result": "lost"
+    },
+    {
+     "match": "Fatih Karagümrük - Samsunspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.42,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.45,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Beşiktaş",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.47,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Rizespor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.47,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202420d",
+   "category": "dengeli",
+   "generated_at": "2024-05-19",
+   "total_odds": 10.29,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Samsunspor - Alanyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.57,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Adana Demirspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.58,
+     "result": "lost"
+    },
+    {
+     "match": "Kayserispor - Konyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.59,
+     "result": "lost"
+    },
+    {
+     "match": "Galatasaray - Fenerbahçe",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.61,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Trabzonspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202419b",
+   "category": "banko",
+   "generated_at": "2024-05-12",
+   "total_odds": 1.25,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.25,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202419d",
+   "category": "dengeli",
+   "generated_at": "2024-05-12",
+   "total_odds": 6.27,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Konyaspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.38,
+     "result": "lost"
+    },
+    {
+     "match": "Pendikspor - Rizespor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.43,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Antalyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - İstanbulspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.45,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Ankaragücü",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202418d",
+   "category": "dengeli",
+   "generated_at": "2024-05-05",
+   "total_odds": 8.53,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Sivasspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.38,
+     "result": "won"
+    },
+    {
+     "match": "Gaziantep FK - Hatayspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.52,
+     "result": "won"
+    },
+    {
+     "match": "Ankaragücü - Alanyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.53,
+     "result": "won"
+    },
+    {
+     "match": "Başakşehir - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "won"
+    },
+    {
+     "match": "İstanbulspor - Adana Demirspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.64,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202417d",
+   "category": "dengeli",
+   "generated_at": "2024-04-28",
+   "total_odds": 7.9,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Beşiktaş",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.36,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Samsunspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.52,
+     "result": "lost"
+    },
+    {
+     "match": "Sivasspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.54,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.57,
+     "result": "won"
+    },
+    {
+     "match": "Pendikspor - Kayserispor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202416b",
+   "category": "banko",
+   "generated_at": "2024-04-21",
+   "total_odds": 1.16,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Galatasaray - Pendikspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.16,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202416d",
+   "category": "dengeli",
+   "generated_at": "2024-04-21",
+   "total_odds": 6.45,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Antalyaspor - Hatayspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "YOK",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "lost"
+    },
+    {
+     "match": "Başakşehir - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.64,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Alanyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.67,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202415d",
+   "category": "dengeli",
+   "generated_at": "2024-04-14",
+   "total_odds": 9.65,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Adana Demirspor - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.45,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Konyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.59,
+     "result": "lost"
+    },
+    {
+     "match": "Ankaragücü - Gaziantep FK",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.64,
+     "result": "lost"
+    },
+    {
+     "match": "Fatih Karagümrük - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.69,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202414d",
+   "category": "dengeli",
+   "generated_at": "2024-04-04",
+   "total_odds": 6.84,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Hatayspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.29,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Adana Demirspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.41,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Pendikspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.47,
+     "result": "lost"
+    },
+    {
+     "match": "İstanbulspor - Rizespor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.58,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Alanyaspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.62,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202411d",
+   "category": "dengeli",
+   "generated_at": "2024-03-17",
+   "total_odds": 8.84,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Ankaragücü - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.43,
+     "result": "lost"
+    },
+    {
+     "match": "Alanyaspor - Kayserispor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.52,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Galatasaray",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.54,
+     "result": "won"
+    },
+    {
+     "match": "Rizespor - Gaziantep FK",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.62,
+     "result": "lost"
+    },
+    {
+     "match": "Trabzonspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.63,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202410b",
+   "category": "banko",
+   "generated_at": "2024-03-10",
+   "total_odds": 1.38,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Galatasaray - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.16,
+     "result": "won"
+    },
+    {
+     "match": "Fenerbahçe - Pendikspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.19,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202410d",
+   "category": "dengeli",
+   "generated_at": "2024-03-10",
+   "total_odds": 6.59,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Alanyaspor - Trabzonspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.56,
+     "result": "won"
+    },
+    {
+     "match": "İstanbulspor - Kasımpaşa",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.57,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Fatih Karagümrük",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.63,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - Gaziantep FK",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.65,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202409d",
+   "category": "dengeli",
+   "generated_at": "2024-03-03",
+   "total_odds": 7.33,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Kasımpaşa - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.38,
+     "result": "lost"
+    },
+    {
+     "match": "Galatasaray - Antalyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.44,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.5,
+     "result": "won"
+    },
+    {
+     "match": "Beşiktaş - Galatasaray",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.49,
+     "result": "won"
+    },
+    {
+     "match": "Ankaragücü - İstanbulspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "YOK",
+     "odds": 1.65,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202408d",
+   "category": "dengeli",
+   "generated_at": "2024-02-25",
+   "total_odds": 7.42,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.33,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Hatayspor",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.47,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Rizespor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.53,
+     "result": "won"
+    },
+    {
+     "match": "Fatih Karagümrük - Alanyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.56,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.59,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202407d",
+   "category": "dengeli",
+   "generated_at": "2024-02-18",
+   "total_odds": 8.38,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Pendikspor - Trabzonspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.49,
+     "result": "lost"
+    },
+    {
+     "match": "Ankaragücü - Galatasaray",
+     "market_type": "KG_VAR_YOK",
+     "selection": "YOK",
+     "odds": 1.52,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Sivasspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.52,
+     "result": "won"
+    },
+    {
+     "match": "Antalyaspor - İstanbulspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "YOK",
+     "odds": 1.55,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Fatih Karagümrük",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.57,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202406d",
+   "category": "dengeli",
+   "generated_at": "2024-02-11",
+   "total_odds": 8.37,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Alanyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.26,
+     "result": "lost"
+    },
+    {
+     "match": "Adana Demirspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.5,
+     "result": "won"
+    },
+    {
+     "match": "Galatasaray - Başakşehir",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.57,
+     "result": "won"
+    },
+    {
+     "match": "Fatih Karagümrük - Pendikspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.66,
+     "result": "lost"
+    },
+    {
+     "match": "İstanbulspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.7,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202405d",
+   "category": "dengeli",
+   "generated_at": "2024-02-04",
+   "total_odds": 7.85,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Galatasaray - Gaziantep FK",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.36,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.54,
+     "result": "won"
+    },
+    {
+     "match": "Kasımpaşa - Alanyaspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.54,
+     "result": "won"
+    },
+    {
+     "match": "Samsunspor - Galatasaray",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.56,
+     "result": "won"
+    },
+    {
+     "match": "Başakşehir - İstanbulspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.56,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202404d",
+   "category": "dengeli",
+   "generated_at": "2024-01-28",
+   "total_odds": 7.71,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Ankaragücü",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.43,
+     "result": "won"
+    },
+    {
+     "match": "Konyaspor - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.44,
+     "result": "lost"
+    },
+    {
+     "match": "Alanyaspor - Pendikspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.5,
+     "result": "won"
+    },
+    {
+     "match": "Pendikspor - Kasımpaşa",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.54,
+     "result": "won"
+    },
+    {
+     "match": "Sivasspor - Beşiktaş",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.62,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202404b",
+   "category": "banko",
+   "generated_at": "2024-01-25",
+   "total_odds": 1.25,
+   "status": "won",
+   "selections": [
+    {
+     "match": "Galatasaray - İstanbulspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.25,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202403b",
+   "category": "banko",
+   "generated_at": "2024-01-21",
+   "total_odds": 1.24,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Samsunspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.24,
+     "result": "lost"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202403d",
+   "category": "dengeli",
+   "generated_at": "2024-01-21",
+   "total_odds": 6.44,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Galatasaray - Kayserispor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.3,
+     "result": "won"
+    },
+    {
+     "match": "Trabzonspor - Galatasaray",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.44,
+     "result": "lost"
+    },
+    {
+     "match": "Pendikspor - Beşiktaş",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.5,
+     "result": "lost"
+    },
+    {
+     "match": "Kasımpaşa - Hatayspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.51,
+     "result": "lost"
+    },
+    {
+     "match": "Fatih Karagümrük - Başakşehir",
+     "market_type": "UST_ALT_2_5",
+     "selection": "ALT",
+     "odds": 1.52,
+     "result": "won"
+    }
+   ]
+  },
+  {
+   "id": "bt2023w202402d",
+   "category": "dengeli",
+   "generated_at": "2024-01-14",
+   "total_odds": 4.99,
+   "status": "lost",
+   "selections": [
+    {
+     "match": "Fenerbahçe - Konyaspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.29,
+     "result": "won"
+    },
+    {
+     "match": "Adana Demirspor - İstanbulspor",
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 1.36,
+     "result": "lost"
+    },
+    {
+     "match": "Gaziantep FK - Fenerbahçe",
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.39,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Pendikspor",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.41,
+     "result": "won"
+    },
+    {
+     "match": "Hatayspor - Gaziantep FK",
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "result": "lost"
+    }
+   ]
+  }
+ ]
+}

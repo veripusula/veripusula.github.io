@@ -1,0 +1,154 @@
+{
+ "generated_at": "2026-07-23T21:37:20",
+ "source": {
+  "configured": "api_football",
+  "active": "api_football",
+  "error": null
+ },
+ "matches": [
+  {
+   "id": "af_1074972",
+   "competition": "Süper Lig",
+   "home_team": "Konyaspor",
+   "away_team": "Galatasaray",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "2",
+   "odds": 1.39,
+   "confidence_score": 0.679,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074971",
+   "competition": "Süper Lig",
+   "home_team": "Fenerbahçe",
+   "away_team": "İstanbulspor",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.07,
+   "confidence_score": 0.879,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074978",
+   "competition": "Süper Lig",
+   "home_team": "Trabzonspor",
+   "away_team": "Ankaragücü",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.57,
+   "confidence_score": 0.6,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074977",
+   "competition": "Süper Lig",
+   "home_team": "Kasımpaşa",
+   "away_team": "Beşiktaş",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.47,
+   "confidence_score": 0.64,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074975",
+   "competition": "Süper Lig",
+   "home_team": "Adana Demirspor",
+   "away_team": "Başakşehir",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.52,
+   "confidence_score": 0.619,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074979",
+   "competition": "Süper Lig",
+   "home_team": "Hatayspor",
+   "away_team": "Rizespor",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.5,
+   "confidence_score": 0.629,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074974",
+   "competition": "Süper Lig",
+   "home_team": "Pendikspor",
+   "away_team": "Gaziantep FK",
+   "kickoff": "2024-05-26T16:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.52,
+   "confidence_score": 0.621,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074970",
+   "competition": "Süper Lig",
+   "home_team": "Sivasspor",
+   "away_team": "Kayserispor",
+   "kickoff": "2024-05-25T16:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.71,
+   "confidence_score": 0.551,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074973",
+   "competition": "Süper Lig",
+   "home_team": "Fatih Karagümrük",
+   "away_team": "Samsunspor",
+   "kickoff": "2024-05-25T13:00:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.41,
+   "confidence_score": 0.67,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074976",
+   "competition": "Süper Lig",
+   "home_team": "Alanyaspor",
+   "away_team": "Antalyaspor",
+   "kickoff": "2024-05-24T17:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.6,
+   "confidence_score": 0.589,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074967",
+   "competition": "Süper Lig",
+   "home_team": "Galatasaray",
+   "away_team": "Fenerbahçe",
+   "kickoff": "2024-05-19T16:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.67,
+   "confidence_score": 0.564,
+   "data_reliability": "high"
+  },
+  {
+   "id": "af_1074960",
+   "competition": "Süper Lig",
+   "home_team": "Beşiktaş",
+   "away_team": "Hatayspor",
+   "kickoff": "2024-05-18T16:00:00+00:00",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.52,
+   "confidence_score": 0.621,
+   "data_reliability": "high"
+  }
+ ]
+}
