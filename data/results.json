@@ -1,0 +1,123 @@
+{
+ "generated_at": "2026-08-15T21:51:14Z",
+ "days": 14,
+ "results": {
+  "af_1584374": {
+   "home_team": "Konyaspor",
+   "away_team": "Rizespor",
+   "kickoff": "2026-08-15T16:00:00+00:00",
+   "competition": "Süper Lig",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.65,
+   "hit": false
+  },
+  "af_1584373": {
+   "home_team": "Kasımpaşa",
+   "away_team": "Trabzonspor",
+   "kickoff": "2026-08-15T16:00:00+00:00",
+   "competition": "Süper Lig",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.66,
+   "hit": true
+  },
+  "af_1585702": {
+   "home_team": "İstanbulspor",
+   "away_team": "Bodrum FK",
+   "kickoff": "2026-08-15T16:00:00+00:00",
+   "competition": "1. Lig",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.72,
+   "hit": true
+  },
+  "af_1585703": {
+   "home_team": "Fatih Karagümrük",
+   "away_team": "Ümraniyespor",
+   "kickoff": "2026-08-15T16:00:00+00:00",
+   "competition": "1. Lig",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.67,
+   "hit": true
+  },
+  "af_1570333": {
+   "home_team": "Alaves",
+   "away_team": "Getafe",
+   "kickoff": "2026-08-15T17:30:00+00:00",
+   "competition": "La Liga",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.34,
+   "hit": false
+  },
+  "af_1584372": {
+   "home_team": "Gençlerbirliği S.K.",
+   "away_team": "Fenerbahçe",
+   "kickoff": "2026-08-15T18:30:00+00:00",
+   "competition": "Süper Lig",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.83,
+   "hit": true
+  },
+  "af_1584371": {
+   "home_team": "Gaziantep FK",
+   "away_team": "Alanyaspor",
+   "kickoff": "2026-08-15T18:30:00+00:00",
+   "competition": "Süper Lig",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.7,
+   "hit": true
+  },
+  "af_1585700": {
+   "home_team": "Bursaspor",
+   "away_team": "Iğdır FK",
+   "kickoff": "2026-08-15T18:30:00+00:00",
+   "competition": "1. Lig",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.85,
+   "hit": false
+  },
+  "af_1585706": {
+   "home_team": "Manisa F.K.",
+   "away_team": "Vanspor FK",
+   "kickoff": "2026-08-15T18:30:00+00:00",
+   "competition": "1. Lig",
+   "home": 4,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.82,
+   "hit": true
+  }
+ }
+}
