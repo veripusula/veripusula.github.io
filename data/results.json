@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T18:27:22Z",
+ "generated_at": "2026-08-16T19:49:32Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -144,6 +144,58 @@
    "selection": "VAR",
    "odds": 1.62,
    "hit": true
+  },
+  "af_1584368": {
+   "home_team": "Başakşehir",
+   "away_team": "Kocaelispor",
+   "kickoff": "2026-08-16T16:00:00+00:00",
+   "competition": "Süper Lig",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.47,
+   "hit": true
+  },
+  "af_1585704": {
+   "home_team": "Kayserispor",
+   "away_team": "Sivasspor",
+   "kickoff": "2026-08-16T16:00:00+00:00",
+   "competition": "1. Lig",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.75,
+   "hit": true
+  },
+  "af_1585705": {
+   "home_team": "Keçiörengücü",
+   "away_team": "Pendikspor",
+   "kickoff": "2026-08-16T16:00:00+00:00",
+   "competition": "1. Lig",
+   "home": 4,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 2.2,
+   "hit": true
+  },
+  "af_1570338": {
+   "home_team": "Espanyol",
+   "away_team": "Levante",
+   "kickoff": "2026-08-16T17:00:00+00:00",
+   "competition": "La Liga",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.91,
+   "hit": false
   }
  }
 }

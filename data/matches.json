@@ -1,194 +1,11 @@
 {
- "generated_at": "2026-08-16T18:27:22",
+ "generated_at": "2026-08-16T19:49:32",
  "source": {
   "configured": "api_football",
   "active": "api_football",
   "error": null
  },
  "matches": [
-  {
-   "id": "af_1584369",
-   "fixture_id": 1584369,
-   "league_id": 203,
-   "competition": "Süper Lig",
-   "home_team": "Beşiktaş",
-   "away_team": "Eyüpspor",
-   "kickoff": "2026-08-16T18:30:00+00:00",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.36,
-   "confidence_score": 0.492,
-   "model_prob": 0.492,
-   "market_prob": 0.684,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "high",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4917,
-      "odds": 1.36,
-      "market": 0.6841
-     },
-     "X": {
-      "model": 0.2617,
-      "odds": 4.85,
-      "market": 0.1918
-     },
-     "2": {
-      "model": 0.2466,
-      "odds": 7.5,
-      "market": 0.1241
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.4959,
-      "odds": 1.53,
-      "market": 0.6107
-     },
-     "ALT": {
-      "model": 0.5041,
-      "odds": 2.4,
-      "market": 0.3893
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5274,
-      "odds": 1.73,
-      "market": 0.5337
-     },
-     "YOK": {
-      "model": 0.4726,
-      "odds": 1.98,
-      "market": 0.4663
-     }
-    }
-   }
-  },
-  {
-   "id": "af_1585707",
-   "fixture_id": 1585707,
-   "league_id": 204,
-   "competition": "TFF 1. Lig",
-   "home_team": "Mardin 1969",
-   "away_team": "Antalyaspor",
-   "kickoff": "2026-08-16T18:30:00+00:00",
-   "market_type": "KG_VAR_YOK",
-   "selection": "VAR",
-   "odds": 1.83,
-   "confidence_score": 0.593,
-   "model_prob": 0.593,
-   "market_prob": 0.503,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "medium",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4005,
-      "odds": 3.19,
-      "market": 0.2857
-     },
-     "X": {
-      "model": 0.2581,
-      "odds": 3.25,
-      "market": 0.2804
-     },
-     "2": {
-      "model": 0.3415,
-      "odds": 2.1,
-      "market": 0.4339
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.5569,
-      "odds": 2.05,
-      "market": 0.4533
-     },
-     "ALT": {
-      "model": 0.4431,
-      "odds": 1.7,
-      "market": 0.5467
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5928,
-      "odds": 1.83,
-      "market": 0.5027
-     },
-     "YOK": {
-      "model": 0.4072,
-      "odds": 1.85,
-      "market": 0.4973
-     }
-    }
-   }
-  },
-  {
-   "id": "af_1585708",
-   "fixture_id": 1585708,
-   "league_id": 204,
-   "competition": "TFF 1. Lig",
-   "home_team": "Muğlaspor",
-   "away_team": "Bandırmaspor",
-   "kickoff": "2026-08-16T18:30:00+00:00",
-   "market_type": "KG_VAR_YOK",
-   "selection": "VAR",
-   "odds": 1.99,
-   "confidence_score": 0.505,
-   "model_prob": 0.505,
-   "market_prob": 0.466,
-   "odds_source": "market",
-   "bookmakers": 12,
-   "data_reliability": "medium",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.3432,
-      "odds": 2.665,
-      "market": 0.3398
-     },
-     "X": {
-      "model": 0.286,
-      "odds": 2.89,
-      "market": 0.3133
-     },
-     "2": {
-      "model": 0.3707,
-      "odds": 2.61,
-      "market": 0.3469
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.4434,
-      "odds": 2.39,
-      "market": 0.3887
-     },
-     "ALT": {
-      "model": 0.5566,
-      "odds": 1.52,
-      "market": 0.6113
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5051,
-      "odds": 1.99,
-      "market": 0.4658
-     },
-     "YOK": {
-      "model": 0.4949,
-      "odds": 1.735,
-      "market": 0.5342
-     }
-    }
-   }
-  },
   {
    "id": "af_1584375",
    "fixture_id": 1584375,
@@ -200,7 +17,7 @@
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
    "odds": 1.84,
-   "confidence_score": 0.641,
+   "confidence_score": 0.552,
    "model_prob": 0.641,
    "market_prob": 0.515,
    "odds_source": "market",
@@ -258,29 +75,29 @@
    "home_team": "Batman Petrolspor",
    "away_team": "Boluspor",
    "kickoff": "2026-08-17T18:30:00+00:00",
-   "market_type": "KG_VAR_YOK",
-   "selection": "VAR",
-   "odds": 1.81,
-   "confidence_score": 0.62,
-   "model_prob": 0.62,
-   "market_prob": 0.505,
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.66,
+   "confidence_score": 0.575,
+   "model_prob": 0.613,
+   "market_prob": 0.559,
    "odds_source": "market",
    "bookmakers": 8,
    "data_reliability": "medium",
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.5007,
+      "model": 0.5017,
       "odds": 1.425,
       "market": 0.6423
      },
      "X": {
-      "model": 0.2365,
+      "model": 0.2364,
       "odds": 4.1,
       "market": 0.2232
      },
      "2": {
-      "model": 0.2628,
+      "model": 0.2619,
       "odds": 6.805,
       "market": 0.1345
      }
@@ -299,12 +116,12 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.6202,
+      "model": 0.6199,
       "odds": 1.81,
       "market": 0.5055
      },
      "YOK": {
-      "model": 0.3798,
+      "model": 0.3801,
       "odds": 1.85,
       "market": 0.4945
      }
@@ -322,7 +139,7 @@
    "market_type": "1X2",
    "selection": "1",
    "odds": 2.32,
-   "confidence_score": 0.597,
+   "confidence_score": 0.464,
    "model_prob": 0.597,
    "market_prob": 0.407,
    "odds_source": "market",
