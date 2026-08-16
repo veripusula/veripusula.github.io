@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T21:51:14Z",
+ "generated_at": "2026-08-16T03:43:21Z",
  "days": 14,
  "results": {
   "af_1584374": {
@@ -118,6 +118,19 @@
    "selection": "VAR",
    "odds": 1.82,
    "hit": true
+  },
+  "af_1570341": {
+   "home_team": "Sevilla",
+   "away_team": "Rayo Vallecano",
+   "kickoff": "2026-08-15T19:30:00+00:00",
+   "competition": "La Liga",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.62,
+   "hit": false
   }
  }
 }
