@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-16T12:45:07Z",
- "days": 14,
+ "generated_at": "2026-08-16T18:27:22Z",
+ "days": 30,
  "results": {
   "af_1584374": {
    "home_team": "Konyaspor",
@@ -131,6 +131,19 @@
    "selection": "ALT",
    "odds": 1.62,
    "hit": false
+  },
+  "af_1570339": {
+   "home_team": "Racing Santander",
+   "away_team": "Villarreal",
+   "kickoff": "2026-08-16T15:00:00+00:00",
+   "competition": "La Liga",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.62,
+   "hit": true
   }
  }
 }
