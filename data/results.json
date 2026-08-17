@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T20:30:07Z",
+ "generated_at": "2026-08-17T03:44:18Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -195,6 +195,45 @@
    "market_type": "KG_VAR_YOK",
    "selection": "VAR",
    "odds": 1.91,
+   "hit": false
+  },
+  "af_1584369": {
+   "home_team": "Beşiktaş",
+   "away_team": "Eyüpspor",
+   "kickoff": "2026-08-16T18:30:00+00:00",
+   "competition": "Süper Lig",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.78,
+   "hit": false
+  },
+  "af_1585707": {
+   "home_team": "Mardin 1969",
+   "away_team": "Antalyaspor",
+   "kickoff": "2026-08-16T18:30:00+00:00",
+   "competition": "1. Lig",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.59,
+   "hit": false
+  },
+  "af_1585708": {
+   "home_team": "Muğlaspor",
+   "away_team": "Bandırmaspor",
+   "kickoff": "2026-08-16T18:30:00+00:00",
+   "competition": "1. Lig",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.76,
    "hit": false
   }
  }

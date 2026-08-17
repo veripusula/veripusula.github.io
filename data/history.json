@@ -2385,18 +2385,18 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-08-16T20:30:07Z",
+  "generated_at": "2026-08-17T03:44:18Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
-   "n": 15,
+   "n": 18,
    "hits": 10,
-   "hit_rate": 66.7
+   "hit_rate": 55.6
   },
   "last30": {
-   "n": 15,
+   "n": 18,
    "hits": 10,
-   "hit_rate": 66.7
+   "hit_rate": 55.6
   },
   "by_market": {
    "1X2": {
@@ -2412,13 +2412,18 @@
     "label": "Üst/Alt 2.5"
    },
    "KG_VAR_YOK": {
-    "n": 9,
+    "n": 12,
     "hits": 6,
-    "hit_rate": 66.7,
+    "hit_rate": 50.0,
     "label": "KG Var/Yok"
    }
   },
-  "best_market": null,
+  "best_market": {
+   "market": "KG_VAR_YOK",
+   "label": "KG Var/Yok",
+   "hit_rate": 50.0,
+   "n": 12
+  },
   "logged_total": 21
  }
 }
