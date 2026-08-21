@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T12:55:44Z",
+ "generated_at": "2026-08-21T20:47:00Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -375,6 +375,23 @@
    "confidence": 0.612,
    "model_prob": 0.535,
    "market_prob": 0.645
+  },
+  "af_1493077": {
+   "has_details": true,
+   "home_team": "Aldosivi",
+   "away_team": "Union Santa Fe",
+   "kickoff": "2026-08-21T17:30:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.46,
+   "hit": false,
+   "confidence": 0.648,
+   "model_prob": 0.659,
+   "market_prob": 0.643
   }
  }
 }
