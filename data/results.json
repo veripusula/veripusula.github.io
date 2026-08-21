@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T20:53:33Z",
+ "generated_at": "2026-08-21T03:46:50Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -358,6 +358,23 @@
    "confidence": 0.597,
    "model_prob": 0.597,
    "market_prob": 0.404
+  },
+  "af_1570351": {
+   "has_details": true,
+   "home_team": "Rayo Vallecano",
+   "away_team": "Alaves",
+   "kickoff": "2026-08-20T19:00:00+00:00",
+   "competition": "La Liga",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.45,
+   "hit": true,
+   "confidence": 0.612,
+   "model_prob": 0.535,
+   "market_prob": 0.645
   }
  }
 }
