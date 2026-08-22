@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T03:38:16Z",
+ "generated_at": "2026-08-22T12:46:31Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -545,6 +545,40 @@
    "confidence": 0.58,
    "model_prob": 0.576,
    "market_prob": 0.582
+  },
+  "af_1550931": {
+   "has_details": true,
+   "home_team": "FC Juarez",
+   "away_team": "Club America",
+   "kickoff": "2026-08-22T03:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "2",
+   "odds": 1.79,
+   "hit": true,
+   "confidence": 0.512,
+   "model_prob": 0.493,
+   "market_prob": 0.52
+  },
+  "af_1550933": {
+   "has_details": true,
+   "home_team": "Club Queretaro",
+   "away_team": "Toluca",
+   "kickoff": "2026-08-22T03:10:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.57,
+   "hit": true,
+   "confidence": 0.578,
+   "model_prob": 0.529,
+   "market_prob": 0.599
   }
  }
 }
