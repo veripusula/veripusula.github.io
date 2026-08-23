@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T03:46:43Z",
+ "generated_at": "2026-08-23T12:46:53Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -530,7 +530,7 @@
    "market_prob": 0.642
   },
   "af_1550934": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Leon",
    "away_team": "Monterrey",
    "kickoff": "2026-08-22T01:00:00+00:00",
@@ -1448,7 +1448,7 @@
    "market_prob": 0.528
   },
   "af_1490410": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Orlando City SC",
    "away_team": "Real Salt Lake",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1465,7 +1465,7 @@
    "market_prob": 0.679
   },
   "af_1490409": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "New York Red Bulls",
    "away_team": "Chicago Fire",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1482,7 +1482,7 @@
    "market_prob": 0.685
   },
   "af_1490408": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "CF Montreal",
    "away_team": "Los Angeles Galaxy",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1499,7 +1499,7 @@
    "market_prob": 0.615
   },
   "af_1490407": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "FC Cincinnati",
    "away_team": "Seattle Sounders",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1516,7 +1516,7 @@
    "market_prob": 0.681
   },
   "af_1490406": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Inter Miami",
    "away_team": "Toronto FC",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1533,7 +1533,7 @@
    "market_prob": 0.713
   },
   "af_1490411": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Charlotte",
    "away_team": "DC United",
    "kickoff": "2026-08-22T23:30:00+00:00",
@@ -1584,7 +1584,7 @@
    "market_prob": 0.603
   },
   "af_1490412": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Nashville SC",
    "away_team": "Columbus Crew",
    "kickoff": "2026-08-23T00:30:00+00:00",
@@ -1601,7 +1601,7 @@
    "market_prob": 0.575
   },
   "af_1490413": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Austin",
    "away_team": "Philadelphia Union",
    "kickoff": "2026-08-23T00:30:00+00:00",
@@ -1618,7 +1618,7 @@
    "market_prob": 0.57
   },
   "af_1490414": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "St. Louis City",
    "away_team": "Houston Dynamo",
    "kickoff": "2026-08-23T00:30:00+00:00",
@@ -1635,7 +1635,7 @@
    "market_prob": 0.429
   },
   "af_1550930": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Puebla",
    "away_team": "Santos Laguna",
    "kickoff": "2026-08-23T01:00:00+00:00",
@@ -1650,6 +1650,108 @@
    "confidence": 0.6,
    "model_prob": 0.644,
    "market_prob": 0.581
+  },
+  "af_1490415": {
+   "has_details": true,
+   "home_team": "Vancouver Whitecaps",
+   "away_team": "FC Dallas",
+   "kickoff": "2026-08-23T01:30:00+00:00",
+   "competition": "MLS",
+   "home": 5,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.48,
+   "hit": true,
+   "confidence": 0.616,
+   "model_prob": 0.579,
+   "market_prob": 0.632
+  },
+  "af_1490418": {
+   "has_details": true,
+   "home_team": "San Jose Earthquakes",
+   "away_team": "Minnesota United FC",
+   "kickoff": "2026-08-23T02:30:00+00:00",
+   "competition": "MLS",
+   "home": 1,
+   "away": 5,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.49,
+   "hit": true,
+   "confidence": 0.65,
+   "model_prob": 0.699,
+   "market_prob": 0.628
+  },
+  "af_1490416": {
+   "has_details": true,
+   "home_team": "Los Angeles FC",
+   "away_team": "Portland Timbers",
+   "kickoff": "2026-08-23T02:30:00+00:00",
+   "competition": "MLS",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.38,
+   "hit": false,
+   "confidence": 0.647,
+   "model_prob": 0.576,
+   "market_prob": 0.678
+  },
+  "af_1490417": {
+   "has_details": true,
+   "home_team": "San Diego",
+   "away_team": "Colorado Rapids",
+   "kickoff": "2026-08-23T02:30:00+00:00",
+   "competition": "MLS",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 2.45,
+   "hit": false,
+   "confidence": 0.423,
+   "model_prob": 0.514,
+   "market_prob": 0.384
+  },
+  "af_1550935": {
+   "has_details": true,
+   "home_team": "Cruz Azul",
+   "away_team": "Atlas",
+   "kickoff": "2026-08-23T03:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 0,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.48,
+   "hit": false,
+   "confidence": 0.598,
+   "model_prob": 0.539,
+   "market_prob": 0.624
+  },
+  "af_1552139": {
+   "has_details": true,
+   "home_team": "GO Ahead Eagles",
+   "away_team": "ADO Den Haag",
+   "kickoff": "2026-08-23T10:15:00+00:00",
+   "competition": "Eredivisie",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.53,
+   "hit": true,
+   "confidence": 0.62,
+   "model_prob": 0.641,
+   "market_prob": 0.611
   }
  }
 }
