@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T12:56:40Z",
+ "generated_at": "2026-08-24T20:54:16Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -513,7 +513,7 @@
    "market_prob": 0.695
   },
   "af_1550936": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Tigres UANL",
    "away_team": "Atlante FC",
    "kickoff": "2026-08-22T01:00:00+00:00",
@@ -1414,7 +1414,7 @@
    "market_prob": 0.599
   },
   "af_1550932": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Guadalajara Chivas",
    "away_team": "Club Tijuana",
    "kickoff": "2026-08-22T23:07:00+00:00",
@@ -2500,6 +2500,40 @@
    "confidence": 0.54,
    "model_prob": 0.549,
    "market_prob": 0.536
+  },
+  "af_1550089": {
+   "has_details": true,
+   "home_team": "Bologna",
+   "away_team": "Lazio",
+   "kickoff": "2026-08-24T16:30:00+00:00",
+   "competition": "Serie A",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": true,
+   "confidence": 0.583,
+   "model_prob": 0.618,
+   "market_prob": 0.568
+  },
+  "af_1570350": {
+   "has_details": true,
+   "home_team": "Osasuna",
+   "away_team": "Levante",
+   "kickoff": "2026-08-24T17:30:00+00:00",
+   "competition": "La Liga",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.81,
+   "hit": false,
+   "confidence": 0.519,
+   "model_prob": 0.506,
+   "market_prob": 0.525
   }
  }
 }
