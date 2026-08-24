@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T03:49:57Z",
+ "generated_at": "2026-08-24T12:56:40Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -955,7 +955,7 @@
    "market_prob": 0.405
   },
   "af_1585717": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Ümraniyespor",
    "away_team": "Esenler Erokspor",
    "kickoff": "2026-08-22T16:00:00+00:00",
@@ -972,7 +972,7 @@
    "market_prob": 0.46
   },
   "af_1585713": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Iğdır FK",
    "away_team": "Kayserispor",
    "kickoff": "2026-08-22T16:00:00+00:00",
@@ -1125,7 +1125,7 @@
    "market_prob": 0.73
   },
   "af_1585709": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Antalyaspor",
    "away_team": "Pendikspor",
    "kickoff": "2026-08-22T18:30:00+00:00",
@@ -1142,7 +1142,7 @@
    "market_prob": null
   },
   "af_1585711": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Bodrum FK",
    "away_team": "Muğlaspor",
    "kickoff": "2026-08-22T18:30:00+00:00",
@@ -1380,7 +1380,7 @@
    "market_prob": 0.777
   },
   "af_1492346": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Internacional",
    "away_team": "Atletico-MG",
    "kickoff": "2026-08-22T21:30:00+00:00",
@@ -1397,7 +1397,7 @@
    "market_prob": 0.524
   },
   "af_1493084": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Independiente",
    "away_team": "Independ. Rivadavia",
    "kickoff": "2026-08-22T21:30:00+00:00",
@@ -1431,7 +1431,7 @@
    "market_prob": 0.639
   },
   "af_1492344": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Cruzeiro",
    "away_team": "Flamengo",
    "kickoff": "2026-08-22T23:30:00+00:00",
