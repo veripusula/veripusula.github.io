@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T03:43:21Z",
+ "generated_at": "2026-08-25T12:53:19Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -1839,7 +1839,7 @@
    "market_prob": 0.556
   },
   "af_1585710": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Bandırmaspor",
    "away_team": "Keçiörengücü",
    "kickoff": "2026-08-23T14:00:00+00:00",
@@ -1992,7 +1992,7 @@
    "market_prob": 0.558
   },
   "af_1585712": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Boluspor",
    "away_team": "Mardin 1969",
    "kickoff": "2026-08-23T16:00:00+00:00",
@@ -2162,7 +2162,7 @@
    "market_prob": 0.49
   },
   "af_1585715": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Sarıyer",
    "away_team": "Batman Petrolspor",
    "kickoff": "2026-08-23T18:30:00+00:00",
@@ -2179,7 +2179,7 @@
    "market_prob": null
   },
   "af_1585718": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Vanspor FK",
    "away_team": "İstanbulspor",
    "kickoff": "2026-08-23T18:30:00+00:00",
