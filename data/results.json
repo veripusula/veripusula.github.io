@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T20:51:57Z",
+ "generated_at": "2026-08-25T22:56:15Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -2704,6 +2704,23 @@
    "confidence": 0.594,
    "model_prob": 0.594,
    "market_prob": null
+  },
+  "af_1570342": {
+   "has_details": true,
+   "home_team": "Valencia",
+   "away_team": "Real Betis",
+   "kickoff": "2026-08-25T19:00:00+00:00",
+   "competition": "La Liga",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": true,
+   "confidence": 0.532,
+   "model_prob": 0.561,
+   "market_prob": 0.52
   }
  }
 }
