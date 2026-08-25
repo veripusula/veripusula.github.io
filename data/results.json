@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T12:53:19Z",
+ "generated_at": "2026-08-25T20:51:57Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -2553,7 +2553,7 @@
    "market_prob": 0.551
   },
   "af_1585716": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Sivasspor",
    "away_team": "Manisa F.K.",
    "kickoff": "2026-08-24T18:30:00+00:00",
