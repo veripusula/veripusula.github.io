@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T22:54:07Z",
+ "generated_at": "2026-08-25T03:43:21Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -2636,6 +2636,74 @@
    "confidence": 0.483,
    "model_prob": 0.552,
    "market_prob": 0.453
+  },
+  "af_1493091": {
+   "has_details": true,
+   "home_team": "Tigre",
+   "away_team": "Central Cordoba de Santiago",
+   "kickoff": "2026-08-24T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.57,
+   "hit": true,
+   "confidence": 0.603,
+   "model_prob": 0.611,
+   "market_prob": 0.599
+  },
+  "af_1492340": {
+   "has_details": true,
+   "home_team": "Botafogo",
+   "away_team": "Atletico Paranaense",
+   "kickoff": "2026-08-24T23:00:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.79,
+   "hit": false,
+   "confidence": 0.537,
+   "model_prob": 0.56,
+   "market_prob": 0.528
+  },
+  "af_1493085": {
+   "has_details": true,
+   "home_team": "Lanus",
+   "away_team": "Argentinos JRS",
+   "kickoff": "2026-08-25T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.44,
+   "hit": true,
+   "confidence": 0.653,
+   "model_prob": 0.656,
+   "market_prob": 0.652
+  },
+  "af_1493090": {
+   "has_details": true,
+   "home_team": "Talleres Cordoba",
+   "away_team": "Rosario Central",
+   "kickoff": "2026-08-25T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.59,
+   "hit": false,
+   "confidence": 0.594,
+   "model_prob": 0.594,
+   "market_prob": null
   }
  }
 }
