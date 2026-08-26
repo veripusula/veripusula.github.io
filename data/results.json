@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T12:58:50Z",
+ "generated_at": "2026-08-26T23:48:49Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -2721,6 +2721,23 @@
    "confidence": 0.532,
    "model_prob": 0.561,
    "market_prob": 0.52
+  },
+  "af_1570340": {
+   "has_details": true,
+   "home_team": "Real Madrid",
+   "away_team": "Real Sociedad",
+   "kickoff": "2026-08-26T19:00:00+00:00",
+   "competition": "La Liga",
+   "home": 4,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.29,
+   "hit": true,
+   "confidence": 0.679,
+   "model_prob": 0.689,
+   "market_prob": 0.675
   }
  }
 }
