@@ -2385,24 +2385,24 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-08-27T13:39:02Z",
+  "generated_at": "2026-08-27T22:02:29Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
-   "n": 81,
-   "hits": 41,
+   "n": 83,
+   "hits": 42,
    "hit_rate": 50.6
   },
   "last30": {
-   "n": 81,
-   "hits": 41,
+   "n": 83,
+   "hits": 42,
    "hit_rate": 50.6
   },
   "by_market": {
    "1X2": {
-    "n": 26,
-    "hits": 14,
-    "hit_rate": 53.8,
+    "n": 28,
+    "hits": 15,
+    "hit_rate": 53.6,
     "label": "Maç Sonucu"
    },
    "UST_ALT_2_5": {
@@ -2424,7 +2424,7 @@
    "hit_rate": 62.1,
    "n": 29
   },
-  "logged_total": 259,
+  "logged_total": 268,
   "exploratory": {
    "season": {
     "n": 80,

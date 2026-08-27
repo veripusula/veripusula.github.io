@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T13:39:02Z",
+ "generated_at": "2026-08-27T22:02:29Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -2738,6 +2738,40 @@
    "confidence": 0.679,
    "model_prob": 0.689,
    "market_prob": 0.675
+  },
+  "af_1570336": {
+   "has_details": true,
+   "home_team": "Celta Vigo",
+   "away_team": "Osasuna",
+   "kickoff": "2026-08-27T18:30:00+00:00",
+   "competition": "La Liga",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.83,
+   "hit": false,
+   "confidence": 0.479,
+   "model_prob": 0.489,
+   "market_prob": 0.475
+  },
+  "af_1570335": {
+   "has_details": true,
+   "home_team": "Barcelona",
+   "away_team": "Athletic Club",
+   "kickoff": "2026-08-27T19:00:00+00:00",
+   "competition": "La Liga",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.24,
+   "hit": true,
+   "confidence": 0.688,
+   "model_prob": 0.653,
+   "market_prob": 0.703
   }
  }
 }
