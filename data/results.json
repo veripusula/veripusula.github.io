@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T21:57:12Z",
+ "generated_at": "2026-08-29T02:52:48Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -3010,6 +3010,40 @@
    "confidence": 0.684,
    "model_prob": 0.628,
    "market_prob": 0.708
+  },
+  "af_1570353": {
+   "has_details": true,
+   "home_team": "Alaves",
+   "away_team": "Villarreal",
+   "kickoff": "2026-08-28T19:30:00+00:00",
+   "competition": "La Liga",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.83,
+   "hit": true,
+   "confidence": 0.495,
+   "model_prob": 0.54,
+   "market_prob": 0.476
+  },
+  "af_1493106": {
+   "has_details": true,
+   "home_team": "Union Santa Fe",
+   "away_team": "Sarmiento Junin",
+   "kickoff": "2026-08-28T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 4,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.58,
+   "hit": false,
+   "confidence": 0.571,
+   "model_prob": 0.622,
+   "market_prob": 0.55
   }
  }
 }
