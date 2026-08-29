@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T03:50:00Z",
+ "generated_at": "2026-08-29T09:40:58Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -3078,6 +3078,40 @@
    "confidence": 0.469,
    "model_prob": 0.547,
    "market_prob": 0.436
+  },
+  "af_1550939": {
+   "has_details": false,
+   "home_team": "Atlante FC",
+   "away_team": "Leon",
+   "kickoff": "2026-08-29T01:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.91,
+   "hit": true,
+   "confidence": 0.489,
+   "model_prob": 0.565,
+   "market_prob": 0.456
+  },
+  "af_1550941": {
+   "has_details": false,
+   "home_team": "Club Tijuana",
+   "away_team": "U.N.A.M. - Pumas",
+   "kickoff": "2026-08-29T03:10:00+00:00",
+   "competition": "Liga MX",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": true,
+   "confidence": 0.518,
+   "model_prob": 0.514,
+   "market_prob": 0.52
   }
  }
 }
