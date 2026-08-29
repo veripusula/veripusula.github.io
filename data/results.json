@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T02:52:48Z",
+ "generated_at": "2026-08-29T03:50:00Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -3044,6 +3044,40 @@
    "confidence": 0.571,
    "model_prob": 0.622,
    "market_prob": 0.55
+  },
+  "af_1493095": {
+   "has_details": true,
+   "home_team": "Boca Juniors",
+   "away_team": "Lanus",
+   "kickoff": "2026-08-29T00:30:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.39,
+   "hit": true,
+   "confidence": 0.638,
+   "model_prob": 0.667,
+   "market_prob": 0.625
+  },
+  "af_1550940": {
+   "has_details": true,
+   "home_team": "Necaxa",
+   "away_team": "Cruz Azul",
+   "kickoff": "2026-08-29T01:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.99,
+   "hit": false,
+   "confidence": 0.469,
+   "model_prob": 0.547,
+   "market_prob": 0.436
   }
  }
 }
