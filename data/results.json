@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T22:43:22Z",
+ "generated_at": "2026-08-30T00:34:52Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -3996,6 +3996,57 @@
    "confidence": 0.601,
    "model_prob": 0.592,
    "market_prob": 0.604
+  },
+  "af_1490421": {
+   "has_details": true,
+   "home_team": "Seattle Sounders",
+   "away_team": "Chicago Fire",
+   "kickoff": "2026-08-29T20:30:00+00:00",
+   "competition": "MLS",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.42,
+   "hit": true,
+   "confidence": 0.602,
+   "model_prob": 0.579,
+   "market_prob": 0.612
+  },
+  "af_1492351": {
+   "has_details": true,
+   "home_team": "Atletico-MG",
+   "away_team": "Vitoria",
+   "kickoff": "2026-08-29T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.6,
+   "hit": true,
+   "confidence": 0.556,
+   "model_prob": 0.585,
+   "market_prob": 0.544
+  },
+  "af_1493099": {
+   "has_details": true,
+   "home_team": "Huracan",
+   "away_team": "Estudiantes de Rio Cuarto",
+   "kickoff": "2026-08-29T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.5,
+   "hit": false,
+   "confidence": 0.592,
+   "model_prob": 0.621,
+   "market_prob": 0.58
   }
  }
 }
