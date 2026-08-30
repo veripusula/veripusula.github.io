@@ -2385,56 +2385,56 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-08-30T08:51:43Z",
+  "generated_at": "2026-08-30T16:21:07Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
-   "n": 123,
-   "hits": 69,
-   "hit_rate": 56.1
+   "n": 128,
+   "hits": 74,
+   "hit_rate": 57.8
   },
   "last30": {
-   "n": 123,
-   "hits": 69,
-   "hit_rate": 56.1
+   "n": 128,
+   "hits": 74,
+   "hit_rate": 57.8
   },
   "by_market": {
    "1X2": {
-    "n": 42,
-    "hits": 23,
-    "hit_rate": 54.8,
+    "n": 43,
+    "hits": 24,
+    "hit_rate": 55.8,
     "label": "Maç Sonucu"
    },
    "UST_ALT_2_5": {
-    "n": 43,
-    "hits": 28,
-    "hit_rate": 65.1,
+    "n": 46,
+    "hits": 31,
+    "hit_rate": 67.4,
     "label": "Üst/Alt 2.5"
    },
    "KG_VAR_YOK": {
-    "n": 38,
-    "hits": 18,
-    "hit_rate": 47.4,
+    "n": 39,
+    "hits": 19,
+    "hit_rate": 48.7,
     "label": "KG Var/Yok"
    }
   },
   "best_market": {
    "market": "UST_ALT_2_5",
    "label": "Üst/Alt 2.5",
-   "hit_rate": 65.1,
-   "n": 43
+   "hit_rate": 67.4,
+   "n": 46
   },
   "logged_total": 330,
   "exploratory": {
    "season": {
-    "n": 135,
-    "hits": 78,
-    "hit_rate": 57.8
+    "n": 139,
+    "hits": 81,
+    "hit_rate": 58.3
    },
    "last30": {
-    "n": 135,
-    "hits": 78,
-    "hit_rate": 57.8
+    "n": 139,
+    "hits": 81,
+    "hit_rate": 58.3
    }
   }
  }
