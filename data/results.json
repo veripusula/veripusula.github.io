@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T22:50:56Z",
+ "generated_at": "2026-08-31T00:46:37Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5033,6 +5033,57 @@
    "confidence": 0.674,
    "model_prob": 0.684,
    "market_prob": 0.669
+  },
+  "af_1492355": {
+   "has_details": true,
+   "home_team": "Gremio",
+   "away_team": "Chapecoense-sc",
+   "kickoff": "2026-08-30T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.43,
+   "hit": true,
+   "confidence": 0.601,
+   "model_prob": 0.587,
+   "market_prob": 0.608
+  },
+  "af_1492356": {
+   "has_details": true,
+   "home_team": "Mirassol",
+   "away_team": "Palmeiras",
+   "kickoff": "2026-08-30T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.62,
+   "hit": true,
+   "confidence": 0.568,
+   "model_prob": 0.64,
+   "market_prob": 0.537
+  },
+  "af_1493100": {
+   "has_details": true,
+   "home_team": "Independiente",
+   "away_team": "Gimnasia M.",
+   "kickoff": "2026-08-30T22:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 3,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.5,
+   "hit": false,
+   "confidence": 0.574,
+   "model_prob": 0.558,
+   "market_prob": 0.58
   }
  }
 }
