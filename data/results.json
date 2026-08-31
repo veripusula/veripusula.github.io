@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T00:46:37Z",
+ "generated_at": "2026-08-31T09:14:18Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5084,6 +5084,91 @@
    "confidence": 0.574,
    "model_prob": 0.558,
    "market_prob": 0.58
+  },
+  "af_1492352": {
+   "has_details": true,
+   "home_team": "Bahia",
+   "away_team": "Internacional",
+   "kickoff": "2026-08-30T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 3,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.76,
+   "hit": true,
+   "confidence": 0.497,
+   "model_prob": 0.503,
+   "market_prob": 0.494
+  },
+  "af_1490435": {
+   "has_details": true,
+   "home_team": "St. Louis City",
+   "away_team": "FC Dallas",
+   "kickoff": "2026-08-30T23:00:00+00:00",
+   "competition": "MLS",
+   "home": 3,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 2.19,
+   "hit": false,
+   "confidence": 0.438,
+   "model_prob": 0.533,
+   "market_prob": 0.397
+  },
+  "af_1550946": {
+   "has_details": false,
+   "home_team": "Toluca",
+   "away_team": "FC Juarez",
+   "kickoff": "2026-08-31T00:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 4,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.17,
+   "hit": true,
+   "confidence": 0.724,
+   "model_prob": 0.679,
+   "market_prob": 0.743
+  },
+  "af_1493101": {
+   "has_details": true,
+   "home_team": "Independ. Rivadavia",
+   "away_team": "Racing Club",
+   "kickoff": "2026-08-31T00:30:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 2.04,
+   "hit": true,
+   "confidence": 0.464,
+   "model_prob": 0.552,
+   "market_prob": 0.426
+  },
+  "af_1550947": {
+   "has_details": true,
+   "home_team": "Monterrey",
+   "away_team": "Atletico San Luis",
+   "kickoff": "2026-08-31T02:10:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 3,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.37,
+   "hit": false,
+   "confidence": 0.61,
+   "model_prob": 0.55,
+   "market_prob": 0.636
   }
  }
 }
