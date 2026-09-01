@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T01:21:37Z",
+ "generated_at": "2026-09-01T08:13:24Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5356,6 +5356,57 @@
    "confidence": 0.558,
    "model_prob": 0.574,
    "market_prob": 0.551
+  },
+  "af_1492357": {
+   "has_details": true,
+   "home_team": "Remo",
+   "away_team": "Coritiba",
+   "kickoff": "2026-08-31T23:00:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.62,
+   "hit": false,
+   "confidence": 0.556,
+   "model_prob": 0.601,
+   "market_prob": 0.537
+  },
+  "af_1493105": {
+   "has_details": true,
+   "home_team": "Tigre",
+   "away_team": "Barracas Central",
+   "kickoff": "2026-09-01T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.28,
+   "hit": true,
+   "confidence": 0.68,
+   "model_prob": 0.677,
+   "market_prob": 0.681
+  },
+  "af_1493102": {
+   "has_details": true,
+   "home_team": "Instituto Cordoba",
+   "away_team": "San Lorenzo",
+   "kickoff": "2026-09-01T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.32,
+   "hit": true,
+   "confidence": 0.69,
+   "model_prob": 0.761,
+   "market_prob": 0.66
   }
  }
 }
