@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T08:13:24Z",
+ "generated_at": "2026-09-01T16:18:25Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5407,6 +5407,23 @@
    "confidence": 0.69,
    "model_prob": 0.761,
    "market_prob": 0.66
+  },
+  "af_1585729": {
+   "has_details": false,
+   "home_team": "Bandırmaspor",
+   "away_team": "Antalyaspor",
+   "kickoff": "2026-09-01T13:00:00+00:00",
+   "competition": "TFF 1. Lig",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 2.59,
+   "hit": false,
+   "confidence": 0.403,
+   "model_prob": 0.558,
+   "market_prob": 0.336
   }
  }
 }
