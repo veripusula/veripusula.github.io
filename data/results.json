@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T23:56:34Z",
+ "generated_at": "2026-09-01T01:21:37Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5322,6 +5322,40 @@
    "confidence": 0.777,
    "model_prob": 0.696,
    "market_prob": 0.811
+  },
+  "af_1493096": {
+   "has_details": true,
+   "home_team": "Defensa Y Justicia",
+   "away_team": "Platense",
+   "kickoff": "2026-08-31T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.33,
+   "hit": true,
+   "confidence": 0.652,
+   "model_prob": 0.651,
+   "market_prob": 0.652
+  },
+  "af_1493098": {
+   "has_details": true,
+   "home_team": "Estudiantes L.P.",
+   "away_team": "Newells Old Boys",
+   "kickoff": "2026-08-31T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.58,
+   "hit": false,
+   "confidence": 0.558,
+   "model_prob": 0.574,
+   "market_prob": 0.551
   }
  }
 }
