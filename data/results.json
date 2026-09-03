@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T07:40:51Z",
+ "generated_at": "2026-09-03T16:06:54Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5681,7 +5681,7 @@
    "market_prob": null
   },
   "af_1563128": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Millwall",
    "away_team": "Wrexham",
    "kickoff": "2026-09-02T18:45:00+00:00",
@@ -5698,7 +5698,7 @@
    "market_prob": 0.444
   },
   "af_1563130": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "West Brom",
    "away_team": "Charlton",
    "kickoff": "2026-09-02T18:45:00+00:00",
@@ -5715,7 +5715,7 @@
    "market_prob": 0.538
   },
   "af_1563129": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "QPR",
    "away_team": "Cardiff",
    "kickoff": "2026-09-02T18:45:00+00:00",
@@ -5732,7 +5732,7 @@
    "market_prob": 0.489
   },
   "af_1563127": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Burnley",
    "away_team": "Middlesbrough",
    "kickoff": "2026-09-02T19:00:00+00:00",
