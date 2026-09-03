@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T00:31:45Z",
+ "generated_at": "2026-09-03T07:40:51Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5747,6 +5747,23 @@
    "confidence": 0.383,
    "model_prob": 0.456,
    "market_prob": 0.351
+  },
+  "af_1492145": {
+   "has_details": true,
+   "home_team": "Flamengo",
+   "away_team": "Mirassol",
+   "kickoff": "2026-09-02T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.18,
+   "hit": true,
+   "confidence": 0.69,
+   "model_prob": 0.579,
+   "market_prob": 0.738
   }
  }
 }
