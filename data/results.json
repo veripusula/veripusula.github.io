@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T07:20:33Z",
+ "generated_at": "2026-09-05T14:52:15Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -6138,6 +6138,74 @@
    "confidence": 0.463,
    "model_prob": 0.526,
    "market_prob": 0.436
+  },
+  "af_1557395": {
+   "has_details": true,
+   "home_team": "Newcastle",
+   "away_team": "Bournemouth",
+   "kickoff": "2026-09-05T11:30:00+00:00",
+   "competition": "Premier League",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.45,
+   "hit": true,
+   "confidence": 0.648,
+   "model_prob": 0.757,
+   "market_prob": 0.601
+  },
+  "af_1563136": {
+   "has_details": true,
+   "home_team": "Preston",
+   "away_team": "Blackburn",
+   "kickoff": "2026-09-05T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.59,
+   "hit": false,
+   "confidence": 0.546,
+   "model_prob": 0.544,
+   "market_prob": 0.547
+  },
+  "af_1563139": {
+   "has_details": true,
+   "home_team": "Stoke City",
+   "away_team": "Charlton",
+   "kickoff": "2026-09-05T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 4,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.53,
+   "hit": false,
+   "confidence": 0.576,
+   "model_prob": 0.592,
+   "market_prob": 0.569
+  },
+  "af_1563133": {
+   "has_details": true,
+   "home_team": "Lincoln",
+   "away_team": "Southampton",
+   "kickoff": "2026-09-05T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.53,
+   "hit": true,
+   "confidence": 0.567,
+   "model_prob": 0.561,
+   "market_prob": 0.569
   }
  }
 }
