@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T00:18:10Z",
+ "generated_at": "2026-09-05T07:20:33Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -5120,7 +5120,7 @@
    "market_prob": 0.397
   },
   "af_1550946": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Toluca",
    "away_team": "FC Juarez",
    "kickoff": "2026-08-31T00:00:00+00:00",
@@ -6070,6 +6070,74 @@
    "confidence": 0.674,
    "model_prob": 0.7,
    "market_prob": 0.663
+  },
+  "af_1493109": {
+   "has_details": true,
+   "home_team": "Belgrano Cordoba",
+   "away_team": "Huracan",
+   "kickoff": "2026-09-04T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.28,
+   "hit": true,
+   "confidence": 0.682,
+   "model_prob": 0.694,
+   "market_prob": 0.678
+  },
+  "af_1493115": {
+   "has_details": true,
+   "home_team": "Platense",
+   "away_team": "Deportivo Riestra",
+   "kickoff": "2026-09-04T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.21,
+   "hit": true,
+   "confidence": 0.746,
+   "model_prob": 0.811,
+   "market_prob": 0.719
+  },
+  "af_1490436": {
+   "has_details": true,
+   "home_team": "New York City FC",
+   "away_team": "Nashville SC",
+   "kickoff": "2026-09-04T23:30:00+00:00",
+   "competition": "MLS",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.84,
+   "hit": true,
+   "confidence": 0.494,
+   "model_prob": 0.543,
+   "market_prob": 0.473
+  },
+  "af_1550949": {
+   "has_details": true,
+   "home_team": "FC Juarez",
+   "away_team": "CF Pachuca",
+   "kickoff": "2026-09-05T03:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 0,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.99,
+   "hit": true,
+   "confidence": 0.463,
+   "model_prob": 0.526,
+   "market_prob": 0.436
   }
  }
 }
