@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T22:07:58Z",
+ "generated_at": "2026-09-06T00:08:37Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -7039,6 +7039,23 @@
    "confidence": 0.764,
    "model_prob": 0.707,
    "market_prob": 0.789
+  },
+  "af_1492368": {
+   "has_details": true,
+   "home_team": "Sao Paulo",
+   "away_team": "Atletico-MG",
+   "kickoff": "2026-09-05T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.52,
+   "hit": true,
+   "confidence": 0.568,
+   "model_prob": 0.561,
+   "market_prob": 0.572
   }
  }
 }
