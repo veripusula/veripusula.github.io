@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T07:48:52Z",
+ "generated_at": "2026-09-07T17:33:37Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8178,6 +8178,40 @@
    "confidence": 0.635,
    "model_prob": 0.544,
    "market_prob": 0.674
+  },
+  "af_1585743": {
+   "has_details": true,
+   "home_team": "İstanbulspor",
+   "away_team": "Iğdır FK",
+   "kickoff": "2026-09-07T14:00:00+00:00",
+   "competition": "TFF 1. Lig",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.53,
+   "hit": true,
+   "confidence": 0.563,
+   "model_prob": 0.55,
+   "market_prob": 0.569
+  },
+  "af_1585742": {
+   "has_details": true,
+   "home_team": "Esenler Erokspor",
+   "away_team": "Kayserispor",
+   "kickoff": "2026-09-07T14:00:00+00:00",
+   "competition": "TFF 1. Lig",
+   "home": 0,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.86,
+   "hit": false,
+   "confidence": 0.497,
+   "model_prob": 0.564,
+   "market_prob": 0.469
   }
  }
 }
