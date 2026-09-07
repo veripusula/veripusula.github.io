@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T22:10:58Z",
+ "generated_at": "2026-09-07T00:12:25Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8059,6 +8059,57 @@
    "confidence": 0.517,
    "model_prob": 0.537,
    "market_prob": 0.508
+  },
+  "af_1493114": {
+   "has_details": true,
+   "home_team": "Lanus",
+   "away_team": "Defensa Y Justicia",
+   "kickoff": "2026-09-06T20:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.43,
+   "hit": true,
+   "confidence": 0.601,
+   "model_prob": 0.586,
+   "market_prob": 0.607
+  },
+  "af_1493110": {
+   "has_details": true,
+   "home_team": "Central Cordoba de Santiago",
+   "away_team": "Independiente",
+   "kickoff": "2026-09-06T20:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.36,
+   "hit": true,
+   "confidence": 0.62,
+   "model_prob": 0.572,
+   "market_prob": 0.64
+  },
+  "af_1492360": {
+   "has_details": true,
+   "home_team": "Botafogo",
+   "away_team": "Palmeiras",
+   "kickoff": "2026-09-06T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.66,
+   "hit": true,
+   "confidence": 0.543,
+   "model_prob": 0.587,
+   "market_prob": 0.524
   }
  }
 }
