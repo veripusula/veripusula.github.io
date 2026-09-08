@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T22:53:55Z",
+ "generated_at": "2026-09-08T00:36:38Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8365,6 +8365,23 @@
    "confidence": 0.553,
    "model_prob": 0.613,
    "market_prob": 0.527
+  },
+  "af_1493108": {
+   "has_details": true,
+   "home_team": "Barracas Central",
+   "away_team": "Argentinos JRS",
+   "kickoff": "2026-09-07T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.27,
+   "hit": true,
+   "confidence": 0.663,
+   "model_prob": 0.609,
+   "market_prob": 0.686
   }
  }
 }
