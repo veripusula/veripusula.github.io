@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T07:44:00Z",
+ "generated_at": "2026-09-08T16:18:29Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -6733,6 +6733,23 @@
    "confidence": 0.667,
    "model_prob": 0.734,
    "market_prob": 0.638
+  },
+  "af_1552155": {
+   "has_details": true,
+   "home_team": "Utrecht",
+   "away_team": "GO Ahead Eagles",
+   "kickoff": "2026-09-05T16:45:00+00:00",
+   "competition": "Eredivisie",
+   "home": 3,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.42,
+   "hit": true,
+   "confidence": 0.61,
+   "model_prob": 0.604,
+   "market_prob": 0.612
   },
   "af_1584397": {
    "has_details": true,
