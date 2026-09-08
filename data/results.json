@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T00:36:38Z",
+ "generated_at": "2026-09-08T07:44:00Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8382,6 +8382,40 @@
    "confidence": 0.663,
    "model_prob": 0.609,
    "market_prob": 0.686
+  },
+  "af_1492369": {
+   "has_details": true,
+   "home_team": "Vitoria",
+   "away_team": "Gremio",
+   "kickoff": "2026-09-07T23:00:00+00:00",
+   "competition": "Brasileirão",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.57,
+   "hit": true,
+   "confidence": 0.564,
+   "model_prob": 0.589,
+   "market_prob": 0.554
+  },
+  "af_1493120": {
+   "has_details": true,
+   "home_team": "Union Santa Fe",
+   "away_team": "Instituto Cordoba",
+   "kickoff": "2026-09-08T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 3,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.42,
+   "hit": false,
+   "confidence": 0.635,
+   "model_prob": 0.689,
+   "market_prob": 0.612
   }
  }
 }
