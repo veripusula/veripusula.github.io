@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T16:14:26Z",
+ "generated_at": "2026-09-09T22:39:11Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8552,6 +8552,91 @@
    "confidence": 0.455,
    "model_prob": 0.514,
    "market_prob": 0.429
+  },
+  "af_1552142": {
+   "has_details": true,
+   "home_team": "Twente",
+   "away_team": "Telstar",
+   "kickoff": "2026-09-09T16:45:00+00:00",
+   "competition": "Eredivisie",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.16,
+   "hit": true,
+   "confidence": 0.72,
+   "model_prob": 0.652,
+   "market_prob": 0.749
+  },
+  "af_1563152": {
+   "has_details": true,
+   "home_team": "Derby",
+   "away_team": "West Brom",
+   "kickoff": "2026-09-09T18:45:00+00:00",
+   "competition": "Championship",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.72,
+   "hit": true,
+   "confidence": 0.513,
+   "model_prob": 0.53,
+   "market_prob": 0.506
+  },
+  "af_1563153": {
+   "has_details": true,
+   "home_team": "Norwich",
+   "away_team": "Birmingham",
+   "kickoff": "2026-09-09T18:45:00+00:00",
+   "competition": "Championship",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.82,
+   "hit": false,
+   "confidence": 0.498,
+   "model_prob": 0.544,
+   "market_prob": 0.479
+  },
+  "af_1563151": {
+   "has_details": true,
+   "home_team": "Charlton",
+   "away_team": "QPR",
+   "kickoff": "2026-09-09T19:00:00+00:00",
+   "competition": "Championship",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.7,
+   "hit": true,
+   "confidence": 0.539,
+   "model_prob": 0.602,
+   "market_prob": 0.511
+  },
+  "af_1575469": {
+   "has_details": true,
+   "home_team": "Moreirense",
+   "away_team": "Benfica",
+   "kickoff": "2026-09-09T19:45:00+00:00",
+   "competition": "Primeira Liga",
+   "home": 0,
+   "away": 4,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "2",
+   "odds": 1.07,
+   "hit": true,
+   "confidence": 0.767,
+   "model_prob": 0.656,
+   "market_prob": 0.814
   }
  }
 }
