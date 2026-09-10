@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T07:48:44Z",
+ "generated_at": "2026-09-10T16:06:59Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8775,7 +8775,7 @@
    "market_prob": 0.433
   },
   "af_1490458": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Minnesota United FC",
    "away_team": "FC Dallas",
    "kickoff": "2026-09-10T00:30:00+00:00",
@@ -8826,7 +8826,7 @@
    "market_prob": 0.733
   },
   "af_1490461": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Los Angeles FC",
    "away_team": "New York Red Bulls",
    "kickoff": "2026-09-10T02:30:00+00:00",
