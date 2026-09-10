@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T16:06:59Z",
+ "generated_at": "2026-09-10T22:42:02Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8875,6 +8875,23 @@
    "confidence": 0.664,
    "model_prob": 0.576,
    "market_prob": 0.701
+  },
+  "af_1575465": {
+   "has_details": true,
+   "home_team": "Estrela",
+   "away_team": "SC Braga",
+   "kickoff": "2026-09-10T19:15:00+00:00",
+   "competition": "Primeira Liga",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.81,
+   "hit": true,
+   "confidence": 0.513,
+   "model_prob": 0.589,
+   "market_prob": 0.48
   }
  }
 }
