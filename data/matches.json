@@ -1,2359 +1,11 @@
 {
- "generated_at": "2026-09-10T00:26:58",
+ "generated_at": "2026-09-10T07:48:44",
  "source": {
   "configured": "api_football",
   "active": "api_football",
   "error": null
  },
  "matches": [
-  {
-   "id": "af_1490460",
-   "fixture_id": 1490460,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Houston Dynamo",
-   "away_team": "Real Salt Lake",
-   "home_id": 1600,
-   "away_id": 1606,
-   "kickoff": "2026-09-10T00:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.93,
-   "odds_raw": 2.1,
-   "odds_normalized": true,
-   "confidence_score": 0.481,
-   "model_prob": 0.55,
-   "market_prob": 0.452,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4745,
-      "odds": 1.7,
-      "odds_raw": 1.84,
-      "market": 0.5126
-     },
-     "X": {
-      "model": 0.2749,
-      "odds": 3.46,
-      "odds_raw": 3.75,
-      "market": 0.2515
-     },
-     "2": {
-      "model": 0.2506,
-      "odds": 3.69,
-      "odds_raw": 4.0,
-      "market": 0.2358
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.4495,
-      "odds": 1.59,
-      "odds_raw": 1.73,
-      "market": 0.5483
-     },
-     "ALT": {
-      "model": 0.5505,
-      "odds": 1.93,
-      "odds_raw": 2.1,
-      "market": 0.4517
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.4937,
-      "odds": 1.53,
-      "odds_raw": 1.63,
-      "market": 0.5699
-     },
-     "YOK": {
-      "model": 0.5063,
-      "odds": 2.02,
-      "odds_raw": 2.16,
-      "market": 0.4301
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.7136,
-      "odds": 1.12,
-      "odds_raw": 1.22,
-      "market": 0.7747
-     },
-     "ALT": {
-      "model": 0.2864,
-      "odds": 3.86,
-      "odds_raw": 4.195,
-      "market": 0.2253
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.2369,
-      "odds": 2.6,
-      "odds_raw": 2.8,
-      "market": 0.3349
-     },
-     "ALT": {
-      "model": 0.7631,
-      "odds": 1.31,
-      "odds_raw": 1.41,
-      "market": 0.6651
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.1054,
-      "odds": 4.8,
-      "odds_raw": 5.2,
-      "market": 0.1811
-     },
-     "ALT": {
-      "model": 0.8946,
-      "odds": 1.06,
-      "odds_raw": 1.15,
-      "market": 0.8189
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.7494,
-      "odds": 1.22,
-      "odds_raw": 1.22,
-      "market": 0.7668
-     },
-     "X2": {
-      "model": 0.5255,
-      "odds": 1.93,
-      "odds_raw": 1.93,
-      "market": 0.4847
-     },
-     "12": {
-      "model": 0.7251,
-      "odds": 1.25,
-      "odds_raw": 1.25,
-      "market": 0.7484
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.4331,
-      "odds": 1.66,
-      "odds_raw": 1.78,
-      "market": 0.5247
-     },
-     "ALT": {
-      "model": 0.5669,
-      "odds": 1.83,
-      "odds_raw": 1.965,
-      "market": 0.4753
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.2646,
-      "odds": 2.68,
-      "odds_raw": 2.87,
-      "market": 0.3239
-     },
-     "ALT": {
-      "model": 0.7354,
-      "odds": 1.29,
-      "odds_raw": 1.375,
-      "market": 0.6761
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.29,
-     "confidence": 0.693,
-     "model_prob": 0.735,
-     "market_prob": 0.675,
-     "ev": -0.106,
-     "kind": "safe"
-    },
-    {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 3.86,
-     "confidence": 0.243,
-     "model_prob": 0.286,
-     "market_prob": 0.225,
-     "ev": -0.061,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 3,
-     "doubtful": 1,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "Felipe Andrade",
-       "reason": "Yellow Cards",
-       "doubtful": false
-      },
-      {
-       "name": "L. Foster",
-       "reason": "Inactive",
-       "doubtful": false
-      },
-      {
-       "name": "J. Maurer",
-       "reason": "Concussion",
-       "doubtful": false
-      },
-      {
-       "name": "M. Saracchi",
-       "reason": "Lower-Body Injury",
-       "doubtful": true
-      }
-     ]
-    },
-    "away": {
-     "out": 4,
-     "doubtful": 4,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "Z. Booth",
-       "reason": "Hamstring Injury",
-       "doubtful": false
-      },
-      {
-       "name": "G. Dillon",
-       "reason": "Foot Injury",
-       "doubtful": false
-      },
-      {
-       "name": "J. Glad",
-       "reason": "Groin Injury",
-       "doubtful": false
-      },
-      {
-       "name": "A. Piol",
-       "reason": "Achilles Tendon Injury",
-       "doubtful": false
-      },
-      {
-       "name": "E. Eneli",
-       "reason": "Knee Injury",
-       "doubtful": true
-      },
-      {
-       "name": "M. Guilavogui",
-       "reason": "Knee Injury",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "WWLDD",
-   "away_form": "DLLLD",
-   "h2h": [
-    {
-     "date": "2026-05-14",
-     "home": "Real Salt Lake",
-     "away": "Houston Dynamo",
-     "home_id": 1606,
-     "hg": 3,
-     "ag": 0
-    },
-    {
-     "date": "2025-07-13",
-     "home": "Real Salt Lake",
-     "away": "Houston Dynamo",
-     "home_id": 1606,
-     "hg": 1,
-     "ag": 0
-    },
-    {
-     "date": "2025-03-16",
-     "home": "Houston Dynamo",
-     "away": "Real Salt Lake",
-     "home_id": 1600,
-     "hg": 1,
-     "ag": 2
-    },
-    {
-     "date": "2024-09-15",
-     "home": "Houston Dynamo",
-     "away": "Real Salt Lake",
-     "home_id": 1600,
-     "hg": 4,
-     "ag": 1
-    },
-    {
-     "date": "2024-08-06",
-     "home": "Houston Dynamo",
-     "away": "Real Salt Lake",
-     "home_id": 1600,
-     "hg": 3,
-     "ag": 0
-    }
-   ]
-  },
-  {
-   "id": "af_1490457",
-   "fixture_id": 1490457,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Chicago Fire",
-   "away_team": "Inter Miami",
-   "home_id": 1607,
-   "away_id": 9568,
-   "kickoff": "2026-09-10T00:30:00+00:00",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 2.12,
-   "odds_raw": 2.28,
-   "odds_normalized": true,
-   "confidence_score": 0.463,
-   "model_prob": 0.588,
-   "market_prob": 0.409,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.5884,
-      "odds": 2.12,
-      "odds_raw": 2.28,
-      "market": 0.4093
-     },
-     "X": {
-      "model": 0.2132,
-      "odds": 3.82,
-      "odds_raw": 4.1,
-      "market": 0.2276
-     },
-     "2": {
-      "model": 0.1984,
-      "odds": 2.39,
-      "odds_raw": 2.57,
-      "market": 0.3631
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.6447,
-      "odds": 1.13,
-      "odds_raw": 1.225,
-      "market": 0.7678
-     },
-     "ALT": {
-      "model": 0.3553,
-      "odds": 3.74,
-      "odds_raw": 4.05,
-      "market": 0.2322
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.616,
-      "odds": 1.16,
-      "odds_raw": 1.245,
-      "market": 0.7508
-     },
-     "YOK": {
-      "model": 0.384,
-      "odds": 3.49,
-      "odds_raw": 3.75,
-      "market": 0.2492
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.8485,
-      "odds": 1.01,
-      "odds_raw": 1.05,
-      "market": 0.8955
-     },
-     "ALT": {
-      "model": 0.1515,
-      "odds": 8.32,
-      "odds_raw": 9.0,
-      "market": 0.1045
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.4241,
-      "odds": 1.47,
-      "odds_raw": 1.59,
-      "market": 0.5913
-     },
-     "ALT": {
-      "model": 0.5759,
-      "odds": 2.13,
-      "odds_raw": 2.3,
-      "market": 0.4087
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.241,
-      "odds": 2.16,
-      "odds_raw": 2.335,
-      "market": 0.402
-     },
-     "ALT": {
-      "model": 0.759,
-      "odds": 1.45,
-      "odds_raw": 1.57,
-      "market": 0.598
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.8016,
-      "odds": 1.47,
-      "odds_raw": 1.47,
-      "market": 0.6403
-     },
-     "X2": {
-      "model": 0.4116,
-      "odds": 1.6,
-      "odds_raw": 1.6,
-      "market": 0.5883
-     },
-     "12": {
-      "model": 0.7868,
-      "odds": 1.22,
-      "odds_raw": 1.22,
-      "market": 0.7715
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.6306,
-      "odds": 1.39,
-      "odds_raw": 1.5,
-      "market": 0.6245
-     },
-     "ALT": {
-      "model": 0.3694,
-      "odds": 2.32,
-      "odds_raw": 2.495,
-      "market": 0.3755
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.3303,
-      "odds": 1.46,
-      "odds_raw": 1.57,
-      "market": 0.5954
-     },
-     "ALT": {
-      "model": 0.6697,
-      "odds": 2.15,
-      "odds_raw": 2.31,
-      "market": 0.4046
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "UST_ALT_4_5",
-     "selection": "ALT",
-     "odds": 1.45,
-     "confidence": 0.647,
-     "model_prob": 0.759,
-     "market_prob": 0.598,
-     "ev": -0.063,
-     "kind": "safe"
-    },
-    {
-     "market_type": "EV_GOL_1_5",
-     "selection": "UST",
-     "odds": 1.39,
-     "confidence": 0.627,
-     "model_prob": 0.631,
-     "market_prob": 0.625,
-     "ev": -0.129,
-     "kind": "safe"
-    },
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "YOK",
-     "odds": 3.49,
-     "confidence": 0.29,
-     "model_prob": 0.384,
-     "market_prob": 0.249,
-     "ev": 0.012,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 3,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "J. Bamba",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      },
-      {
-       "name": "A. Franco",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "M. Mbokazi",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      }
-     ]
-    },
-    "away": {
-     "out": 6,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "T. Allende",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "G. Lujan",
-       "reason": "Leg Injury",
-       "doubtful": false
-      },
-      {
-       "name": "Micael",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "S. Morales",
-       "reason": "Muscle Injury",
-       "doubtful": false
-      },
-      {
-       "name": "S. Reguilon",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "M. Silvetti",
-       "reason": "Injury",
-       "doubtful": false
-      }
-     ]
-    }
-   },
-   "home_form": "WWDDD",
-   "away_form": "LDLWD",
-   "h2h": [
-    {
-     "date": "2026-07-22",
-     "home": "Inter Miami",
-     "away": "Chicago Fire",
-     "home_id": 9568,
-     "hg": 3,
-     "ag": 2
-    },
-    {
-     "date": "2025-09-30",
-     "home": "Inter Miami",
-     "away": "Chicago Fire",
-     "home_id": 9568,
-     "hg": 3,
-     "ag": 5
-    },
-    {
-     "date": "2025-04-13",
-     "home": "Chicago Fire",
-     "away": "Inter Miami",
-     "home_id": 1607,
-     "hg": 0,
-     "ag": 0
-    },
-    {
-     "date": "2024-09-01",
-     "home": "Chicago Fire",
-     "away": "Inter Miami",
-     "home_id": 1607,
-     "hg": 1,
-     "ag": 4
-    },
-    {
-     "date": "2024-07-20",
-     "home": "Inter Miami",
-     "away": "Chicago Fire",
-     "home_id": 9568,
-     "hg": 2,
-     "ag": 1
-    }
-   ]
-  },
-  {
-   "id": "af_1490458",
-   "fixture_id": 1490458,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Minnesota United FC",
-   "away_team": "FC Dallas",
-   "home_id": 1612,
-   "away_id": 1597,
-   "kickoff": "2026-09-10T00:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 2.22,
-   "odds_raw": 2.39,
-   "odds_normalized": true,
-   "confidence_score": 0.437,
-   "model_prob": 0.543,
-   "market_prob": 0.392,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.3859,
-      "odds": 1.78,
-      "odds_raw": 1.91,
-      "market": 0.4881
-     },
-     "X": {
-      "model": 0.282,
-      "odds": 3.5,
-      "odds_raw": 3.75,
-      "market": 0.2486
-     },
-     "2": {
-      "model": 0.3321,
-      "odds": 3.3,
-      "odds_raw": 3.54,
-      "market": 0.2633
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.4574,
-      "odds": 1.43,
-      "odds_raw": 1.54,
-      "market": 0.6081
-     },
-     "ALT": {
-      "model": 0.5426,
-      "odds": 2.22,
-      "odds_raw": 2.39,
-      "market": 0.3919
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5155,
-      "odds": 1.4,
-      "odds_raw": 1.5,
-      "market": 0.6207
-     },
-     "YOK": {
-      "model": 0.4845,
-      "odds": 2.29,
-      "odds_raw": 2.455,
-      "market": 0.3793
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.7201,
-      "odds": 1.07,
-      "odds_raw": 1.17,
-      "market": 0.8104
-     },
-     "ALT": {
-      "model": 0.2799,
-      "odds": 4.59,
-      "odds_raw": 5.0,
-      "market": 0.1896
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.2435,
-      "odds": 2.18,
-      "odds_raw": 2.375,
-      "market": 0.398
-     },
-     "ALT": {
-      "model": 0.7565,
-      "odds": 1.44,
-      "odds_raw": 1.57,
-      "market": 0.602
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.1095,
-      "odds": 3.84,
-      "odds_raw": 4.165,
-      "market": 0.2266
-     },
-     "ALT": {
-      "model": 0.8905,
-      "odds": 1.12,
-      "odds_raw": 1.22,
-      "market": 0.7734
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.6679,
-      "odds": 1.29,
-      "odds_raw": 1.29,
-      "market": 0.7307
-     },
-     "X2": {
-      "model": 0.6141,
-      "odds": 1.83,
-      "odds_raw": 1.83,
-      "market": 0.5151
-     },
-     "12": {
-      "model": 0.718,
-      "odds": 1.25,
-      "odds_raw": 1.25,
-      "market": 0.7541
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.3763,
-      "odds": 1.58,
-      "odds_raw": 1.7,
-      "market": 0.5497
-     },
-     "ALT": {
-      "model": 0.6237,
-      "odds": 1.93,
-      "odds_raw": 2.075,
-      "market": 0.4503
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.3359,
-      "odds": 2.23,
-      "odds_raw": 2.39,
-      "market": 0.3903
-     },
-     "ALT": {
-      "model": 0.6641,
-      "odds": 1.43,
-      "odds_raw": 1.53,
-      "market": 0.6097
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.43,
-     "confidence": 0.626,
-     "model_prob": 0.664,
-     "market_prob": 0.609,
-     "ev": -0.105,
-     "kind": "safe"
-    },
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "VAR",
-     "odds": 1.4,
-     "confidence": 0.589,
-     "model_prob": 0.516,
-     "market_prob": 0.621,
-     "ev": -0.175,
-     "kind": "safe"
-    },
-    {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 4.59,
-     "confidence": 0.216,
-     "model_prob": 0.28,
-     "market_prob": 0.189,
-     "ev": -0.007,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 2,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "B. Hlongwane",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "P. Stroud",
-       "reason": "Muscle Injury",
-       "doubtful": false
-      }
-     ]
-    },
-    "away": {
-     "out": 2,
-     "doubtful": 2,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "Daniel",
-       "reason": "Hamstring Injury",
-       "doubtful": false
-      },
-      {
-       "name": "A. A. Julio Santos",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "Geovane Jesus",
-       "reason": "Knee Injury",
-       "doubtful": true
-      },
-      {
-       "name": "P. Musa",
-       "reason": "Upper-Body Injury",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "DLWDL",
-   "away_form": "WWLDW",
-   "h2h": [
-    {
-     "date": "2026-04-23",
-     "home": "FC Dallas",
-     "away": "Minnesota United FC",
-     "home_id": 1597,
-     "hg": 0,
-     "ag": 1
-    },
-    {
-     "date": "2025-07-05",
-     "home": "FC Dallas",
-     "away": "Minnesota United FC",
-     "home_id": 1597,
-     "hg": 1,
-     "ag": 2
-    },
-    {
-     "date": "2025-04-20",
-     "home": "Minnesota United FC",
-     "away": "FC Dallas",
-     "home_id": 1612,
-     "hg": 0,
-     "ag": 0
-    },
-    {
-     "date": "2024-06-20",
-     "home": "FC Dallas",
-     "away": "Minnesota United FC",
-     "home_id": 1597,
-     "hg": 5,
-     "ag": 3
-    },
-    {
-     "date": "2024-06-09",
-     "home": "Minnesota United FC",
-     "away": "FC Dallas",
-     "home_id": 1612,
-     "hg": 1,
-     "ag": 1
-    }
-   ]
-  },
-  {
-   "id": "af_1490459",
-   "fixture_id": 1490459,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Austin",
-   "away_team": "Colorado Rapids",
-   "home_id": 16489,
-   "away_id": 1610,
-   "kickoff": "2026-09-10T00:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.83,
-   "odds_raw": 2.0,
-   "odds_normalized": true,
-   "confidence_score": 0.515,
-   "model_prob": 0.606,
-   "market_prob": 0.476,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4088,
-      "odds": 2.29,
-      "odds_raw": 2.46,
-      "market": 0.3796
-     },
-     "X": {
-      "model": 0.2972,
-      "odds": 3.17,
-      "odds_raw": 3.4,
-      "market": 0.2746
-     },
-     "2": {
-      "model": 0.294,
-      "odds": 2.51,
-      "odds_raw": 2.7,
-      "market": 0.3458
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.394,
-      "odds": 1.66,
-      "odds_raw": 1.81,
-      "market": 0.5249
-     },
-     "ALT": {
-      "model": 0.606,
-      "odds": 1.83,
-      "odds_raw": 2.0,
-      "market": 0.4751
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.4611,
-      "odds": 1.51,
-      "odds_raw": 1.62,
-      "market": 0.5742
-     },
-     "YOK": {
-      "model": 0.5389,
-      "odds": 2.04,
-      "odds_raw": 2.185,
-      "market": 0.4258
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.667,
-      "odds": 1.16,
-      "odds_raw": 1.25,
-      "market": 0.7525
-     },
-     "ALT": {
-      "model": 0.333,
-      "odds": 3.51,
-      "odds_raw": 3.8,
-      "market": 0.2475
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.1931,
-      "odds": 2.78,
-      "odds_raw": 3.0,
-      "market": 0.3127
-     },
-     "ALT": {
-      "model": 0.8069,
-      "odds": 1.27,
-      "odds_raw": 1.365,
-      "market": 0.6873
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.0794,
-      "odds": 5.29,
-      "odds_raw": 5.75,
-      "market": 0.1642
-     },
-     "ALT": {
-      "model": 0.9206,
-      "odds": 1.04,
-      "odds_raw": 1.13,
-      "market": 0.8358
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.706,
-      "odds": 1.44,
-      "odds_raw": 1.44,
-      "market": 0.6501
-     },
-     "X2": {
-      "model": 0.5912,
-      "odds": 1.5,
-      "odds_raw": 1.5,
-      "market": 0.6241
-     },
-     "12": {
-      "model": 0.7028,
-      "odds": 1.29,
-      "odds_raw": 1.29,
-      "market": 0.7257
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.3543,
-      "odds": 2.05,
-      "odds_raw": 2.2,
-      "market": 0.4248
-     },
-     "ALT": {
-      "model": 0.6457,
-      "odds": 1.51,
-      "odds_raw": 1.625,
-      "market": 0.5752
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.27,
-      "odds": 2.15,
-      "odds_raw": 2.31,
-      "market": 0.4046
-     },
-     "ALT": {
-      "model": 0.73,
-      "odds": 1.46,
-      "odds_raw": 1.57,
-      "market": 0.5954
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.46,
-     "confidence": 0.636,
-     "model_prob": 0.73,
-     "market_prob": 0.596,
-     "ev": -0.072,
-     "kind": "safe"
-    },
-    {
-     "market_type": "CIFTE_SANS",
-     "selection": "X2",
-     "odds": 1.5,
-     "confidence": 0.614,
-     "model_prob": 0.591,
-     "market_prob": 0.624,
-     "ev": -0.079,
-     "kind": "safe"
-    },
-    {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 3.51,
-     "confidence": 0.274,
-     "model_prob": 0.333,
-     "market_prob": 0.248,
-     "ev": -0.039,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 1,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "M. Uzuni",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      }
-     ]
-    },
-    "away": {
-     "out": 3,
-     "doubtful": 1,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "M. Diop",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "T. Ku-DiPietro",
-       "reason": "Shoulder Injury",
-       "doubtful": false
-      },
-      {
-       "name": "Z. Steffen",
-       "reason": "Shoulder Injury",
-       "doubtful": false
-      },
-      {
-       "name": "K. Stewart-Baynes",
-       "reason": "Leg Injury",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "LWDWD",
-   "away_form": "WWLWL",
-   "h2h": [
-    {
-     "date": "2026-08-02",
-     "home": "Colorado Rapids",
-     "away": "Austin",
-     "home_id": 1610,
-     "hg": 1,
-     "ag": 0
-    },
-    {
-     "date": "2025-06-08",
-     "home": "Colorado Rapids",
-     "away": "Austin",
-     "home_id": 1610,
-     "hg": 0,
-     "ag": 2
-    },
-    {
-     "date": "2025-03-09",
-     "home": "Austin",
-     "away": "Colorado Rapids",
-     "home_id": 16489,
-     "hg": 0,
-     "ag": 1
-    },
-    {
-     "date": "2024-10-20",
-     "home": "Austin",
-     "away": "Colorado Rapids",
-     "home_id": 16489,
-     "hg": 3,
-     "ag": 2
-    },
-    {
-     "date": "2024-06-16",
-     "home": "Colorado Rapids",
-     "away": "Austin",
-     "home_id": 1610,
-     "hg": 2,
-     "ag": 0
-    }
-   ]
-  },
-  {
-   "id": "af_1490462",
-   "fixture_id": 1490462,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Vancouver Whitecaps",
-   "away_team": "Los Angeles Galaxy",
-   "home_id": 1603,
-   "away_id": 1605,
-   "kickoff": "2026-09-10T02:30:00+00:00",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.21,
-   "odds_raw": 1.3,
-   "odds_normalized": true,
-   "confidence_score": 0.688,
-   "model_prob": 0.619,
-   "market_prob": 0.717,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.619,
-      "odds": 1.21,
-      "odds_raw": 1.3,
-      "market": 0.717
-     },
-     "X": {
-      "model": 0.2142,
-      "odds": 5.22,
-      "odds_raw": 5.6,
-      "market": 0.1665
-     },
-     "2": {
-      "model": 0.1667,
-      "odds": 7.46,
-      "odds_raw": 8.0,
-      "market": 0.1165
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.5901,
-      "odds": 1.23,
-      "odds_raw": 1.33,
-      "market": 0.7096
-     },
-     "ALT": {
-      "model": 0.4099,
-      "odds": 2.99,
-      "odds_raw": 3.25,
-      "market": 0.2904
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5533,
-      "odds": 1.46,
-      "odds_raw": 1.555,
-      "market": 0.5956
-     },
-     "YOK": {
-      "model": 0.4467,
-      "odds": 2.15,
-      "odds_raw": 2.29,
-      "market": 0.4044
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.8145,
-      "odds": 1.01,
-      "odds_raw": 1.08,
-      "market": 0.8696
-     },
-     "ALT": {
-      "model": 0.1855,
-      "odds": 6.67,
-      "odds_raw": 7.2,
-      "market": 0.1304
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.3661,
-      "odds": 1.7,
-      "odds_raw": 1.83,
-      "market": 0.512
-     },
-     "ALT": {
-      "model": 0.6339,
-      "odds": 1.78,
-      "odds_raw": 1.92,
-      "market": 0.488
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.1948,
-      "odds": 2.65,
-      "odds_raw": 2.865,
-      "market": 0.3283
-     },
-     "ALT": {
-      "model": 0.8052,
-      "odds": 1.29,
-      "odds_raw": 1.4,
-      "market": 0.6717
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.8333,
-      "odds": 1.08,
-      "odds_raw": 1.08,
-      "market": 0.8741
-     },
-     "X2": {
-      "model": 0.381,
-      "odds": 3.25,
-      "odds_raw": 3.25,
-      "market": 0.2905
-     },
-     "12": {
-      "model": 0.7858,
-      "odds": 1.13,
-      "odds_raw": 1.13,
-      "market": 0.8354
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.6133,
-      "odds": 1.17,
-      "odds_raw": 1.255,
-      "market": 0.7402
-     },
-     "ALT": {
-      "model": 0.3867,
-      "odds": 3.35,
-      "odds_raw": 3.575,
-      "market": 0.2598
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.2596,
-      "odds": 3.03,
-      "odds_raw": 3.25,
-      "market": 0.2873
-     },
-     "ALT": {
-      "model": 0.7404,
-      "odds": 1.22,
-      "odds_raw": 1.31,
-      "market": 0.7127
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "UST_ALT_4_5",
-     "selection": "ALT",
-     "odds": 1.29,
-     "confidence": 0.712,
-     "model_prob": 0.805,
-     "market_prob": 0.673,
-     "ev": -0.081,
-     "kind": "safe"
-    },
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "VAR",
-     "odds": 1.46,
-     "confidence": 0.583,
-     "model_prob": 0.553,
-     "market_prob": 0.596,
-     "ev": -0.149,
-     "kind": "safe"
-    },
-    {
-     "market_type": "EV_GOL_1_5",
-     "selection": "ALT",
-     "odds": 3.35,
-     "confidence": 0.297,
-     "model_prob": 0.387,
-     "market_prob": 0.259,
-     "ev": -0.004,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 6,
-     "doubtful": 1,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "J. Badwal",
-       "reason": "Hamstring Injury",
-       "doubtful": false
-      },
-      {
-       "name": "K. G. Cabrera Nakamura",
-       "reason": "Foot Injury",
-       "doubtful": false
-      },
-      {
-       "name": "B. Halbouni",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "K. Poku",
-       "reason": "Muscle Injury",
-       "doubtful": false
-      },
-      {
-       "name": "R. Priso",
-       "reason": "Ankle Injury",
-       "doubtful": false
-      },
-      {
-       "name": "R. Veselinovic",
-       "reason": "Knee Injury",
-       "doubtful": false
-      }
-     ]
-    },
-    "away": {
-     "out": 2,
-     "doubtful": 2,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "R. Puig",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "E. Wynder",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "Joao Klauss",
-       "reason": "Foot Injury",
-       "doubtful": true
-      },
-      {
-       "name": "J. Paintsil",
-       "reason": "Thigh Injury",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "WLWWL",
-   "away_form": "LWDLW",
-   "h2h": [
-    {
-     "date": "2026-05-03",
-     "home": "Los Angeles Galaxy",
-     "away": "Vancouver Whitecaps",
-     "home_id": 1605,
-     "hg": 1,
-     "ag": 1
-    },
-    {
-     "date": "2025-07-05",
-     "home": "Los Angeles Galaxy",
-     "away": "Vancouver Whitecaps",
-     "home_id": 1605,
-     "hg": 3,
-     "ag": 0
-    },
-    {
-     "date": "2025-03-02",
-     "home": "Vancouver Whitecaps",
-     "away": "Los Angeles Galaxy",
-     "home_id": 1603,
-     "hg": 2,
-     "ag": 1
-    },
-    {
-     "date": "2024-09-22",
-     "home": "Los Angeles Galaxy",
-     "away": "Vancouver Whitecaps",
-     "home_id": 1605,
-     "hg": 4,
-     "ag": 2
-    },
-    {
-     "date": "2024-04-14",
-     "home": "Vancouver Whitecaps",
-     "away": "Los Angeles Galaxy",
-     "home_id": 1603,
-     "hg": 1,
-     "ag": 3
-    }
-   ]
-  },
-  {
-   "id": "af_1490461",
-   "fixture_id": 1490461,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Los Angeles FC",
-   "away_team": "New York Red Bulls",
-   "home_id": 1616,
-   "away_id": 1602,
-   "kickoff": "2026-09-10T02:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.24,
-   "odds_raw": 1.34,
-   "odds_normalized": true,
-   "confidence_score": 0.672,
-   "model_prob": 0.605,
-   "market_prob": 0.701,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4699,
-      "odds": 1.29,
-      "odds_raw": 1.4,
-      "market": 0.6762
-     },
-     "X": {
-      "model": 0.2423,
-      "odds": 4.82,
-      "odds_raw": 5.25,
-      "market": 0.1803
-     },
-     "2": {
-      "model": 0.2878,
-      "odds": 6.06,
-      "odds_raw": 6.6,
-      "market": 0.1434
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.6047,
-      "odds": 1.24,
-      "odds_raw": 1.34,
-      "market": 0.7016
-     },
-     "ALT": {
-      "model": 0.3953,
-      "odds": 2.91,
-      "odds_raw": 3.15,
-      "market": 0.2984
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.6208,
-      "odds": 1.41,
-      "odds_raw": 1.495,
-      "market": 0.6186
-     },
-     "YOK": {
-      "model": 0.3792,
-      "odds": 2.28,
-      "odds_raw": 2.425,
-      "market": 0.3814
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.8243,
-      "odds": 1.01,
-      "odds_raw": 1.09,
-      "market": 0.8669
-     },
-     "ALT": {
-      "model": 0.1757,
-      "odds": 6.53,
-      "odds_raw": 7.1,
-      "market": 0.1331
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.3812,
-      "odds": 1.72,
-      "odds_raw": 1.87,
-      "market": 0.5053
-     },
-     "ALT": {
-      "model": 0.6188,
-      "odds": 1.76,
-      "odds_raw": 1.91,
-      "market": 0.4947
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.2065,
-      "odds": 2.77,
-      "odds_raw": 3.0,
-      "market": 0.3135
-     },
-     "ALT": {
-      "model": 0.7935,
-      "odds": 1.27,
-      "odds_raw": 1.37,
-      "market": 0.6865
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.7122,
-      "odds": 1.11,
-      "odds_raw": 1.11,
-      "market": 0.8503
-     },
-     "X2": {
-      "model": 0.5301,
-      "odds": 2.87,
-      "odds_raw": 2.87,
-      "market": 0.3289
-     },
-     "12": {
-      "model": 0.7577,
-      "odds": 1.15,
-      "odds_raw": 1.15,
-      "market": 0.8208
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.53,
-      "odds": 1.21,
-      "odds_raw": 1.3,
-      "market": 0.7158
-     },
-     "ALT": {
-      "model": 0.47,
-      "odds": 3.06,
-      "odds_raw": 3.275,
-      "market": 0.2842
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.3912,
-      "odds": 2.78,
-      "odds_raw": 2.995,
-      "market": 0.3123
-     },
-     "ALT": {
-      "model": 0.6088,
-      "odds": 1.26,
-      "odds_raw": 1.36,
-      "market": 0.6877
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.26,
-     "confidence": 0.664,
-     "model_prob": 0.609,
-     "market_prob": 0.688,
-     "ev": -0.163,
-     "kind": "safe"
-    },
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "VAR",
-     "odds": 1.41,
-     "confidence": 0.619,
-     "model_prob": 0.621,
-     "market_prob": 0.618,
-     "ev": -0.128,
-     "kind": "safe"
-    },
-    {
-     "market_type": "1X2",
-     "selection": "1",
-     "odds": 1.29,
-     "confidence": 0.614,
-     "model_prob": 0.47,
-     "market_prob": 0.675,
-     "ev": -0.208,
-     "kind": "safe"
-    },
-    {
-     "market_type": "EV_GOL_1_5",
-     "selection": "ALT",
-     "odds": 3.06,
-     "confidence": 0.339,
-     "model_prob": 0.47,
-     "market_prob": 0.283,
-     "ev": 0.038,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 4,
-     "doubtful": 1,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "T. Hasal",
-       "reason": "Arm Injury",
-       "doubtful": false
-      },
-      {
-       "name": "Igor Jesus",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "R. Porteous",
-       "reason": "Leg Injury",
-       "doubtful": false
-      },
-      {
-       "name": "T. Tillman",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "E. Segura",
-       "reason": "Leg Injury",
-       "doubtful": true
-      }
-     ]
-    },
-    "away": {
-     "out": 2,
-     "doubtful": 2,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "R. Donkor",
-       "reason": "Yellow Cards",
-       "doubtful": false
-      },
-      {
-       "name": "A. Marcucci",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "R. Mosquera",
-       "reason": "Inactive",
-       "doubtful": true
-      },
-      {
-       "name": "M. Sofo",
-       "reason": "Thigh Injury",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "LLDDD",
-   "away_form": "LLDLD",
-   "h2h": [
-    {
-     "date": "2024-04-21",
-     "home": "Los Angeles FC",
-     "away": "New York Red Bulls",
-     "home_id": 1616,
-     "hg": 2,
-     "ag": 2
-    },
-    {
-     "date": "2022-06-26",
-     "home": "Los Angeles FC",
-     "away": "New York Red Bulls",
-     "home_id": 1616,
-     "hg": 2,
-     "ag": 0
-    },
-    {
-     "date": "2019-08-12",
-     "home": "Los Angeles FC",
-     "away": "New York Red Bulls",
-     "home_id": 1616,
-     "hg": 4,
-     "ag": 2
-    },
-    {
-     "date": "2018-08-05",
-     "home": "New York Red Bulls",
-     "away": "Los Angeles FC",
-     "home_id": 1602,
-     "hg": 2,
-     "ag": 1
-    }
-   ]
-  },
-  {
-   "id": "af_1490465",
-   "fixture_id": 1490465,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "Portland Timbers",
-   "away_team": "St. Louis City",
-   "home_id": 1617,
-   "away_id": 20787,
-   "kickoff": "2026-09-10T02:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.33,
-   "odds_raw": 1.44,
-   "odds_normalized": true,
-   "confidence_score": 0.63,
-   "model_prob": 0.572,
-   "market_prob": 0.655,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.3163,
-      "odds": 2.22,
-      "odds_raw": 2.4,
-      "market": 0.3914
-     },
-     "X": {
-      "model": 0.2529,
-      "odds": 3.52,
-      "odds_raw": 3.8,
-      "market": 0.2472
-     },
-     "2": {
-      "model": 0.4308,
-      "odds": 2.41,
-      "odds_raw": 2.6,
-      "market": 0.3613
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.5724,
-      "odds": 1.33,
-      "odds_raw": 1.44,
-      "market": 0.6551
-     },
-     "ALT": {
-      "model": 0.4276,
-      "odds": 2.52,
-      "odds_raw": 2.735,
-      "market": 0.3449
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.6019,
-      "odds": 1.3,
-      "odds_raw": 1.39,
-      "market": 0.6683
-     },
-     "YOK": {
-      "model": 0.3981,
-      "odds": 2.62,
-      "odds_raw": 2.8,
-      "market": 0.3317
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.8035,
-      "odds": 1.04,
-      "odds_raw": 1.125,
-      "market": 0.8381
-     },
-     "ALT": {
-      "model": 0.1965,
-      "odds": 5.37,
-      "odds_raw": 5.825,
-      "market": 0.1619
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.3484,
-      "odds": 1.94,
-      "odds_raw": 2.1,
-      "market": 0.4488
-     },
-     "ALT": {
-      "model": 0.6516,
-      "odds": 1.58,
-      "odds_raw": 1.71,
-      "market": 0.5512
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.1814,
-      "odds": 3.16,
-      "odds_raw": 3.425,
-      "market": 0.2751
-     },
-     "ALT": {
-      "model": 0.8186,
-      "odds": 1.2,
-      "odds_raw": 1.3,
-      "market": 0.7249
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.5692,
-      "odds": 1.44,
-      "odds_raw": 1.44,
-      "market": 0.6504
-     },
-     "X2": {
-      "model": 0.6837,
-      "odds": 1.56,
-      "odds_raw": 1.56,
-      "market": 0.6004
-     },
-     "12": {
-      "model": 0.7471,
-      "odds": 1.25,
-      "odds_raw": 1.25,
-      "market": 0.7492
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.3943,
-      "odds": 1.67,
-      "odds_raw": 1.8,
-      "market": 0.52
-     },
-     "ALT": {
-      "model": 0.6057,
-      "odds": 1.81,
-      "odds_raw": 1.95,
-      "market": 0.48
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.4816,
-      "odds": 1.74,
-      "odds_raw": 1.88,
-      "market": 0.4987
-     },
-     "ALT": {
-      "model": 0.5184,
-      "odds": 1.73,
-      "odds_raw": 1.87,
-      "market": 0.5013
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "VAR",
-     "odds": 1.3,
-     "confidence": 0.648,
-     "model_prob": 0.602,
-     "market_prob": 0.668,
-     "ev": -0.157,
-     "kind": "safe"
-    },
-    {
-     "market_type": "CIFTE_SANS",
-     "selection": "X2",
-     "odds": 1.56,
-     "confidence": 0.625,
-     "model_prob": 0.684,
-     "market_prob": 0.6,
-     "ev": -0.024,
-     "kind": "safe"
-    },
-    {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 5.37,
-     "confidence": 0.173,
-     "model_prob": 0.196,
-     "market_prob": 0.162,
-     "ev": -0.074,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 4,
-     "doubtful": 1,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "A. Aravena",
-       "reason": "Hip Injury",
-       "doubtful": false
-      },
-      {
-       "name": "B. Bye",
-       "reason": "Leg Injury",
-       "doubtful": false
-      },
-      {
-       "name": "J. Caicedo",
-       "reason": "Thigh Injury",
-       "doubtful": false
-      },
-      {
-       "name": "J. Mosquera",
-       "reason": "Foot Injury",
-       "doubtful": false
-      },
-      {
-       "name": "T. Muse",
-       "reason": "Wrist Injury",
-       "doubtful": true
-      }
-     ]
-    },
-    "away": {
-     "out": 3,
-     "doubtful": 4,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "Celio Pompeu",
-       "reason": "Knee Injury",
-       "doubtful": false
-      },
-      {
-       "name": "K. Hiebert",
-       "reason": "Hip Injury",
-       "doubtful": false
-      },
-      {
-       "name": "C. Wallem",
-       "reason": "Yellow Cards",
-       "doubtful": false
-      },
-      {
-       "name": "P. Ault",
-       "reason": "Ankle Injury",
-       "doubtful": true
-      },
-      {
-       "name": "B. McSorley",
-       "reason": "Lacking Match Fitness",
-       "doubtful": true
-      },
-      {
-       "name": "J. Orozco",
-       "reason": "Illness",
-       "doubtful": true
-      }
-     ]
-    }
-   },
-   "home_form": "LWDLW",
-   "away_form": "WDWDW",
-   "h2h": [
-    {
-     "date": "2025-07-13",
-     "home": "St. Louis City",
-     "away": "Portland Timbers",
-     "home_id": 20787,
-     "hg": 2,
-     "ag": 1
-    },
-    {
-     "date": "2025-06-08",
-     "home": "Portland Timbers",
-     "away": "St. Louis City",
-     "home_id": 1617,
-     "hg": 2,
-     "ag": 1
-    },
-    {
-     "date": "2024-08-25",
-     "home": "Portland Timbers",
-     "away": "St. Louis City",
-     "home_id": 1617,
-     "hg": 4,
-     "ag": 4
-    }
-   ]
-  },
-  {
-   "id": "af_1490464",
-   "fixture_id": 1490464,
-   "league_id": 253,
-   "competition": "MLS",
-   "home_team": "San Diego",
-   "away_team": "San Jose Earthquakes",
-   "home_id": 25484,
-   "away_id": 1596,
-   "kickoff": "2026-09-10T02:30:00+00:00",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.28,
-   "odds_raw": 1.39,
-   "odds_normalized": true,
-   "confidence_score": 0.649,
-   "model_prob": 0.576,
-   "market_prob": 0.68,
-   "odds_source": "market",
-   "bookmakers": 13,
-   "data_reliability": "exploratory",
-   "markets": {
-    "1X2": {
-     "1": {
-      "model": 0.4785,
-      "odds": 1.62,
-      "odds_raw": 1.75,
-      "market": 0.538
-     },
-     "X": {
-      "model": 0.2471,
-      "odds": 3.88,
-      "odds_raw": 4.2,
-      "market": 0.2242
-     },
-     "2": {
-      "model": 0.2745,
-      "odds": 3.66,
-      "odds_raw": 3.96,
-      "market": 0.2378
-     }
-    },
-    "UST_ALT_2_5": {
-     "UST": {
-      "model": 0.5757,
-      "odds": 1.28,
-      "odds_raw": 1.39,
-      "market": 0.6797
-     },
-     "ALT": {
-      "model": 0.4243,
-      "odds": 2.72,
-      "odds_raw": 2.95,
-      "market": 0.3203
-     }
-    },
-    "KG_VAR_YOK": {
-     "VAR": {
-      "model": 0.5959,
-      "odds": 1.31,
-      "odds_raw": 1.4,
-      "market": 0.6627
-     },
-     "YOK": {
-      "model": 0.4041,
-      "odds": 2.58,
-      "odds_raw": 2.75,
-      "market": 0.3373
-     }
-    },
-    "UST_ALT_1_5": {
-     "UST": {
-      "model": 0.8056,
-      "odds": 1.02,
-      "odds_raw": 1.11,
-      "market": 0.8507
-     },
-     "ALT": {
-      "model": 0.1944,
-      "odds": 5.82,
-      "odds_raw": 6.325,
-      "market": 0.1493
-     }
-    },
-    "UST_ALT_3_5": {
-     "UST": {
-      "model": 0.3516,
-      "odds": 1.83,
-      "odds_raw": 1.99,
-      "market": 0.4749
-     },
-     "ALT": {
-      "model": 0.6484,
-      "odds": 1.66,
-      "odds_raw": 1.8,
-      "market": 0.5251
-     }
-    },
-    "UST_ALT_4_5": {
-     "UST": {
-      "model": 0.1838,
-      "odds": 2.99,
-      "odds_raw": 3.25,
-      "market": 0.2904
-     },
-     "ALT": {
-      "model": 0.8162,
-      "odds": 1.23,
-      "odds_raw": 1.33,
-      "market": 0.7096
-     }
-    },
-    "CIFTE_SANS": {
-     "1X": {
-      "model": 0.7255,
-      "odds": 1.25,
-      "odds_raw": 1.25,
-      "market": 0.7583
-     },
-     "X2": {
-      "model": 0.5215,
-      "odds": 2.04,
-      "odds_raw": 2.04,
-      "market": 0.4647
-     },
-     "12": {
-      "model": 0.7529,
-      "odds": 1.22,
-      "odds_raw": 1.22,
-      "market": 0.777
-     }
-    },
-    "EV_GOL_1_5": {
-     "UST": {
-      "model": 0.5164,
-      "odds": 1.39,
-      "odds_raw": 1.49,
-      "market": 0.6275
-     },
-     "ALT": {
-      "model": 0.4836,
-      "odds": 2.33,
-      "odds_raw": 2.51,
-      "market": 0.3725
-     }
-    },
-    "DEP_GOL_1_5": {
-     "UST": {
-      "model": 0.3603,
-      "odds": 2.11,
-      "odds_raw": 2.25,
-      "market": 0.4118
-     },
-     "ALT": {
-      "model": 0.6397,
-      "odds": 1.48,
-      "odds_raw": 1.575,
-      "market": 0.5882
-     }
-    }
-   },
-   "alternatives": [
-    {
-     "market_type": "KG_VAR_YOK",
-     "selection": "VAR",
-     "odds": 1.31,
-     "confidence": 0.643,
-     "model_prob": 0.596,
-     "market_prob": 0.663,
-     "ev": -0.158,
-     "kind": "safe"
-    },
-    {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.48,
-     "confidence": 0.603,
-     "model_prob": 0.64,
-     "market_prob": 0.588,
-     "ev": -0.107,
-     "kind": "safe"
-    },
-    {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 5.82,
-     "confidence": 0.163,
-     "model_prob": 0.194,
-     "market_prob": 0.149,
-     "ev": -0.053,
-     "kind": "surprise"
-    }
-   ],
-   "strength_source": "xg",
-   "absences": {
-    "home": {
-     "out": 2,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "M. Ingvartsen",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "P. Sisniega",
-       "reason": "Back Injury",
-       "doubtful": false
-      }
-     ]
-    },
-    "away": {
-     "out": 6,
-     "doubtful": 0,
-     "suspended": 0,
-     "players": [
-      {
-       "name": "N. Adimabua",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      },
-      {
-       "name": "E. Edwards",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      },
-      {
-       "name": "D. Johnson",
-       "reason": "Lower-Body Injury",
-       "doubtful": false
-      },
-      {
-       "name": "D. Jones",
-       "reason": "Achilles Tendon Injury",
-       "doubtful": false
-      },
-      {
-       "name": "P. Marie",
-       "reason": "Injury",
-       "doubtful": false
-      },
-      {
-       "name": "T. Werner",
-       "reason": "Injury",
-       "doubtful": false
-      }
-     ]
-    }
-   },
-   "home_form": "WLWWL",
-   "away_form": "LLLDD",
-   "h2h": [
-    {
-     "date": "2026-04-05",
-     "home": "San Jose Earthquakes",
-     "away": "San Diego",
-     "home_id": 1596,
-     "hg": 3,
-     "ag": 0
-    },
-    {
-     "date": "2026-01-24",
-     "home": "San Diego",
-     "away": "San Jose Earthquakes",
-     "home_id": 25484,
-     "hg": 2,
-     "ag": 0
-    },
-    {
-     "date": "2025-09-28",
-     "home": "San Diego",
-     "away": "San Jose Earthquakes",
-     "home_id": 25484,
-     "hg": 0,
-     "ag": 1
-    },
-    {
-     "date": "2025-08-17",
-     "home": "San Jose Earthquakes",
-     "away": "San Diego",
-     "home_id": 1596,
-     "hg": 1,
-     "ag": 2
-    }
-   ]
-  },
   {
    "id": "af_1575465",
    "fixture_id": 1575465,
@@ -2366,164 +18,174 @@
    "kickoff": "2026-09-10T19:15:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "UST",
-   "odds": 1.77,
+   "odds": 1.8,
    "odds_raw": 1.95,
    "odds_normalized": true,
-   "confidence_score": 0.52,
+   "confidence_score": 0.514,
    "model_prob": 0.588,
-   "market_prob": 0.491,
+   "market_prob": 0.483,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.2916,
-      "odds": 4.56,
-      "odds_raw": 4.95,
-      "market": 0.1905
+      "odds": 4.67,
+      "odds_raw": 5.05,
+      "market": 0.186
      },
      "X": {
       "model": 0.2466,
-      "odds": 3.41,
-      "odds_raw": 3.7,
-      "market": 0.2548
+      "odds": 3.46,
+      "odds_raw": 3.735,
+      "market": 0.2515
      },
      "2": {
       "model": 0.4618,
-      "odds": 1.57,
-      "odds_raw": 1.7,
-      "market": 0.5547
+      "odds": 1.55,
+      "odds_raw": 1.67,
+      "market": 0.5625
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.5884,
-      "odds": 1.77,
-      "odds_raw": 1.945,
-      "market": 0.4908
+      "odds": 1.8,
+      "odds_raw": 1.95,
+      "market": 0.4834
      },
      "ALT": {
       "model": 0.4116,
-      "odds": 1.71,
-      "odds_raw": 1.875,
-      "market": 0.5092
+      "odds": 1.68,
+      "odds_raw": 1.825,
+      "market": 0.5166
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.6095,
-      "odds": 1.74,
-      "odds_raw": 1.85,
-      "market": 0.4993
+      "odds": 1.77,
+      "odds_raw": 1.89,
+      "market": 0.4906
      },
      "YOK": {
       "model": 0.3905,
-      "odds": 1.74,
-      "odds_raw": 1.845,
-      "market": 0.5007
+      "odds": 1.71,
+      "odds_raw": 1.82,
+      "market": 0.5094
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.8139,
-      "odds": 1.2,
-      "odds_raw": 1.27,
-      "market": 0.7221
+      "odds": 1.21,
+      "odds_raw": 1.3,
+      "market": 0.7204
      },
      "ALT": {
       "model": 0.1861,
-      "odds": 3.13,
-      "odds_raw": 3.3,
-      "market": 0.2779
+      "odds": 3.11,
+      "odds_raw": 3.35,
+      "market": 0.2796
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.3644,
-      "odds": 3.07,
-      "odds_raw": 3.24,
-      "market": 0.2832
+      "odds": 3.14,
+      "odds_raw": 3.4,
+      "market": 0.2766
      },
      "ALT": {
       "model": 0.6356,
-      "odds": 1.21,
-      "odds_raw": 1.28,
-      "market": 0.7168
+      "odds": 1.2,
+      "odds_raw": 1.3,
+      "market": 0.7234
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1935,
-      "odds": 6.2,
-      "odds_raw": 6.525,
-      "market": 0.1403
+      "odds": 6.05,
+      "odds_raw": 6.55,
+      "market": 0.1438
      },
      "ALT": {
       "model": 0.8065,
-      "odds": 1.01,
-      "odds_raw": 1.065,
-      "market": 0.8597
+      "odds": 1.02,
+      "odds_raw": 1.1,
+      "market": 0.8562
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.5382,
-      "odds": 2.115,
-      "odds_raw": 2.115,
-      "market": 0.4479
+      "odds": 2.195,
+      "odds_raw": 2.195,
+      "market": 0.4318
      },
      "X2": {
       "model": 0.7084,
-      "odds": 1.175,
-      "odds_raw": 1.175,
-      "market": 0.8062
+      "odds": 1.17,
+      "odds_raw": 1.17,
+      "market": 0.81
      },
      "12": {
       "model": 0.7534,
-      "odds": 1.27,
-      "odds_raw": 1.27,
-      "market": 0.7459
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7582
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.3837,
-      "odds": 3.63,
-      "odds_raw": 3.9,
-      "market": 0.2398
+      "odds": 3.72,
+      "odds_raw": 4.0,
+      "market": 0.2337
      },
      "ALT": {
       "model": 0.6163,
-      "odds": 1.14,
-      "odds_raw": 1.23,
-      "market": 0.7602
+      "odds": 1.13,
+      "odds_raw": 1.22,
+      "market": 0.7663
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.5136,
       "odds": 1.69,
-      "odds_raw": 1.825,
-      "market": 0.5133
+      "odds_raw": 1.8,
+      "market": 0.5148
      },
      "ALT": {
       "model": 0.4864,
       "odds": 1.79,
-      "odds_raw": 1.925,
-      "market": 0.4867
+      "odds_raw": 1.91,
+      "market": 0.4852
      }
     }
    },
    "alternatives": [
     {
+     "market_type": "CIFTE_SANS",
+     "selection": "12",
+     "odds": 1.25,
+     "confidence": 0.757,
+     "model_prob": 0.753,
+     "market_prob": 0.758,
+     "ev": -0.054,
+     "kind": "banko"
+    },
+    {
      "market_type": "EV_GOL_1_5",
      "selection": "UST",
-     "odds": 3.63,
-     "confidence": 0.282,
+     "odds": 3.72,
+     "confidence": 0.278,
      "model_prob": 0.384,
-     "market_prob": 0.239,
-     "ev": 0.025,
+     "market_prob": 0.233,
+     "ev": 0.035,
      "kind": "surprise"
     }
    ],
@@ -2599,152 +261,152 @@
    "kickoff": "2026-09-11T03:05:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 1.91,
-   "odds_raw": 2.07,
+   "odds": 1.93,
+   "odds_raw": 2.09,
    "odds_normalized": true,
-   "confidence_score": 0.492,
+   "confidence_score": 0.489,
    "model_prob": 0.575,
-   "market_prob": 0.456,
+   "market_prob": 0.452,
    "odds_source": "market",
-   "bookmakers": 13,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.4616,
-      "odds": 1.95,
-      "odds_raw": 2.08,
-      "market": 0.446
+      "odds": 1.92,
+      "odds_raw": 2.05,
+      "market": 0.4525
      },
      "X": {
       "model": 0.2829,
       "odds": 3.28,
       "odds_raw": 3.5,
-      "market": 0.265
+      "market": 0.2651
      },
      "2": {
       "model": 0.2555,
-      "odds": 3.01,
-      "odds_raw": 3.21,
-      "market": 0.289
+      "odds": 3.08,
+      "odds_raw": 3.285,
+      "market": 0.2824
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4246,
-      "odds": 1.6,
-      "odds_raw": 1.73,
-      "market": 0.5447
+      "odds": 1.59,
+      "odds_raw": 1.72,
+      "market": 0.5486
      },
      "ALT": {
       "model": 0.5754,
-      "odds": 1.91,
-      "odds_raw": 2.07,
-      "market": 0.4553
+      "odds": 1.93,
+      "odds_raw": 2.09,
+      "market": 0.4514
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.4762,
-      "odds": 1.51,
-      "odds_raw": 1.605,
-      "market": 0.5776
+      "odds": 1.5,
+      "odds_raw": 1.6,
+      "market": 0.5789
      },
      "YOK": {
       "model": 0.5238,
-      "odds": 2.06,
-      "odds_raw": 2.195,
-      "market": 0.4224
+      "odds": 2.07,
+      "odds_raw": 2.2,
+      "market": 0.4211
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.6931,
       "odds": 1.13,
-      "odds_raw": 1.215,
-      "market": 0.767
+      "odds_raw": 1.22,
+      "market": 0.7663
      },
      "ALT": {
       "model": 0.3069,
-      "odds": 3.73,
+      "odds": 3.72,
       "odds_raw": 4.0,
-      "market": 0.233
+      "market": 0.2337
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2167,
-      "odds": 2.6,
+      "odds": 2.61,
       "odds_raw": 2.8,
-      "market": 0.3341
+      "market": 0.3333
      },
      "ALT": {
       "model": 0.7833,
-      "odds": 1.31,
-      "odds_raw": 1.405,
-      "market": 0.6659
+      "odds": 1.3,
+      "odds_raw": 1.4,
+      "market": 0.6667
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.0931,
-      "odds": 4.91,
-      "odds_raw": 5.275,
-      "market": 0.1771
+      "odds": 4.87,
+      "odds_raw": 5.24,
+      "market": 0.1787
      },
      "ALT": {
       "model": 0.9069,
       "odds": 1.06,
-      "odds_raw": 1.135,
-      "market": 0.8229
+      "odds_raw": 1.14,
+      "market": 0.8213
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7445,
-      "odds": 1.31,
-      "odds_raw": 1.31,
-      "market": 0.7128
+      "odds": 1.3,
+      "odds_raw": 1.3,
+      "market": 0.7185
      },
      "X2": {
       "model": 0.5384,
-      "odds": 1.71,
-      "odds_raw": 1.71,
-      "market": 0.5461
+      "odds": 1.72,
+      "odds_raw": 1.72,
+      "market": 0.5431
      },
      "12": {
       "model": 0.7171,
-      "odds": 1.26,
-      "odds_raw": 1.26,
-      "market": 0.7411
+      "odds": 1.265,
+      "odds_raw": 1.265,
+      "market": 0.7384
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.409,
-      "odds": 1.8,
-      "odds_raw": 1.925,
-      "market": 0.4832
+      "odds": 1.78,
+      "odds_raw": 1.91,
+      "market": 0.4886
      },
      "ALT": {
       "model": 0.591,
-      "odds": 1.68,
-      "odds_raw": 1.8,
-      "market": 0.5168
+      "odds": 1.7,
+      "odds_raw": 1.825,
+      "market": 0.5114
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.2554,
-      "odds": 2.38,
+      "odds": 2.39,
       "odds_raw": 2.56,
-      "market": 0.3648
+      "market": 0.3632
      },
      "ALT": {
       "model": 0.7446,
       "odds": 1.37,
-      "odds_raw": 1.47,
-      "market": 0.6352
+      "odds_raw": 1.46,
+      "market": 0.6368
      }
     }
    },
@@ -2755,18 +417,18 @@
      "odds": 1.37,
      "confidence": 0.668,
      "model_prob": 0.745,
-     "market_prob": 0.635,
-     "ev": -0.085,
+     "market_prob": 0.636,
+     "ev": -0.084,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
-     "odds": 3.73,
+     "odds": 3.72,
      "confidence": 0.255,
      "model_prob": 0.307,
      "market_prob": 0.233,
-     "ev": -0.05,
+     "ev": -0.051,
      "kind": "surprise"
     }
    ],
@@ -3111,138 +773,138 @@
    "kickoff": "2026-09-11T17:00:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 1.55,
-   "odds_raw": 1.66,
+   "odds": 1.56,
+   "odds_raw": 1.67,
    "odds_normalized": true,
-   "confidence_score": 0.575,
+   "confidence_score": 0.573,
    "model_prob": 0.61,
-   "market_prob": 0.56,
+   "market_prob": 0.557,
    "odds_source": "market",
-   "bookmakers": 11,
+   "bookmakers": 14,
    "data_reliability": "medium",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.4436,
-      "odds": 1.97,
-      "odds_raw": 2.07,
-      "market": 0.4417
+      "odds": 1.95,
+      "odds_raw": 2.05,
+      "market": 0.4449
      },
      "X": {
       "model": 0.2945,
-      "odds": 3.09,
-      "odds_raw": 3.25,
-      "market": 0.2813
+      "odds": 3.07,
+      "odds_raw": 3.22,
+      "market": 0.2832
      },
      "2": {
       "model": 0.2619,
-      "odds": 3.14,
-      "odds_raw": 3.3,
-      "market": 0.277
+      "odds": 3.2,
+      "odds_raw": 3.355,
+      "market": 0.2718
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.3896,
-      "odds": 1.97,
-      "odds_raw": 2.11,
-      "market": 0.4403
+      "odds": 1.96,
+      "odds_raw": 2.09,
+      "market": 0.4441
      },
      "ALT": {
       "model": 0.6104,
-      "odds": 1.55,
-      "odds_raw": 1.66,
-      "market": 0.5597
+      "odds": 1.56,
+      "odds_raw": 1.67,
+      "market": 0.5559
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.4508,
       "odds": 1.79,
-      "odds_raw": 1.91,
-      "market": 0.4852
+      "odds_raw": 1.9,
+      "market": 0.4865
      },
      "YOK": {
       "model": 0.5492,
       "odds": 1.69,
       "odds_raw": 1.8,
-      "market": 0.5148
+      "market": 0.5135
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.663,
-      "odds": 1.28,
-      "odds_raw": 1.355,
-      "market": 0.6808
+      "odds": 1.27,
+      "odds_raw": 1.35,
+      "market": 0.6831
      },
      "ALT": {
       "model": 0.337,
-      "odds": 2.72,
-      "odds_raw": 2.89,
-      "market": 0.3192
+      "odds": 2.74,
+      "odds_raw": 2.91,
+      "market": 0.3169
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.1898,
-      "odds": 3.52,
-      "odds_raw": 3.735,
-      "market": 0.247
+      "odds": 3.51,
+      "odds_raw": 3.725,
+      "market": 0.2475
      },
      "ALT": {
       "model": 0.8102,
-      "odds": 1.15,
+      "odds": 1.16,
       "odds_raw": 1.225,
-      "market": 0.753
+      "market": 0.7525
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.0776,
-      "odds": 6.97,
-      "odds_raw": 7.4,
-      "market": 0.1248
+      "odds": 6.92,
+      "odds_raw": 7.3,
+      "market": 0.1257
      },
      "ALT": {
       "model": 0.9224,
       "odds": 1.01,
-      "odds_raw": 1.055,
-      "market": 0.8752
+      "odds_raw": 1.05,
+      "market": 0.8743
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7381,
-      "odds": 1.28,
-      "odds_raw": 1.28,
-      "market": 0.7188
+      "odds": 1.27,
+      "odds_raw": 1.27,
+      "market": 0.7268
      },
      "X2": {
       "model": 0.5564,
-      "odds": 1.62,
-      "odds_raw": 1.62,
-      "market": 0.5679
+      "odds": 1.655,
+      "odds_raw": 1.655,
+      "market": 0.5577
      },
      "12": {
       "model": 0.7055,
       "odds": 1.29,
       "odds_raw": 1.29,
-      "market": 0.7132
+      "market": 0.7155
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.3754,
-      "odds": 2.12,
+      "odds": 2.1,
       "odds_raw": 2.25,
-      "market": 0.411
+      "market": 0.4133
      },
      "ALT": {
       "model": 0.6246,
       "odds": 1.48,
-      "odds_raw": 1.57,
-      "market": 0.589
+      "odds_raw": 1.585,
+      "market": 0.5867
      }
     },
     "DEP_GOL_1_5": {
@@ -3265,29 +927,29 @@
      "market_type": "EV_GOL_1_5",
      "selection": "ALT",
      "odds": 1.48,
-     "confidence": 0.6,
+     "confidence": 0.598,
      "model_prob": 0.625,
-     "market_prob": 0.589,
-     "ev": -0.113,
+     "market_prob": 0.587,
+     "ev": -0.115,
      "kind": "safe"
     },
     {
      "market_type": "CIFTE_SANS",
      "selection": "X2",
-     "odds": 1.62,
-     "confidence": 0.564,
+     "odds": 1.66,
+     "confidence": 0.557,
      "model_prob": 0.556,
-     "market_prob": 0.568,
-     "ev": -0.086,
+     "market_prob": 0.558,
+     "ev": -0.078,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
-     "odds": 2.72,
-     "confidence": 0.325,
+     "odds": 2.74,
+     "confidence": 0.323,
      "model_prob": 0.337,
-     "market_prob": 0.32,
+     "market_prob": 0.317,
      "ev": -0.116,
      "kind": "surprise"
     }
@@ -3356,12 +1018,12 @@
    "kickoff": "2026-09-11T18:00:00+00:00",
    "market_type": "1X2",
    "selection": "1",
-   "odds": 1.06,
+   "odds": 1.05,
    "odds_raw": 1.14,
    "odds_normalized": true,
-   "confidence_score": 0.755,
+   "confidence_score": 0.757,
    "model_prob": 0.596,
-   "market_prob": 0.823,
+   "market_prob": 0.826,
    "odds_source": "market",
    "bookmakers": 14,
    "data_reliability": "exploratory",
@@ -3369,21 +1031,21 @@
     "1X2": {
      "1": {
       "model": 0.5965,
-      "odds": 1.06,
-      "odds_raw": 1.14,
-      "market": 0.8236
+      "odds": 1.05,
+      "odds_raw": 1.135,
+      "market": 0.8255
      },
      "X": {
       "model": 0.2093,
-      "odds": 7.64,
+      "odds": 7.66,
       "odds_raw": 8.25,
-      "market": 0.1138
+      "market": 0.1136
      },
      "2": {
       "model": 0.1942,
-      "odds": 13.89,
-      "odds_raw": 15.0,
-      "market": 0.0626
+      "odds": 14.27,
+      "odds_raw": 15.375,
+      "market": 0.0609
      }
     },
     "UST_ALT_2_5": {
@@ -3404,13 +1066,13 @@
      "VAR": {
       "model": 0.6222,
       "odds": 1.71,
-      "odds_raw": 1.825,
+      "odds_raw": 1.83,
       "market": 0.5094
      },
      "YOK": {
       "model": 0.3778,
       "odds": 1.77,
-      "odds_raw": 1.895,
+      "odds_raw": 1.9,
       "market": 0.4906
      }
     },
@@ -3419,41 +1081,41 @@
       "model": 0.8552,
       "odds": 1.01,
       "odds_raw": 1.06,
-      "market": 0.883
+      "market": 0.8836
      },
      "ALT": {
       "model": 0.1448,
-      "odds": 7.43,
-      "odds_raw": 8.0,
-      "market": 0.117
+      "odds": 7.47,
+      "odds_raw": 8.05,
+      "market": 0.1164
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.437,
       "odds": 1.59,
-      "odds_raw": 1.725,
-      "market": 0.5484
+      "odds_raw": 1.73,
+      "market": 0.5483
      },
      "ALT": {
       "model": 0.563,
       "odds": 1.93,
-      "odds_raw": 2.095,
-      "market": 0.4516
+      "odds_raw": 2.1,
+      "market": 0.4517
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.2517,
       "odds": 2.44,
-      "odds_raw": 2.61,
-      "market": 0.3564
+      "odds_raw": 2.62,
+      "market": 0.3563
      },
      "ALT": {
       "model": 0.7483,
       "odds": 1.35,
-      "odds_raw": 1.445,
-      "market": 0.6436
+      "odds_raw": 1.45,
+      "market": 0.6437
      }
     },
     "CIFTE_SANS": {
@@ -3461,33 +1123,33 @@
       "model": 0.8058,
       "odds": 1.03,
       "odds_raw": 1.03,
-      "market": 0.928
+      "market": 0.9295
      },
      "X2": {
       "model": 0.4035,
-      "odds": 5.35,
-      "odds_raw": 5.35,
-      "market": 0.1787
+      "odds": 5.45,
+      "odds_raw": 5.45,
+      "market": 0.1757
      },
      "12": {
       "model": 0.7907,
       "odds": 1.07,
       "odds_raw": 1.07,
-      "market": 0.8933
+      "market": 0.8948
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.6429,
       "odds": 1.08,
-      "odds_raw": 1.16,
-      "market": 0.8037
+      "odds_raw": 1.15,
+      "market": 0.8051
      },
      "ALT": {
       "model": 0.3571,
-      "odds": 4.43,
+      "odds": 4.46,
       "odds_raw": 4.75,
-      "market": 0.1963
+      "market": 0.1949
      }
     },
     "DEP_GOL_1_5": {
@@ -3519,11 +1181,11 @@
     {
      "market_type": "EV_GOL_1_5",
      "selection": "ALT",
-     "odds": 4.43,
+     "odds": 4.46,
      "confidence": 0.244,
      "model_prob": 0.357,
-     "market_prob": 0.196,
-     "ev": 0.082,
+     "market_prob": 0.195,
+     "ev": 0.086,
      "kind": "surprise"
     }
    ],
@@ -3636,12 +1298,12 @@
    "kickoff": "2026-09-11T18:30:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "UST",
-   "odds": 1.46,
-   "odds_raw": 1.6,
+   "odds": 1.49,
+   "odds_raw": 1.62,
    "odds_normalized": true,
-   "confidence_score": 0.602,
+   "confidence_score": 0.594,
    "model_prob": 0.618,
-   "market_prob": 0.596,
+   "market_prob": 0.584,
    "odds_source": "market",
    "bookmakers": 14,
    "data_reliability": "high",
@@ -3649,139 +1311,139 @@
     "1X2": {
      "1": {
       "model": 0.4991,
-      "odds": 2.06,
-      "odds_raw": 2.25,
-      "market": 0.4226
+      "odds": 2.08,
+      "odds_raw": 2.275,
+      "market": 0.4184
      },
      "X": {
       "model": 0.2357,
-      "odds": 3.34,
-      "odds_raw": 3.65,
-      "market": 0.2605
+      "odds": 3.29,
+      "odds_raw": 3.6,
+      "market": 0.2644
      },
      "2": {
       "model": 0.2652,
       "odds": 2.74,
       "odds_raw": 3.0,
-      "market": 0.3169
+      "market": 0.3173
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.6181,
-      "odds": 1.46,
-      "odds_raw": 1.6,
-      "market": 0.5949
+      "odds": 1.49,
+      "odds_raw": 1.62,
+      "market": 0.5835
      },
      "ALT": {
       "model": 0.3819,
-      "odds": 2.15,
-      "odds_raw": 2.35,
-      "market": 0.4051
+      "odds": 2.09,
+      "odds_raw": 2.27,
+      "market": 0.4165
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.6249,
-      "odds": 1.39,
-      "odds_raw": 1.5,
-      "market": 0.625
+      "odds": 1.41,
+      "odds_raw": 1.51,
+      "market": 0.6187
      },
      "YOK": {
       "model": 0.3751,
-      "odds": 2.32,
-      "odds_raw": 2.5,
-      "market": 0.375
+      "odds": 2.28,
+      "odds_raw": 2.45,
+      "market": 0.3813
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.8326,
-      "odds": 1.08,
-      "odds_raw": 1.17,
-      "market": 0.804
+      "odds": 1.1,
+      "odds_raw": 1.185,
+      "market": 0.7934
      },
      "ALT": {
       "model": 0.1674,
-      "odds": 4.44,
-      "odds_raw": 4.8,
-      "market": 0.196
+      "odds": 4.21,
+      "odds_raw": 4.55,
+      "market": 0.2066
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.3953,
-      "odds": 2.24,
-      "odds_raw": 2.45,
-      "market": 0.389
+      "odds": 2.31,
+      "odds_raw": 2.5,
+      "market": 0.3766
      },
      "ALT": {
       "model": 0.6047,
-      "odds": 1.42,
-      "odds_raw": 1.56,
-      "market": 0.611
+      "odds": 1.39,
+      "odds_raw": 1.51,
+      "market": 0.6234
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.2176,
-      "odds": 3.96,
-      "odds_raw": 4.265,
-      "market": 0.2196
+      "odds": 4.13,
+      "odds_raw": 4.5,
+      "market": 0.2105
      },
      "ALT": {
       "model": 0.7824,
-      "odds": 1.11,
+      "odds": 1.1,
       "odds_raw": 1.2,
-      "market": 0.7804
+      "market": 0.7895
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7348,
-      "odds": 1.36,
-      "odds_raw": 1.36,
-      "market": 0.6928
+      "odds": 1.365,
+      "odds_raw": 1.365,
+      "market": 0.6919
      },
      "X2": {
       "model": 0.5009,
-      "odds": 1.65,
-      "odds_raw": 1.65,
-      "market": 0.5711
+      "odds": 1.64,
+      "odds_raw": 1.64,
+      "market": 0.5759
      },
      "12": {
       "model": 0.7643,
-      "odds": 1.28,
-      "odds_raw": 1.28,
-      "market": 0.7361
+      "odds": 1.29,
+      "odds_raw": 1.29,
+      "market": 0.7322
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.5582,
-      "odds": 1.73,
-      "odds_raw": 1.85,
-      "market": 0.5027
+      "odds": 1.77,
+      "odds_raw": 1.91,
+      "market": 0.492
      },
      "ALT": {
       "model": 0.4418,
-      "odds": 1.75,
-      "odds_raw": 1.87,
-      "market": 0.4973
+      "odds": 1.71,
+      "odds_raw": 1.85,
+      "market": 0.508
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3798,
-      "odds": 2.05,
-      "odds_raw": 2.2,
-      "market": 0.4241
+      "odds": 2.08,
+      "odds_raw": 2.25,
+      "market": 0.4171
      },
      "ALT": {
       "model": 0.6202,
-      "odds": 1.51,
-      "odds_raw": 1.62,
-      "market": 0.5759
+      "odds": 1.49,
+      "odds_raw": 1.61,
+      "market": 0.5829
      }
     }
    },
@@ -3789,41 +1451,41 @@
     {
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
-     "odds": 1.39,
-     "confidence": 0.625,
+     "odds": 1.41,
+     "confidence": 0.62,
      "model_prob": 0.625,
-     "market_prob": 0.625,
-     "ev": -0.131,
+     "market_prob": 0.618,
+     "ev": -0.126,
      "kind": "safe"
     },
     {
      "market_type": "DEP_GOL_1_5",
      "selection": "ALT",
-     "odds": 1.51,
-     "confidence": 0.589,
+     "odds": 1.49,
+     "confidence": 0.594,
      "model_prob": 0.62,
-     "market_prob": 0.576,
-     "ev": -0.11,
+     "market_prob": 0.583,
+     "ev": -0.115,
      "kind": "safe"
     },
     {
      "market_type": "CIFTE_SANS",
      "selection": "X2",
-     "odds": 1.65,
-     "confidence": 0.55,
+     "odds": 1.64,
+     "confidence": 0.553,
      "model_prob": 0.501,
-     "market_prob": 0.571,
+     "market_prob": 0.576,
      "ev": -0.092,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_4_5",
      "selection": "UST",
-     "odds": 3.96,
-     "confidence": 0.219,
+     "odds": 4.13,
+     "confidence": 0.213,
      "model_prob": 0.218,
-     "market_prob": 0.219,
-     "ev": -0.135,
+     "market_prob": 0.21,
+     "ev": -0.122,
      "kind": "surprise"
     }
    ],
@@ -3954,21 +1616,21 @@
     "1X2": {
      "1": {
       "model": 0.4537,
-      "odds": 2.79,
-      "odds_raw": 3.045,
-      "market": 0.3112
+      "odds": 2.77,
+      "odds_raw": 3.025,
+      "market": 0.3142
      },
      "X": {
       "model": 0.2595,
-      "odds": 3.12,
+      "odds": 3.11,
       "odds_raw": 3.4,
-      "market": 0.2787
+      "market": 0.2796
      },
      "2": {
       "model": 0.2867,
-      "odds": 2.12,
-      "odds_raw": 2.31,
-      "market": 0.4102
+      "odds": 2.14,
+      "odds_raw": 2.34,
+      "market": 0.4062
      }
     },
     "UST_ALT_2_5": {
@@ -3976,13 +1638,13 @@
       "model": 0.5311,
       "odds": 1.65,
       "odds_raw": 1.8,
-      "market": 0.5276
+      "market": 0.5282
      },
      "ALT": {
       "model": 0.4689,
       "odds": 1.84,
-      "odds_raw": 2.01,
-      "market": 0.4724
+      "odds_raw": 2.015,
+      "market": 0.4718
      }
     },
     "KG_VAR_YOK": {
@@ -4004,13 +1666,13 @@
       "model": 0.7752,
       "odds": 1.15,
       "odds_raw": 1.25,
-      "market": 0.7587
+      "market": 0.7573
      },
      "ALT": {
       "model": 0.2248,
-      "odds": 3.6,
-      "odds_raw": 3.93,
-      "market": 0.2413
+      "odds": 3.58,
+      "odds_raw": 3.9,
+      "market": 0.2427
      }
     },
     "UST_ALT_3_5": {
@@ -4044,21 +1706,21 @@
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7133,
-      "odds": 1.59,
-      "odds_raw": 1.59,
-      "market": 0.5896
+      "odds": 1.575,
+      "odds_raw": 1.575,
+      "market": 0.5935
      },
      "X2": {
       "model": 0.5463,
       "odds": 1.36,
       "odds_raw": 1.36,
-      "market": 0.6893
+      "market": 0.6874
      },
      "12": {
       "model": 0.7405,
       "odds": 1.3,
       "odds_raw": 1.3,
-      "market": 0.7211
+      "market": 0.7191
      }
     },
     "EV_GOL_1_5": {
@@ -4078,15 +1740,15 @@
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3431,
-      "odds": 1.93,
-      "odds_raw": 2.08,
-      "market": 0.4497
+      "odds": 1.94,
+      "odds_raw": 2.1,
+      "market": 0.4474
      },
      "ALT": {
       "model": 0.6569,
-      "odds": 1.58,
+      "odds": 1.57,
       "odds_raw": 1.7,
-      "market": 0.5503
+      "market": 0.5526
      }
     }
    },
@@ -4104,11 +1766,11 @@
     {
      "market_type": "CIFTE_SANS",
      "selection": "1X",
-     "odds": 1.59,
-     "confidence": 0.627,
+     "odds": 1.57,
+     "confidence": 0.629,
      "model_prob": 0.713,
-     "market_prob": 0.59,
-     "ev": -0.004,
+     "market_prob": 0.594,
+     "ev": -0.009,
      "kind": "safe"
     },
     {
@@ -4124,11 +1786,11 @@
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
-     "odds": 3.6,
-     "confidence": 0.237,
+     "odds": 3.58,
+     "confidence": 0.238,
      "model_prob": 0.225,
-     "market_prob": 0.242,
-     "ev": -0.147,
+     "market_prob": 0.243,
+     "ev": -0.149,
      "kind": "surprise"
     }
    ],
@@ -4531,21 +2193,21 @@
     "1X2": {
      "1": {
       "model": 0.3156,
-      "odds": 3.52,
-      "odds_raw": 3.75,
-      "market": 0.2469
+      "odds": 3.58,
+      "odds_raw": 3.8,
+      "market": 0.243
      },
      "X": {
       "model": 0.2454,
-      "odds": 3.31,
-      "odds_raw": 3.52,
-      "market": 0.2631
+      "odds": 3.32,
+      "odds_raw": 3.525,
+      "market": 0.2619
      },
      "2": {
       "model": 0.439,
-      "odds": 1.77,
-      "odds_raw": 1.89,
-      "market": 0.49
+      "odds": 1.76,
+      "odds_raw": 1.865,
+      "market": 0.4951
      }
     },
     "UST_ALT_2_5": {
@@ -4566,14 +2228,14 @@
      "VAR": {
       "model": 0.6262,
       "odds": 1.53,
-      "odds_raw": 1.635,
-      "market": 0.568
+      "odds_raw": 1.64,
+      "market": 0.5673
      },
      "YOK": {
       "model": 0.3738,
       "odds": 2.01,
       "odds_raw": 2.15,
-      "market": 0.432
+      "market": 0.4327
      }
     },
     "UST_ALT_1_5": {
@@ -4593,63 +2255,63 @@
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.3813,
-      "odds": 2.61,
-      "odds_raw": 2.83,
-      "market": 0.3325
+      "odds": 2.65,
+      "odds_raw": 2.86,
+      "market": 0.3286
      },
      "ALT": {
       "model": 0.6187,
       "odds": 1.3,
-      "odds_raw": 1.41,
-      "market": 0.6675
+      "odds_raw": 1.4,
+      "market": 0.6714
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.2066,
-      "odds": 4.88,
-      "odds_raw": 5.255,
-      "market": 0.1783
+      "odds": 4.87,
+      "odds_raw": 5.25,
+      "market": 0.1784
      },
      "ALT": {
       "model": 0.7934,
       "odds": 1.06,
       "odds_raw": 1.14,
-      "market": 0.8217
+      "market": 0.8216
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.561,
-      "odds": 1.85,
-      "odds_raw": 1.85,
-      "market": 0.5102
+      "odds": 1.86,
+      "odds_raw": 1.86,
+      "market": 0.5082
      },
      "X2": {
       "model": 0.6844,
       "odds": 1.25,
       "odds_raw": 1.25,
-      "market": 0.7552
+      "market": 0.7562
      },
      "12": {
       "model": 0.7546,
       "odds": 1.285,
       "odds_raw": 1.285,
-      "market": 0.7346
+      "market": 0.7356
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.4152,
-      "odds": 2.7,
-      "odds_raw": 2.88,
-      "market": 0.3224
+      "odds": 2.76,
+      "odds_raw": 2.95,
+      "market": 0.3155
      },
      "ALT": {
       "model": 0.5848,
-      "odds": 1.28,
-      "odds_raw": 1.37,
-      "market": 0.6776
+      "odds": 1.27,
+      "odds_raw": 1.36,
+      "market": 0.6845
      }
     },
     "DEP_GOL_1_5": {
@@ -4671,10 +2333,10 @@
     {
      "market_type": "EV_GOL_1_5",
      "selection": "ALT",
-     "odds": 1.28,
-     "confidence": 0.65,
+     "odds": 1.27,
+     "confidence": 0.655,
      "model_prob": 0.585,
-     "market_prob": 0.678,
+     "market_prob": 0.685,
      "ev": -0.168,
      "kind": "safe"
     },
@@ -4691,11 +2353,11 @@
     {
      "market_type": "1X2",
      "selection": "1",
-     "odds": 3.52,
-     "confidence": 0.267,
+     "odds": 3.58,
+     "confidence": 0.265,
      "model_prob": 0.316,
-     "market_prob": 0.247,
-     "ev": -0.059,
+     "market_prob": 0.243,
+     "ev": -0.052,
      "kind": "surprise"
     }
    ],
@@ -4771,12 +2433,12 @@
    "kickoff": "2026-09-11T19:00:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 1.46,
+   "odds": 1.47,
    "odds_raw": 1.6,
    "odds_normalized": true,
-   "confidence_score": 0.572,
+   "confidence_score": 0.569,
    "model_prob": 0.517,
-   "market_prob": 0.596,
+   "market_prob": 0.591,
    "odds_source": "market",
    "bookmakers": 14,
    "data_reliability": "high",
@@ -4784,35 +2446,35 @@
     "1X2": {
      "1": {
       "model": 0.4516,
-      "odds": 2.01,
-      "odds_raw": 2.2,
-      "market": 0.4318
+      "odds": 1.96,
+      "odds_raw": 2.15,
+      "market": 0.4431
      },
      "X": {
       "model": 0.2705,
-      "odds": 2.93,
+      "odds": 2.92,
       "odds_raw": 3.2,
-      "market": 0.2968
+      "market": 0.2977
      },
      "2": {
       "model": 0.2779,
-      "odds": 3.2,
-      "odds_raw": 3.5,
-      "market": 0.2714
+      "odds": 3.35,
+      "odds_raw": 3.675,
+      "market": 0.2592
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4827,
-      "odds": 2.15,
-      "odds_raw": 2.355,
-      "market": 0.4046
+      "odds": 2.12,
+      "odds_raw": 2.315,
+      "market": 0.4094
      },
      "ALT": {
       "model": 0.5173,
-      "odds": 1.46,
-      "odds_raw": 1.6,
-      "market": 0.5954
+      "odds": 1.47,
+      "odds_raw": 1.605,
+      "market": 0.5906
      }
     },
     "KG_VAR_YOK": {
@@ -4832,29 +2494,29 @@
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.7397,
-      "odds": 1.32,
-      "odds_raw": 1.435,
-      "market": 0.6571
+      "odds": 1.31,
+      "odds_raw": 1.42,
+      "market": 0.6615
      },
      "ALT": {
       "model": 0.2603,
-      "odds": 2.54,
-      "odds_raw": 2.75,
-      "market": 0.3429
+      "odds": 2.57,
+      "odds_raw": 2.775,
+      "market": 0.3385
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.265,
-      "odds": 4.01,
-      "odds_raw": 4.33,
-      "market": 0.217
+      "odds": 3.99,
+      "odds_raw": 4.3,
+      "market": 0.2182
      },
      "ALT": {
       "model": 0.735,
       "odds": 1.11,
       "odds_raw": 1.2,
-      "market": 0.783
+      "market": 0.7818
      }
     },
     "UST_ALT_4_5": {
@@ -4876,47 +2538,47 @@
       "model": 0.7221,
       "odds": 1.3,
       "odds_raw": 1.3,
-      "market": 0.7258
+      "market": 0.7288
      },
      "X2": {
       "model": 0.5484,
-      "odds": 1.655,
-      "odds_raw": 1.655,
-      "market": 0.5701
+      "odds": 1.695,
+      "odds_raw": 1.695,
+      "market": 0.5589
      },
      "12": {
       "model": 0.7295,
-      "odds": 1.34,
-      "odds_raw": 1.34,
-      "market": 0.7041
+      "odds": 1.33,
+      "odds_raw": 1.33,
+      "market": 0.7123
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.4385,
-      "odds": 2.29,
-      "odds_raw": 2.45,
-      "market": 0.3797
+      "odds": 2.2,
+      "odds_raw": 2.38,
+      "market": 0.3944
      },
      "ALT": {
       "model": 0.5615,
-      "odds": 1.4,
-      "odds_raw": 1.5,
-      "market": 0.6203
+      "odds": 1.44,
+      "odds_raw": 1.55,
+      "market": 0.6056
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3067,
-      "odds": 3.25,
-      "odds_raw": 3.5,
-      "market": 0.2678
+      "odds": 3.35,
+      "odds_raw": 3.6,
+      "market": 0.2593
      },
      "ALT": {
       "model": 0.6933,
-      "odds": 1.19,
-      "odds_raw": 1.28,
-      "market": 0.7322
+      "odds": 1.17,
+      "odds_raw": 1.26,
+      "market": 0.7407
      }
     }
    },
@@ -4924,31 +2586,31 @@
     {
      "market_type": "EV_GOL_1_5",
      "selection": "ALT",
-     "odds": 1.4,
-     "confidence": 0.603,
+     "odds": 1.44,
+     "confidence": 0.592,
      "model_prob": 0.562,
-     "market_prob": 0.621,
-     "ev": -0.156,
+     "market_prob": 0.604,
+     "ev": -0.148,
      "kind": "safe"
     },
     {
      "market_type": "CIFTE_SANS",
      "selection": "X2",
-     "odds": 1.66,
-     "confidence": 0.564,
+     "odds": 1.7,
+     "confidence": 0.556,
      "model_prob": 0.548,
-     "market_prob": 0.57,
-     "ev": -0.067,
+     "market_prob": 0.559,
+     "ev": -0.058,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_3_5",
      "selection": "UST",
-     "odds": 4.01,
-     "confidence": 0.231,
+     "odds": 3.99,
+     "confidence": 0.232,
      "model_prob": 0.265,
-     "market_prob": 0.217,
-     "ev": -0.073,
+     "market_prob": 0.218,
+     "ev": -0.075,
      "kind": "surprise"
     }
    ],
@@ -5074,9 +2736,9 @@
    "odds": 1.47,
    "odds_raw": 1.57,
    "odds_normalized": true,
-   "confidence_score": 0.594,
+   "confidence_score": 0.595,
    "model_prob": 0.602,
-   "market_prob": 0.591,
+   "market_prob": 0.592,
    "odds_source": "market",
    "bookmakers": 14,
    "data_reliability": "exploratory",
@@ -5086,19 +2748,19 @@
       "model": 0.6016,
       "odds": 1.47,
       "odds_raw": 1.575,
-      "market": 0.5914
+      "market": 0.5922
      },
      "X": {
       "model": 0.2315,
-      "odds": 3.8,
-      "odds_raw": 4.075,
-      "market": 0.2286
+      "odds": 3.82,
+      "odds_raw": 4.1,
+      "market": 0.2275
      },
      "2": {
       "model": 0.167,
-      "odds": 4.83,
+      "odds": 4.82,
       "odds_raw": 5.175,
-      "market": 0.18
+      "market": 0.1802
      }
     },
     "UST_ALT_2_5": {
@@ -5176,33 +2838,33 @@
       "model": 0.833,
       "odds": 1.155,
       "odds_raw": 1.155,
-      "market": 0.8141
+      "market": 0.8154
      },
      "X2": {
       "model": 0.3984,
       "odds": 2.3,
       "odds_raw": 2.3,
-      "market": 0.4088
+      "market": 0.4095
      },
      "12": {
       "model": 0.7685,
-      "odds": 1.21,
-      "odds_raw": 1.21,
-      "market": 0.7771
+      "odds": 1.215,
+      "odds_raw": 1.215,
+      "market": 0.7751
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.5586,
       "odds": 1.47,
-      "odds_raw": 1.58,
-      "market": 0.5896
+      "odds_raw": 1.57,
+      "market": 0.5911
      },
      "ALT": {
       "model": 0.4414,
-      "odds": 2.12,
+      "odds": 2.13,
       "odds_raw": 2.27,
-      "market": 0.4104
+      "market": 0.4089
      }
     },
     "DEP_GOL_1_5": {
@@ -5235,10 +2897,10 @@
      "market_type": "EV_GOL_1_5",
      "selection": "UST",
      "odds": 1.47,
-     "confidence": 0.581,
+     "confidence": 0.582,
      "model_prob": 0.559,
-     "market_prob": 0.591,
-     "ev": -0.146,
+     "market_prob": 0.592,
+     "ev": -0.145,
      "kind": "safe"
     },
     {
@@ -5328,21 +2990,21 @@
     "1X2": {
      "1": {
       "model": 0.2848,
-      "odds": 2.63,
-      "odds_raw": 2.825,
-      "market": 0.3306
+      "odds": 2.64,
+      "odds_raw": 2.85,
+      "market": 0.3289
      },
      "X": {
       "model": 0.3167,
-      "odds": 2.73,
+      "odds": 2.72,
       "odds_raw": 2.935,
-      "market": 0.3182
+      "market": 0.3194
      },
      "2": {
       "model": 0.3985,
-      "odds": 2.48,
-      "odds_raw": 2.66,
-      "market": 0.3511
+      "odds": 2.47,
+      "odds_raw": 2.665,
+      "market": 0.3517
      }
     },
     "UST_ALT_2_5": {
@@ -5418,9 +3080,9 @@
     "CIFTE_SANS": {
      "1X": {
       "model": 0.6015,
-      "odds": 1.445,
-      "odds_raw": 1.445,
-      "market": 0.6479
+      "odds": 1.44,
+      "odds_raw": 1.44,
+      "market": 0.6503
      },
      "X2": {
       "model": 0.7152,
@@ -5430,9 +3092,9 @@
      },
      "12": {
       "model": 0.6833,
-      "odds": 1.375,
-      "odds_raw": 1.375,
-      "market": 0.6809
+      "odds": 1.38,
+      "odds_raw": 1.38,
+      "market": 0.6785
      }
     },
     "EV_GOL_1_5": {
@@ -5488,11 +3150,11 @@
     {
      "market_type": "1X2",
      "selection": "X",
-     "odds": 2.73,
-     "confidence": 0.318,
+     "odds": 2.72,
+     "confidence": 0.319,
      "model_prob": 0.317,
      "market_prob": 0.319,
-     "ev": -0.132,
+     "ev": -0.134,
      "kind": "surprise"
     }
    ],
@@ -5568,12 +3230,12 @@
    "kickoff": "2026-09-11T22:15:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 1.41,
-   "odds_raw": 1.53,
+   "odds": 1.4,
+   "odds_raw": 1.52,
    "odds_normalized": true,
-   "confidence_score": 0.625,
+   "confidence_score": 0.628,
    "model_prob": 0.643,
-   "market_prob": 0.618,
+   "market_prob": 0.622,
    "odds_source": "market",
    "bookmakers": 14,
    "data_reliability": "exploratory",
@@ -5583,61 +3245,61 @@
       "model": 0.4738,
       "odds": 1.95,
       "odds_raw": 2.1,
-      "market": 0.4449
+      "market": 0.4458
      },
      "X": {
       "model": 0.2985,
       "odds": 2.92,
-      "odds_raw": 3.135,
-      "market": 0.298
+      "odds_raw": 3.145,
+      "market": 0.2977
      },
      "2": {
       "model": 0.2278,
-      "odds": 3.38,
-      "odds_raw": 3.635,
-      "market": 0.257
+      "odds": 3.39,
+      "odds_raw": 3.65,
+      "market": 0.2565
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.3571,
-      "odds": 2.28,
-      "odds_raw": 2.48,
-      "market": 0.3815
+      "odds": 2.3,
+      "odds_raw": 2.5,
+      "market": 0.3781
      },
      "ALT": {
       "model": 0.6429,
-      "odds": 1.41,
-      "odds_raw": 1.53,
-      "market": 0.6185
+      "odds": 1.4,
+      "odds_raw": 1.52,
+      "market": 0.6219
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.414,
       "odds": 1.96,
-      "odds_raw": 2.085,
-      "market": 0.4447
+      "odds_raw": 2.1,
+      "market": 0.443
      },
      "YOK": {
       "model": 0.586,
-      "odds": 1.57,
+      "odds": 1.56,
       "odds_raw": 1.67,
-      "market": 0.5553
+      "market": 0.557
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.6331,
       "odds": 1.37,
-      "odds_raw": 1.47,
-      "market": 0.6343
+      "odds_raw": 1.48,
+      "market": 0.6328
      },
      "ALT": {
       "model": 0.3669,
-      "odds": 2.38,
+      "odds": 2.37,
       "odds_raw": 2.55,
-      "market": 0.3657
+      "market": 0.3672
      }
     },
     "UST_ALT_3_5": {
@@ -5671,21 +3333,21 @@
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7722,
-      "odds": 1.255,
-      "odds_raw": 1.255,
-      "market": 0.7449
+      "odds": 1.26,
+      "odds_raw": 1.26,
+      "market": 0.7439
      },
      "X2": {
       "model": 0.5262,
-      "odds": 1.685,
-      "odds_raw": 1.685,
-      "market": 0.5548
+      "odds": 1.7,
+      "odds_raw": 1.7,
+      "market": 0.5514
      },
      "12": {
       "model": 0.7015,
-      "odds": 1.335,
-      "odds_raw": 1.335,
-      "market": 0.7003
+      "odds": 1.33,
+      "odds_raw": 1.33,
+      "market": 0.7047
      }
     },
     "EV_GOL_1_5": {
@@ -5705,15 +3367,15 @@
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.198,
-      "odds": 3.58,
-      "odds_raw": 3.8,
-      "market": 0.243
+      "odds": 3.54,
+      "odds_raw": 3.75,
+      "market": 0.2455
      },
      "ALT": {
       "model": 0.802,
       "odds": 1.15,
       "odds_raw": 1.22,
-      "market": 0.757
+      "market": 0.7545
      }
     }
    },
@@ -5721,11 +3383,11 @@
     {
      "market_type": "CIFTE_SANS",
      "selection": "1X",
-     "odds": 1.25,
-     "confidence": 0.753,
+     "odds": 1.26,
+     "confidence": 0.752,
      "model_prob": 0.772,
-     "market_prob": 0.745,
-     "ev": -0.055,
+     "market_prob": 0.744,
+     "ev": -0.052,
      "kind": "banko"
     },
     {
@@ -5741,11 +3403,11 @@
     {
      "market_type": "KG_VAR_YOK",
      "selection": "YOK",
-     "odds": 1.57,
-     "confidence": 0.564,
+     "odds": 1.56,
+     "confidence": 0.566,
      "model_prob": 0.586,
-     "market_prob": 0.555,
-     "ev": -0.114,
+     "market_prob": 0.557,
+     "ev": -0.118,
      "kind": "safe"
     },
     {
@@ -6342,152 +4004,152 @@
    "kickoff": "2026-09-12T01:00:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 2.07,
-   "odds_raw": 2.23,
+   "odds": 1.94,
+   "odds_raw": 2.1,
    "odds_normalized": true,
-   "confidence_score": 0.451,
+   "confidence_score": 0.47,
    "model_prob": 0.522,
-   "market_prob": 0.42,
+   "market_prob": 0.447,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.4235,
-      "odds": 1.81,
-      "odds_raw": 1.93,
-      "market": 0.4804
+      "odds": 1.84,
+      "odds_raw": 1.965,
+      "market": 0.4718
      },
      "X": {
       "model": 0.2745,
-      "odds": 3.41,
-      "odds_raw": 3.64,
-      "market": 0.2547
+      "odds": 3.38,
+      "odds_raw": 3.6,
+      "market": 0.2575
      },
      "2": {
       "model": 0.302,
-      "odds": 3.28,
-      "odds_raw": 3.5,
-      "market": 0.2649
+      "odds": 3.21,
+      "odds_raw": 3.425,
+      "market": 0.2707
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4785,
-      "odds": 1.5,
-      "odds_raw": 1.62,
-      "market": 0.5792
+      "odds": 1.57,
+      "odds_raw": 1.7,
+      "market": 0.5526
      },
      "ALT": {
       "model": 0.5215,
-      "odds": 2.07,
-      "odds_raw": 2.23,
-      "market": 0.4208
+      "odds": 1.94,
+      "odds_raw": 2.1,
+      "market": 0.4474
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.5284,
-      "odds": 1.45,
-      "odds_raw": 1.53,
-      "market": 0.6005
+      "odds": 1.5,
+      "odds_raw": 1.6,
+      "market": 0.5789
      },
      "YOK": {
       "model": 0.4716,
-      "odds": 2.18,
-      "odds_raw": 2.3,
-      "market": 0.3995
+      "odds": 2.07,
+      "odds_raw": 2.2,
+      "market": 0.4211
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.7365,
-      "odds": 1.1,
-      "odds_raw": 1.155,
-      "market": 0.793
+      "odds": 1.12,
+      "odds_raw": 1.2,
+      "market": 0.7736
      },
      "ALT": {
       "model": 0.2635,
-      "odds": 4.2,
-      "odds_raw": 4.425,
-      "market": 0.207
+      "odds": 3.84,
+      "odds_raw": 4.1,
+      "market": 0.2264
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2613,
-      "odds": 2.34,
-      "odds_raw": 2.46,
-      "market": 0.3708
+      "odds": 2.47,
+      "odds_raw": 2.65,
+      "market": 0.3521
      },
      "ALT": {
       "model": 0.7387,
-      "odds": 1.38,
-      "odds_raw": 1.45,
-      "market": 0.6292
+      "odds": 1.34,
+      "odds_raw": 1.44,
+      "market": 0.6479
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1208,
-      "odds": 4.25,
-      "odds_raw": 4.45,
-      "market": 0.2046
+      "odds": 4.51,
+      "odds_raw": 4.9,
+      "market": 0.1928
      },
      "ALT": {
       "model": 0.8792,
-      "odds": 1.09,
-      "odds_raw": 1.145,
-      "market": 0.7954
+      "odds": 1.08,
+      "odds_raw": 1.17,
+      "market": 0.8072
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.698,
-      "odds": 1.28,
-      "odds_raw": 1.28,
-      "market": 0.728
+      "odds": 1.29,
+      "odds_raw": 1.29,
+      "market": 0.7271
      },
      "X2": {
       "model": 0.5765,
-      "odds": 1.77,
-      "odds_raw": 1.77,
-      "market": 0.5265
+      "odds": 1.775,
+      "odds_raw": 1.775,
+      "market": 0.5284
      },
      "12": {
       "model": 0.7255,
-      "odds": 1.25,
-      "odds_raw": 1.25,
-      "market": 0.7455
+      "odds": 1.26,
+      "odds_raw": 1.26,
+      "market": 0.7444
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.4163,
-      "odds": 1.65,
-      "odds_raw": 1.78,
-      "market": 0.526
+      "odds": 1.72,
+      "odds_raw": 1.83,
+      "market": 0.5067
      },
      "ALT": {
       "model": 0.5837,
-      "odds": 1.83,
-      "odds_raw": 1.975,
-      "market": 0.474
+      "odds": 1.76,
+      "odds_raw": 1.88,
+      "market": 0.4933
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3243,
-      "odds": 2.37,
-      "odds_raw": 2.53,
-      "market": 0.3667
+      "odds": 2.45,
+      "odds_raw": 2.62,
+      "market": 0.3547
      },
      "ALT": {
       "model": 0.6757,
-      "odds": 1.37,
-      "odds_raw": 1.465,
-      "market": 0.6333
+      "odds": 1.35,
+      "odds_raw": 1.44,
+      "market": 0.6453
      }
     }
    },
@@ -6495,31 +4157,31 @@
     {
      "market_type": "DEP_GOL_1_5",
      "selection": "ALT",
-     "odds": 1.37,
-     "confidence": 0.646,
+     "odds": 1.35,
+     "confidence": 0.654,
      "model_prob": 0.676,
-     "market_prob": 0.634,
-     "ev": -0.115,
+     "market_prob": 0.645,
+     "ev": -0.117,
      "kind": "safe"
     },
     {
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
-     "odds": 1.45,
-     "confidence": 0.579,
+     "odds": 1.5,
+     "confidence": 0.564,
      "model_prob": 0.528,
-     "market_prob": 0.601,
-     "ev": -0.161,
+     "market_prob": 0.58,
+     "ev": -0.153,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
-     "odds": 4.2,
-     "confidence": 0.224,
+     "odds": 3.84,
+     "confidence": 0.237,
      "model_prob": 0.264,
-     "market_prob": 0.208,
-     "ev": -0.058,
+     "market_prob": 0.226,
+     "ev": -0.089,
      "kind": "surprise"
     }
    ],
@@ -6595,194 +4257,204 @@
    "kickoff": "2026-09-12T03:00:00+00:00",
    "market_type": "1X2",
    "selection": "1",
-   "odds": 1.88,
-   "odds_raw": 2.01,
+   "odds": 1.85,
+   "odds_raw": 1.97,
    "odds_normalized": true,
-   "confidence_score": 0.477,
+   "confidence_score": 0.482,
    "model_prob": 0.511,
-   "market_prob": 0.462,
+   "market_prob": 0.47,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.5109,
-      "odds": 1.88,
-      "odds_raw": 2.01,
-      "market": 0.4613
+      "odds": 1.85,
+      "odds_raw": 1.97,
+      "market": 0.4702
      },
      "X": {
       "model": 0.259,
-      "odds": 3.05,
-      "odds_raw": 3.25,
-      "market": 0.2853
+      "odds": 3.19,
+      "odds_raw": 3.4,
+      "market": 0.2725
      },
      "2": {
       "model": 0.2301,
-      "odds": 3.43,
-      "odds_raw": 3.66,
-      "market": 0.2534
+      "odds": 3.38,
+      "odds_raw": 3.6,
+      "market": 0.2573
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4921,
-      "odds": 1.62,
-      "odds_raw": 1.75,
-      "market": 0.5358
+      "odds": 1.63,
+      "odds_raw": 1.76,
+      "market": 0.5332
      },
      "ALT": {
       "model": 0.5079,
-      "odds": 1.87,
-      "odds_raw": 2.02,
-      "market": 0.4642
+      "odds": 1.86,
+      "odds_raw": 2.01,
+      "market": 0.4668
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.5181,
-      "odds": 1.52,
-      "odds_raw": 1.61,
-      "market": 0.5718
+      "odds": 1.54,
+      "odds_raw": 1.63,
+      "market": 0.5642
      },
      "YOK": {
       "model": 0.4819,
-      "odds": 2.03,
-      "odds_raw": 2.15,
-      "market": 0.4282
+      "odds": 2.0,
+      "odds_raw": 2.11,
+      "market": 0.4358
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.7465,
       "odds": 1.15,
-      "odds_raw": 1.21,
-      "market": 0.758
+      "odds_raw": 1.22,
+      "market": 0.7594
      },
      "ALT": {
       "model": 0.2535,
-      "odds": 3.59,
-      "odds_raw": 3.79,
-      "market": 0.242
+      "odds": 3.61,
+      "odds_raw": 3.85,
+      "market": 0.2406
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2732,
-      "odds": 2.53,
-      "odds_raw": 2.65,
-      "market": 0.3432
+      "odds": 2.65,
+      "odds_raw": 2.84,
+      "market": 0.3286
      },
      "ALT": {
       "model": 0.7268,
-      "odds": 1.32,
-      "odds_raw": 1.385,
-      "market": 0.6568
+      "odds": 1.3,
+      "odds_raw": 1.39,
+      "market": 0.6714
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1286,
-      "odds": 4.77,
-      "odds_raw": 5.025,
-      "market": 0.1823
+      "odds": 5.03,
+      "odds_raw": 5.4,
+      "market": 0.173
      },
      "ALT": {
       "model": 0.8714,
-      "odds": 1.06,
-      "odds_raw": 1.12,
-      "market": 0.8177
+      "odds": 1.05,
+      "odds_raw": 1.13,
+      "market": 0.827
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.7699,
-      "odds": 1.27,
-      "odds_raw": 1.27,
-      "market": 0.7367
+      "odds": 1.265,
+      "odds_raw": 1.265,
+      "market": 0.742
      },
      "X2": {
       "model": 0.4891,
-      "odds": 1.73,
-      "odds_raw": 1.73,
-      "market": 0.5408
+      "odds": 1.77,
+      "odds_raw": 1.77,
+      "market": 0.5303
      },
      "12": {
       "model": 0.741,
-      "odds": 1.295,
-      "odds_raw": 1.295,
-      "market": 0.7225
+      "odds": 1.29,
+      "odds_raw": 1.29,
+      "market": 0.7276
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.4839,
-      "odds": 1.76,
-      "odds_raw": 1.9,
-      "market": 0.494
+      "odds": 1.75,
+      "odds_raw": 1.88,
+      "market": 0.496
      },
      "ALT": {
       "model": 0.5161,
-      "odds": 1.72,
-      "odds_raw": 1.855,
-      "market": 0.506
+      "odds": 1.73,
+      "odds_raw": 1.85,
+      "market": 0.504
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.2696,
-      "odds": 2.55,
-      "odds_raw": 2.715,
-      "market": 0.341
+      "odds": 2.58,
+      "odds_raw": 2.75,
+      "market": 0.3373
      },
      "ALT": {
       "model": 0.7304,
-      "odds": 1.32,
-      "odds_raw": 1.405,
-      "market": 0.659
+      "odds": 1.31,
+      "odds_raw": 1.4,
+      "market": 0.6627
      }
     }
    },
    "alternatives": [
     {
-     "market_type": "DEP_GOL_1_5",
-     "selection": "ALT",
-     "odds": 1.32,
-     "confidence": 0.68,
-     "model_prob": 0.73,
-     "market_prob": 0.659,
-     "ev": -0.102,
-     "kind": "safe"
+     "market_type": "CIFTE_SANS",
+     "selection": "1X",
+     "odds": 1.26,
+     "confidence": 0.75,
+     "model_prob": 0.77,
+     "market_prob": 0.742,
+     "ev": -0.051,
+     "kind": "banko"
     },
     {
      "market_type": "UST_ALT_3_5",
      "selection": "ALT",
-     "odds": 1.32,
-     "confidence": 0.678,
+     "odds": 1.3,
+     "confidence": 0.688,
      "model_prob": 0.727,
-     "market_prob": 0.657,
+     "market_prob": 0.671,
+     "ev": -0.106,
+     "kind": "safe"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.31,
+     "confidence": 0.683,
+     "model_prob": 0.73,
+     "market_prob": 0.663,
      "ev": -0.105,
      "kind": "safe"
     },
     {
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
-     "odds": 1.52,
-     "confidence": 0.556,
+     "odds": 1.54,
+     "confidence": 0.551,
      "model_prob": 0.518,
-     "market_prob": 0.572,
-     "ev": -0.155,
+     "market_prob": 0.565,
+     "ev": -0.152,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
-     "odds": 3.59,
-     "confidence": 0.246,
+     "odds": 3.61,
+     "confidence": 0.245,
      "model_prob": 0.253,
-     "market_prob": 0.243,
-     "ev": -0.117,
+     "market_prob": 0.242,
+     "ev": -0.115,
      "kind": "surprise"
     }
    ],
@@ -6858,152 +4530,152 @@
    "kickoff": "2026-09-12T03:00:00+00:00",
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
-   "odds": 1.9,
-   "odds_raw": 2.05,
+   "odds": 1.88,
+   "odds_raw": 2.04,
    "odds_normalized": true,
-   "confidence_score": 0.495,
+   "confidence_score": 0.499,
    "model_prob": 0.582,
-   "market_prob": 0.457,
+   "market_prob": 0.463,
    "odds_source": "market",
-   "bookmakers": 4,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.3729,
-      "odds": 3.3,
-      "odds_raw": 3.54,
-      "market": 0.2633
+      "odds": 2.83,
+      "odds_raw": 3.02,
+      "market": 0.307
      },
      "X": {
       "model": 0.2927,
-      "odds": 3.23,
-      "odds_raw": 3.46,
-      "market": 0.2694
+      "odds": 3.19,
+      "odds_raw": 3.4,
+      "market": 0.2726
      },
      "2": {
       "model": 0.3344,
-      "odds": 1.86,
-      "odds_raw": 1.995,
-      "market": 0.4673
+      "odds": 2.07,
+      "odds_raw": 2.205,
+      "market": 0.4204
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4182,
-      "odds": 1.6,
-      "odds_raw": 1.73,
-      "market": 0.5423
+      "odds": 1.62,
+      "odds_raw": 1.75,
+      "market": 0.5383
      },
      "ALT": {
       "model": 0.5818,
-      "odds": 1.9,
-      "odds_raw": 2.05,
-      "market": 0.4577
+      "odds": 1.88,
+      "odds_raw": 2.04,
+      "market": 0.4617
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.4847,
-      "odds": 1.5,
-      "odds_raw": 1.6,
-      "market": 0.5778
+      "odds": 1.49,
+      "odds_raw": 1.58,
+      "market": 0.582
      },
      "YOK": {
       "model": 0.5153,
-      "odds": 2.06,
-      "odds_raw": 2.19,
-      "market": 0.4222
+      "odds": 2.08,
+      "odds_raw": 2.2,
+      "market": 0.418
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.688,
-      "odds": 1.13,
-      "odds_raw": 1.19,
-      "market": 0.7685
+      "odds": 1.14,
+      "odds_raw": 1.22,
+      "market": 0.764
      },
      "ALT": {
       "model": 0.312,
-      "odds": 3.76,
+      "odds": 3.68,
       "odds_raw": 3.95,
-      "market": 0.2315
+      "market": 0.236
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2117,
-      "odds": 2.57,
-      "odds_raw": 2.7,
-      "market": 0.3382
+      "odds": 2.58,
+      "odds_raw": 2.75,
+      "market": 0.3373
      },
      "ALT": {
       "model": 0.7883,
       "odds": 1.31,
-      "odds_raw": 1.38,
-      "market": 0.6618
+      "odds_raw": 1.4,
+      "market": 0.6627
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.0902,
-      "odds": 4.87,
-      "odds_raw": 5.13,
-      "market": 0.1785
+      "odds": 4.91,
+      "odds_raw": 5.3,
+      "market": 0.177
      },
      "ALT": {
       "model": 0.9098,
       "odds": 1.06,
-      "odds_raw": 1.115,
-      "market": 0.8215
+      "odds_raw": 1.14,
+      "market": 0.823
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.6656,
-      "odds": 1.76,
-      "odds_raw": 1.76,
-      "market": 0.5287
+      "odds": 1.61,
+      "odds_raw": 1.61,
+      "market": 0.5805
      },
      "X2": {
       "model": 0.6271,
-      "odds": 1.26,
-      "odds_raw": 1.26,
-      "market": 0.7385
+      "odds": 1.35,
+      "odds_raw": 1.35,
+      "market": 0.6923
      },
      "12": {
       "model": 0.7073,
-      "odds": 1.27,
-      "odds_raw": 1.27,
-      "market": 0.7327
+      "odds": 1.285,
+      "odds_raw": 1.285,
+      "market": 0.7273
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.3433,
-      "odds": 2.53,
-      "odds_raw": 2.715,
-      "market": 0.3434
+      "odds": 2.3,
+      "odds_raw": 2.47,
+      "market": 0.3778
      },
      "ALT": {
       "model": 0.6567,
-      "odds": 1.32,
-      "odds_raw": 1.42,
-      "market": 0.6566
+      "odds": 1.4,
+      "odds_raw": 1.5,
+      "market": 0.6222
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3147,
-      "odds": 1.75,
-      "odds_raw": 1.875,
-      "market": 0.496
+      "odds": 1.87,
+      "odds_raw": 2.0,
+      "market": 0.4652
      },
      "ALT": {
       "model": 0.6853,
-      "odds": 1.73,
-      "odds_raw": 1.845,
-      "market": 0.504
+      "odds": 1.63,
+      "odds_raw": 1.74,
+      "market": 0.5348
      }
     }
    },
@@ -7011,41 +4683,41 @@
     {
      "market_type": "EV_GOL_1_5",
      "selection": "ALT",
-     "odds": 1.32,
-     "confidence": 0.657,
+     "odds": 1.4,
+     "confidence": 0.632,
      "model_prob": 0.657,
-     "market_prob": 0.657,
-     "ev": -0.133,
+     "market_prob": 0.622,
+     "ev": -0.115,
      "kind": "safe"
     },
     {
      "market_type": "CIFTE_SANS",
      "selection": "1X",
-     "odds": 1.76,
-     "confidence": 0.57,
+     "odds": 1.61,
+     "confidence": 0.606,
      "model_prob": 0.666,
-     "market_prob": 0.529,
-     "ev": 0.003,
+     "market_prob": 0.58,
+     "ev": -0.024,
      "kind": "safe"
     },
     {
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
-     "odds": 1.5,
-     "confidence": 0.55,
+     "odds": 1.49,
+     "confidence": 0.553,
      "model_prob": 0.485,
-     "market_prob": 0.579,
-     "ev": -0.174,
+     "market_prob": 0.583,
+     "ev": -0.176,
      "kind": "safe"
     },
     {
-     "market_type": "1X2",
-     "selection": "1",
-     "odds": 3.3,
-     "confidence": 0.296,
-     "model_prob": 0.373,
-     "market_prob": 0.263,
-     "ev": -0.022,
+     "market_type": "UST_ALT_1_5",
+     "selection": "ALT",
+     "odds": 3.68,
+     "confidence": 0.259,
+     "model_prob": 0.312,
+     "market_prob": 0.237,
+     "ev": -0.046,
      "kind": "surprise"
     }
    ],
@@ -15108,103 +12780,103 @@
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
    "odds": 1.64,
-   "odds_raw": 1.79,
+   "odds_raw": 1.78,
    "odds_normalized": true,
-   "confidence_score": 0.529,
+   "confidence_score": 0.53,
    "model_prob": 0.526,
-   "market_prob": 0.53,
+   "market_prob": 0.531,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.3974,
-      "odds": 2.43,
-      "odds_raw": 2.61,
-      "market": 0.3572
+      "odds": 2.39,
+      "odds_raw": 2.56,
+      "market": 0.3641
      },
      "X": {
       "model": 0.2774,
-      "odds": 3.0,
-      "odds_raw": 3.22,
-      "market": 0.2896
+      "odds": 3.03,
+      "odds_raw": 3.25,
+      "market": 0.2868
      },
      "2": {
       "model": 0.3253,
-      "odds": 2.46,
-      "odds_raw": 2.64,
-      "market": 0.3532
+      "odds": 2.49,
+      "odds_raw": 2.67,
+      "market": 0.3491
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.474,
-      "odds": 1.85,
+      "odds": 1.86,
       "odds_raw": 2.02,
-      "market": 0.4705
+      "market": 0.4684
      },
      "ALT": {
       "model": 0.526,
       "odds": 1.64,
-      "odds_raw": 1.795,
-      "market": 0.5295
+      "odds_raw": 1.78,
+      "market": 0.5316
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.5279,
       "odds": 1.63,
-      "odds_raw": 1.735,
-      "market": 0.5342
+      "odds_raw": 1.75,
+      "market": 0.5321
      },
      "YOK": {
       "model": 0.4721,
-      "odds": 1.87,
+      "odds": 1.86,
       "odds_raw": 1.99,
-      "market": 0.4658
+      "market": 0.4679
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.733,
-      "odds": 1.23,
-      "odds_raw": 1.29,
-      "market": 0.7088
+      "odds": 1.22,
+      "odds_raw": 1.3,
+      "market": 0.7143
      },
      "ALT": {
       "model": 0.267,
-      "odds": 2.99,
-      "odds_raw": 3.14,
-      "market": 0.2912
+      "odds": 3.04,
+      "odds_raw": 3.25,
+      "market": 0.2857
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2575,
-      "odds": 3.24,
-      "odds_raw": 3.405,
-      "market": 0.2685
+      "odds": 3.26,
+      "odds_raw": 3.5,
+      "market": 0.267
      },
      "ALT": {
       "model": 0.7425,
       "odds": 1.19,
-      "odds_raw": 1.25,
-      "market": 0.7315
+      "odds_raw": 1.275,
+      "market": 0.733
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1183,
-      "odds": 6.24,
-      "odds_raw": 6.545,
-      "market": 0.1394
+      "odds": 6.44,
+      "odds_raw": 6.92,
+      "market": 0.135
      },
      "ALT": {
       "model": 0.8817,
       "odds": 1.01,
-      "odds_raw": 1.06,
-      "market": 0.8606
+      "odds_raw": 1.08,
+      "market": 0.865
      }
     },
     "CIFTE_SANS": {
@@ -15212,47 +12884,47 @@
       "model": 0.6747,
       "odds": 1.44,
       "odds_raw": 1.44,
-      "market": 0.6511
+      "market": 0.6501
      },
      "X2": {
       "model": 0.6026,
-      "odds": 1.45,
-      "odds_raw": 1.45,
-      "market": 0.6466
+      "odds": 1.455,
+      "odds_raw": 1.455,
+      "market": 0.6434
      },
      "12": {
       "model": 0.7226,
-      "odds": 1.335,
-      "odds_raw": 1.335,
-      "market": 0.7023
+      "odds": 1.325,
+      "odds_raw": 1.325,
+      "market": 0.7065
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.3948,
       "odds": 2.32,
-      "odds_raw": 2.495,
-      "market": 0.3755
+      "odds_raw": 2.5,
+      "market": 0.375
      },
      "ALT": {
       "model": 0.6052,
       "odds": 1.39,
       "odds_raw": 1.5,
-      "market": 0.6245
+      "market": 0.625
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.3404,
       "odds": 2.33,
-      "odds_raw": 2.51,
-      "market": 0.3725
+      "odds_raw": 2.5,
+      "market": 0.3734
      },
      "ALT": {
       "model": 0.6596,
       "odds": 1.39,
       "odds_raw": 1.49,
-      "market": 0.6275
+      "market": 0.6266
      }
     }
    },
@@ -15270,11 +12942,11 @@
     {
      "market_type": "UST_ALT_3_5",
      "selection": "UST",
-     "odds": 3.24,
-     "confidence": 0.265,
+     "odds": 3.26,
+     "confidence": 0.264,
      "model_prob": 0.257,
-     "market_prob": 0.269,
-     "ev": -0.141,
+     "market_prob": 0.267,
+     "ev": -0.138,
      "kind": "surprise"
     }
    ],
@@ -18652,7 +16324,7 @@
    "model_prob": 0.631,
    "market_prob": 0.749,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
@@ -18678,105 +16350,105 @@
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4987,
-      "odds": 1.62,
-      "odds_raw": 1.77,
-      "market": 0.5366
+      "odds": 1.61,
+      "odds_raw": 1.755,
+      "market": 0.5388
      },
      "ALT": {
       "model": 0.5013,
-      "odds": 1.88,
+      "odds": 1.89,
       "odds_raw": 2.05,
-      "market": 0.4634
+      "market": 0.4612
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.4647,
-      "odds": 2.19,
-      "odds_raw": 2.325,
-      "market": 0.3969
+      "odds": 2.21,
+      "odds_raw": 2.35,
+      "market": 0.3943
      },
      "YOK": {
       "model": 0.5353,
       "odds": 1.44,
       "odds_raw": 1.53,
-      "market": 0.6031
+      "market": 0.6057
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.7508,
-      "odds": 1.15,
-      "odds_raw": 1.21,
-      "market": 0.759
+      "odds": 1.14,
+      "odds_raw": 1.22,
+      "market": 0.7605
      },
      "ALT": {
       "model": 0.2492,
-      "odds": 3.61,
-      "odds_raw": 3.81,
-      "market": 0.241
+      "odds": 3.63,
+      "odds_raw": 3.875,
+      "market": 0.2395
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.279,
-      "odds": 2.63,
-      "odds_raw": 2.76,
-      "market": 0.3309
+      "odds": 2.68,
+      "odds_raw": 2.9,
+      "market": 0.3248
      },
      "ALT": {
       "model": 0.721,
-      "odds": 1.3,
-      "odds_raw": 1.365,
-      "market": 0.6691
+      "odds": 1.29,
+      "odds_raw": 1.395,
+      "market": 0.6752
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1324,
-      "odds": 5.04,
-      "odds_raw": 5.3,
-      "market": 0.1725
+      "odds": 5.06,
+      "odds_raw": 5.5,
+      "market": 0.1717
      },
      "ALT": {
       "model": 0.8676,
       "odds": 1.05,
-      "odds_raw": 1.105,
-      "market": 0.8275
+      "odds_raw": 1.14,
+      "market": 0.8283
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.3689,
-      "odds": 3.8,
-      "odds_raw": 3.8,
-      "market": 0.2491
+      "odds": 3.75,
+      "odds_raw": 3.75,
+      "market": 0.2539
      },
      "X2": {
       "model": 0.8572,
-      "odds": 1.02,
-      "odds_raw": 1.02,
-      "market": 0.9279
+      "odds": 1.045,
+      "odds_raw": 1.045,
+      "market": 0.911
      },
      "12": {
       "model": 0.774,
-      "odds": 1.15,
-      "odds_raw": 1.15,
-      "market": 0.823
+      "odds": 1.14,
+      "odds_raw": 1.14,
+      "market": 0.8351
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.1839,
-      "odds": 7.29,
-      "odds_raw": 7.9,
-      "market": 0.1193
+      "odds": 6.51,
+      "odds_raw": 7.0,
+      "market": 0.1337
      },
      "ALT": {
       "model": 0.8161,
       "odds": 1.01,
-      "odds_raw": 1.07,
-      "market": 0.8807
+      "odds_raw": 1.08,
+      "market": 0.8663
      }
     },
     "DEP_GOL_1_5": {
@@ -18784,13 +16456,13 @@
       "model": 0.5632,
       "odds": 1.32,
       "odds_raw": 1.42,
-      "market": 0.6578
+      "market": 0.6595
      },
      "ALT": {
       "model": 0.4368,
-      "odds": 2.54,
-      "odds_raw": 2.73,
-      "market": 0.3422
+      "odds": 2.55,
+      "odds_raw": 2.75,
+      "market": 0.3405
      }
     }
    },
@@ -18798,11 +16470,11 @@
     {
      "market_type": "UST_ALT_3_5",
      "selection": "ALT",
-     "odds": 1.3,
-     "confidence": 0.685,
+     "odds": 1.29,
+     "confidence": 0.689,
      "model_prob": 0.721,
-     "market_prob": 0.669,
-     "ev": -0.11,
+     "market_prob": 0.675,
+     "ev": -0.111,
      "kind": "safe"
     },
     {
@@ -18811,28 +16483,28 @@
      "odds": 1.32,
      "confidence": 0.63,
      "model_prob": 0.563,
-     "market_prob": 0.658,
-     "ev": -0.169,
+     "market_prob": 0.659,
+     "ev": -0.168,
      "kind": "safe"
     },
     {
      "market_type": "KG_VAR_YOK",
      "selection": "YOK",
      "odds": 1.44,
-     "confidence": 0.583,
+     "confidence": 0.584,
      "model_prob": 0.535,
-     "market_prob": 0.603,
-     "ev": -0.161,
+     "market_prob": 0.605,
+     "ev": -0.158,
      "kind": "safe"
     },
     {
      "market_type": "EV_GOL_1_5",
      "selection": "UST",
-     "odds": 7.29,
-     "confidence": 0.14,
+     "odds": 6.51,
+     "confidence": 0.149,
      "model_prob": 0.184,
-     "market_prob": 0.122,
-     "ev": 0.023,
+     "market_prob": 0.134,
+     "ev": -0.029,
      "kind": "surprise"
     }
    ],
@@ -23137,137 +20809,137 @@
    "market_type": "UST_ALT_2_5",
    "selection": "ALT",
    "odds": 1.59,
-   "odds_raw": 1.74,
+   "odds_raw": 1.73,
    "odds_normalized": true,
-   "confidence_score": 0.547,
+   "confidence_score": 0.548,
    "model_prob": 0.549,
-   "market_prob": 0.546,
+   "market_prob": 0.547,
    "odds_source": "market",
-   "bookmakers": 5,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.3877,
-      "odds": 3.26,
-      "odds_raw": 3.52,
-      "market": 0.2667
+      "odds": 3.29,
+      "odds_raw": 3.55,
+      "market": 0.2644
      },
      "X": {
       "model": 0.2837,
-      "odds": 3.04,
-      "odds_raw": 3.28,
-      "market": 0.2862
+      "odds": 3.06,
+      "odds_raw": 3.3,
+      "market": 0.2844
      },
      "2": {
       "model": 0.3287,
-      "odds": 1.95,
-      "odds_raw": 2.1,
-      "market": 0.4471
+      "odds": 1.93,
+      "odds_raw": 2.08,
+      "market": 0.4512
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.4506,
-      "odds": 1.91,
-      "odds_raw": 2.09,
-      "market": 0.4543
+      "odds": 1.92,
+      "odds_raw": 2.08,
+      "market": 0.4541
      },
      "ALT": {
       "model": 0.5494,
       "odds": 1.59,
-      "odds_raw": 1.74,
-      "market": 0.5457
+      "odds_raw": 1.73,
+      "market": 0.5459
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.5099,
-      "odds": 1.71,
-      "odds_raw": 1.82,
-      "market": 0.5074
+      "odds": 1.7,
+      "odds_raw": 1.83,
+      "market": 0.51
      },
      "YOK": {
       "model": 0.4901,
       "odds": 1.77,
-      "odds_raw": 1.875,
-      "market": 0.4926
+      "odds_raw": 1.905,
+      "market": 0.49
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.7146,
-      "odds": 1.25,
-      "odds_raw": 1.32,
-      "market": 0.6937
+      "odds": 1.24,
+      "odds_raw": 1.335,
+      "market": 0.7023
      },
      "ALT": {
       "model": 0.2854,
-      "odds": 2.84,
-      "odds_raw": 2.99,
-      "market": 0.3063
+      "odds": 2.92,
+      "odds_raw": 3.15,
+      "market": 0.2977
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.2378,
-      "odds": 3.46,
-      "odds_raw": 3.635,
-      "market": 0.2513
+      "odds": 3.43,
+      "odds_raw": 3.675,
+      "market": 0.2538
      },
      "ALT": {
       "model": 0.7622,
-      "odds": 1.16,
-      "odds_raw": 1.22,
-      "market": 0.7487
+      "odds": 1.17,
+      "odds_raw": 1.25,
+      "market": 0.7462
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1059,
-      "odds": 6.95,
-      "odds_raw": 7.2,
-      "market": 0.1252
+      "odds": 6.83,
+      "odds_raw": 7.4,
+      "market": 0.1274
      },
      "ALT": {
       "model": 0.8941,
       "odds": 1.01,
-      "odds_raw": 1.03,
-      "market": 0.8748
+      "odds_raw": 1.08,
+      "market": 0.8726
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.6713,
-      "odds": 1.7,
-      "odds_raw": 1.7,
-      "market": 0.5546
+      "odds": 1.73,
+      "odds_raw": 1.73,
+      "market": 0.543
      },
      "X2": {
       "model": 0.6123,
-      "odds": 1.28,
-      "odds_raw": 1.28,
-      "market": 0.7366
+      "odds": 1.265,
+      "odds_raw": 1.265,
+      "market": 0.7426
      },
      "12": {
       "model": 0.7163,
-      "odds": 1.33,
-      "odds_raw": 1.33,
-      "market": 0.7089
+      "odds": 1.315,
+      "odds_raw": 1.315,
+      "market": 0.7144
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.3735,
-      "odds": 2.95,
-      "odds_raw": 3.13,
-      "market": 0.295
+      "odds": 3.01,
+      "odds_raw": 3.2,
+      "market": 0.2889
      },
      "ALT": {
       "model": 0.6265,
-      "odds": 1.23,
-      "odds_raw": 1.31,
-      "market": 0.705
+      "odds": 1.22,
+      "odds_raw": 1.3,
+      "market": 0.7111
      }
     },
     "DEP_GOL_1_5": {
@@ -23299,21 +20971,21 @@
     {
      "market_type": "CIFTE_SANS",
      "selection": "1X",
-     "odds": 1.7,
-     "confidence": 0.59,
+     "odds": 1.73,
+     "confidence": 0.582,
      "model_prob": 0.671,
-     "market_prob": 0.555,
-     "ev": 0.002,
+     "market_prob": 0.543,
+     "ev": 0.006,
      "kind": "safe"
     },
     {
      "market_type": "1X2",
      "selection": "1",
-     "odds": 3.26,
-     "confidence": 0.303,
+     "odds": 3.29,
+     "confidence": 0.301,
      "model_prob": 0.388,
-     "market_prob": 0.267,
-     "ev": -0.011,
+     "market_prob": 0.265,
+     "ev": -0.008,
      "kind": "surprise"
     }
    ],
@@ -24464,184 +22136,184 @@
    "kickoff": "2026-09-12T23:00:00+00:00",
    "market_type": "1X2",
    "selection": "1",
-   "odds": 1.33,
-   "odds_raw": 1.42,
+   "odds": 1.39,
+   "odds_raw": 1.48,
    "odds_normalized": true,
-   "confidence_score": 0.641,
+   "confidence_score": 0.621,
    "model_prob": 0.608,
-   "market_prob": 0.655,
+   "market_prob": 0.626,
    "odds_source": "market",
-   "bookmakers": 3,
+   "bookmakers": 14,
    "data_reliability": "exploratory",
    "markets": {
     "1X2": {
      "1": {
       "model": 0.6079,
-      "odds": 1.33,
-      "odds_raw": 1.42,
-      "market": 0.6555
+      "odds": 1.39,
+      "odds_raw": 1.475,
+      "market": 0.627
      },
      "X": {
       "model": 0.2205,
-      "odds": 4.3,
-      "odds_raw": 4.6,
-      "market": 0.2024
+      "odds": 3.97,
+      "odds_raw": 4.225,
+      "market": 0.2189
      },
      "2": {
       "model": 0.1716,
-      "odds": 6.12,
-      "odds_raw": 6.55,
-      "market": 0.1421
+      "odds": 5.64,
+      "odds_raw": 6.0,
+      "market": 0.1541
      }
     },
     "UST_ALT_2_5": {
      "UST": {
       "model": 0.5721,
-      "odds": 1.44,
-      "odds_raw": 1.555,
-      "market": 0.6038
+      "odds": 1.49,
+      "odds_raw": 1.61,
+      "market": 0.5829
      },
      "ALT": {
       "model": 0.4279,
-      "odds": 2.19,
-      "odds_raw": 2.37,
-      "market": 0.3962
+      "odds": 2.08,
+      "odds_raw": 2.25,
+      "market": 0.4171
      }
     },
     "KG_VAR_YOK": {
      "VAR": {
       "model": 0.5437,
-      "odds": 1.58,
-      "odds_raw": 1.675,
-      "market": 0.5491
+      "odds": 1.6,
+      "odds_raw": 1.71,
+      "market": 0.5434
      },
      "YOK": {
       "model": 0.4563,
-      "odds": 1.93,
-      "odds_raw": 2.04,
-      "market": 0.4509
+      "odds": 1.9,
+      "odds_raw": 2.035,
+      "market": 0.4566
      }
     },
     "UST_ALT_1_5": {
      "UST": {
       "model": 0.8027,
-      "odds": 1.08,
-      "odds_raw": 1.155,
-      "market": 0.807
+      "odds": 1.1,
+      "odds_raw": 1.18,
+      "market": 0.7913
      },
      "ALT": {
       "model": 0.1973,
-      "odds": 4.51,
-      "odds_raw": 4.83,
-      "market": 0.193
+      "odds": 4.17,
+      "odds_raw": 4.475,
+      "market": 0.2087
      }
     },
     "UST_ALT_3_5": {
      "UST": {
       "model": 0.348,
-      "odds": 2.17,
-      "odds_raw": 2.36,
-      "market": 0.4003
+      "odds": 2.3,
+      "odds_raw": 2.475,
+      "market": 0.3774
      },
      "ALT": {
       "model": 0.652,
-      "odds": 1.45,
-      "odds_raw": 1.575,
-      "market": 0.5997
+      "odds": 1.4,
+      "odds_raw": 1.5,
+      "market": 0.6226
      }
     },
     "UST_ALT_4_5": {
      "UST": {
       "model": 0.1811,
-      "odds": 3.79,
-      "odds_raw": 4.07,
-      "market": 0.2292
+      "odds": 4.06,
+      "odds_raw": 4.365,
+      "market": 0.2142
      },
      "ALT": {
       "model": 0.8189,
-      "odds": 1.13,
-      "odds_raw": 1.21,
-      "market": 0.7708
+      "odds": 1.11,
+      "odds_raw": 1.19,
+      "market": 0.7858
      }
     },
     "CIFTE_SANS": {
      "1X": {
       "model": 0.8284,
-      "odds": 1.095,
-      "odds_raw": 1.095,
-      "market": 0.8548
+      "odds": 1.11,
+      "odds_raw": 1.11,
+      "market": 0.8435
      },
      "X2": {
       "model": 0.3921,
-      "odds": 2.635,
-      "odds_raw": 2.635,
-      "market": 0.3552
+      "odds": 2.51,
+      "odds_raw": 2.51,
+      "market": 0.373
      },
      "12": {
       "model": 0.7795,
-      "odds": 1.185,
-      "odds_raw": 1.185,
-      "market": 0.7899
+      "odds": 1.195,
+      "odds_raw": 1.195,
+      "market": 0.7835
      }
     },
     "EV_GOL_1_5": {
      "UST": {
       "model": 0.5953,
-      "odds": 1.33,
-      "odds_raw": 1.425,
-      "market": 0.6537
+      "odds": 1.4,
+      "odds_raw": 1.5,
+      "market": 0.6203
      },
      "ALT": {
       "model": 0.4047,
-      "odds": 2.51,
-      "odds_raw": 2.69,
-      "market": 0.3463
+      "odds": 2.29,
+      "odds_raw": 2.45,
+      "market": 0.3797
      }
     },
     "DEP_GOL_1_5": {
      "UST": {
       "model": 0.2548,
-      "odds": 3.43,
-      "odds_raw": 3.68,
-      "market": 0.2535
+      "odds": 3.37,
+      "odds_raw": 3.6,
+      "market": 0.2577
      },
      "ALT": {
       "model": 0.7452,
-      "odds": 1.16,
+      "odds": 1.17,
       "odds_raw": 1.25,
-      "market": 0.7465
+      "market": 0.7423
      }
     }
    },
    "alternatives": [
     {
-     "market_type": "EV_GOL_1_5",
-     "selection": "UST",
-     "odds": 1.33,
-     "confidence": 0.636,
-     "model_prob": 0.595,
-     "market_prob": 0.654,
-     "ev": -0.154,
-     "kind": "safe"
-    },
-    {
      "market_type": "UST_ALT_3_5",
      "selection": "ALT",
-     "odds": 1.45,
-     "confidence": 0.615,
+     "odds": 1.4,
+     "confidence": 0.631,
      "model_prob": 0.652,
-     "market_prob": 0.599,
-     "ev": -0.108,
+     "market_prob": 0.622,
+     "ev": -0.117,
      "kind": "safe"
     },
     {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 4.51,
-     "confidence": 0.194,
-     "model_prob": 0.197,
-     "market_prob": 0.193,
-     "ev": -0.123,
+     "market_type": "EV_GOL_1_5",
+     "selection": "UST",
+     "odds": 1.4,
+     "confidence": 0.613,
+     "model_prob": 0.595,
+     "market_prob": 0.621,
+     "ev": -0.142,
+     "kind": "safe"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "UST",
+     "odds": 3.37,
+     "confidence": 0.257,
+     "model_prob": 0.255,
+     "market_prob": 0.258,
+     "ev": -0.134,
      "kind": "surprise"
     }
    ],
@@ -25015,8 +22687,8 @@
    "odds": 1.27,
    "odds_raw": 1.37,
    "odds_normalized": true,
-   "confidence_score": 0.641,
-   "model_prob": 0.544,
+   "confidence_score": 0.642,
+   "model_prob": 0.545,
    "market_prob": 0.683,
    "odds_source": "market",
    "bookmakers": 11,
@@ -25024,19 +22696,19 @@
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.4792,
+      "model": 0.484,
       "odds": 1.68,
       "odds_raw": 1.8,
       "market": 0.5181
      },
      "X": {
-      "model": 0.2535,
+      "model": 0.2525,
       "odds": 3.82,
       "odds_raw": 4.1,
       "market": 0.2275
      },
      "2": {
-      "model": 0.2673,
+      "model": 0.2635,
       "odds": 3.42,
       "odds_raw": 3.665,
       "market": 0.2545
@@ -25044,13 +22716,13 @@
     },
     "UST_ALT_2_5": {
      "UST": {
-      "model": 0.544,
+      "model": 0.5453,
       "odds": 1.27,
       "odds_raw": 1.37,
       "market": 0.6829
      },
      "ALT": {
-      "model": 0.456,
+      "model": 0.4547,
       "odds": 2.74,
       "odds_raw": 2.95,
       "market": 0.3171
@@ -25058,13 +22730,13 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.5701,
+      "model": 0.57,
       "odds": 1.3,
       "odds_raw": 1.38,
       "market": 0.6714
      },
      "YOK": {
-      "model": 0.4299,
+      "model": 0.43,
       "odds": 2.65,
       "odds_raw": 2.82,
       "market": 0.3286
@@ -25072,13 +22744,13 @@
     },
     "UST_ALT_1_5": {
      "UST": {
-      "model": 0.7841,
+      "model": 0.785,
       "odds": 1.02,
       "odds_raw": 1.1,
       "market": 0.8553
      },
      "ALT": {
-      "model": 0.2159,
+      "model": 0.215,
       "odds": 6.01,
       "odds_raw": 6.5,
       "market": 0.1447
@@ -25086,13 +22758,13 @@
     },
     "UST_ALT_3_5": {
      "UST": {
-      "model": 0.3207,
+      "model": 0.3219,
       "odds": 1.81,
       "odds_raw": 1.95,
       "market": 0.48
      },
      "ALT": {
-      "model": 0.6793,
+      "model": 0.6781,
       "odds": 1.67,
       "odds_raw": 1.8,
       "market": 0.52
@@ -25100,13 +22772,13 @@
     },
     "UST_ALT_4_5": {
      "UST": {
-      "model": 0.1612,
+      "model": 0.1621,
       "odds": 2.92,
       "odds_raw": 3.13,
       "market": 0.2982
      },
      "ALT": {
-      "model": 0.8388,
+      "model": 0.8379,
       "odds": 1.24,
       "odds_raw": 1.33,
       "market": 0.7018
@@ -25114,19 +22786,19 @@
     },
     "CIFTE_SANS": {
      "1X": {
-      "model": 0.7327,
+      "model": 0.7365,
       "odds": 1.25,
       "odds_raw": 1.25,
       "market": 0.7503
      },
      "X2": {
-      "model": 0.5208,
+      "model": 0.516,
       "odds": 1.95,
       "odds_raw": 1.95,
       "market": 0.481
      },
      "12": {
-      "model": 0.7465,
+      "model": 0.7475,
       "odds": 1.22,
       "odds_raw": 1.22,
       "market": 0.7687
@@ -25134,13 +22806,13 @@
     },
     "EV_GOL_1_5": {
      "UST": {
-      "model": 0.4962,
+      "model": 0.5003,
       "odds": 1.4,
       "odds_raw": 1.5,
       "market": 0.6222
      },
      "ALT": {
-      "model": 0.5038,
+      "model": 0.4997,
       "odds": 2.3,
       "odds_raw": 2.47,
       "market": 0.3778
@@ -25148,13 +22820,13 @@
     },
     "DEP_GOL_1_5": {
      "UST": {
-      "model": 0.334,
+      "model": 0.3313,
       "odds": 2.01,
       "odds_raw": 2.15,
       "market": 0.432
      },
      "ALT": {
-      "model": 0.666,
+      "model": 0.6687,
       "odds": 1.53,
       "odds_raw": 1.635,
       "market": 0.568
@@ -25176,10 +22848,10 @@
      "market_type": "DEP_GOL_1_5",
      "selection": "ALT",
      "odds": 1.53,
-     "confidence": 0.597,
-     "model_prob": 0.666,
+     "confidence": 0.598,
+     "model_prob": 0.669,
      "market_prob": 0.568,
-     "ev": -0.086,
+     "ev": -0.085,
      "kind": "safe"
     },
     {
@@ -25187,9 +22859,9 @@
      "selection": "ALT",
      "odds": 6.01,
      "confidence": 0.166,
-     "model_prob": 0.216,
+     "model_prob": 0.215,
      "market_prob": 0.145,
-     "ev": -0.0,
+     "ev": -0.002,
      "kind": "surprise"
     }
    ],
@@ -25250,8 +22922,8 @@
      ]
     }
    },
-   "home_form": "DLWDW",
-   "away_form": "WDWDD",
+   "home_form": "LWDWW",
+   "away_form": "DWDDW",
    "h2h": [
     {
      "date": "2025-10-18",
@@ -25310,8 +22982,8 @@
    "odds": 1.3,
    "odds_raw": 1.4,
    "odds_normalized": true,
-   "confidence_score": 0.636,
-   "model_prob": 0.557,
+   "confidence_score": 0.633,
+   "model_prob": 0.545,
    "market_prob": 0.67,
    "odds_source": "market",
    "bookmakers": 11,
@@ -25319,19 +22991,19 @@
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.4552,
+      "model": 0.4692,
       "odds": 1.72,
       "odds_raw": 1.835,
       "market": 0.5064
      },
      "X": {
-      "model": 0.2537,
+      "model": 0.2546,
       "odds": 3.81,
       "odds_raw": 4.075,
       "market": 0.2281
      },
      "2": {
-      "model": 0.2911,
+      "model": 0.2762,
       "odds": 3.28,
       "odds_raw": 3.5,
       "market": 0.2655
@@ -25339,13 +23011,13 @@
     },
     "UST_ALT_2_5": {
      "UST": {
-      "model": 0.5574,
+      "model": 0.545,
       "odds": 1.3,
       "odds_raw": 1.4,
       "market": 0.6706
      },
      "ALT": {
-      "model": 0.4426,
+      "model": 0.455,
       "odds": 2.64,
       "odds_raw": 2.85,
       "market": 0.3294
@@ -25353,13 +23025,13 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.5862,
+      "model": 0.5734,
       "odds": 1.31,
       "odds_raw": 1.4,
       "market": 0.6627
      },
      "YOK": {
-      "model": 0.4138,
+      "model": 0.4266,
       "odds": 2.58,
       "odds_raw": 2.75,
       "market": 0.3373
@@ -25367,13 +23039,13 @@
     },
     "UST_ALT_1_5": {
      "UST": {
-      "model": 0.7934,
+      "model": 0.7849,
       "odds": 1.03,
       "odds_raw": 1.11,
       "market": 0.8439
      },
      "ALT": {
-      "model": 0.2066,
+      "model": 0.2151,
       "odds": 5.57,
       "odds_raw": 6.0,
       "market": 0.1561
@@ -25381,13 +23053,13 @@
     },
     "UST_ALT_3_5": {
      "UST": {
-      "model": 0.3336,
+      "model": 0.3217,
       "odds": 1.85,
       "odds_raw": 2.0,
       "market": 0.4695
      },
      "ALT": {
-      "model": 0.6664,
+      "model": 0.6783,
       "odds": 1.64,
       "odds_raw": 1.77,
       "market": 0.5305
@@ -25395,13 +23067,13 @@
     },
     "UST_ALT_4_5": {
      "UST": {
-      "model": 0.1706,
+      "model": 0.162,
       "odds": 3.08,
       "odds_raw": 3.3,
       "market": 0.2826
      },
      "ALT": {
-      "model": 0.8294,
+      "model": 0.838,
       "odds": 1.21,
       "odds_raw": 1.3,
       "market": 0.7174
@@ -25409,19 +23081,19 @@
     },
     "CIFTE_SANS": {
      "1X": {
-      "model": 0.7089,
+      "model": 0.7238,
       "odds": 1.27,
       "odds_raw": 1.27,
       "market": 0.7391
      },
      "X2": {
-      "model": 0.5448,
+      "model": 0.5308,
       "odds": 1.91,
       "odds_raw": 1.91,
       "market": 0.4915
      },
      "12": {
-      "model": 0.7463,
+      "model": 0.7454,
       "odds": 1.22,
       "odds_raw": 1.22,
       "market": 0.7694
@@ -25429,13 +23101,13 @@
     },
     "EV_GOL_1_5": {
      "UST": {
-      "model": 0.4887,
+      "model": 0.4901,
       "odds": 1.43,
       "odds_raw": 1.53,
       "market": 0.6087
      },
      "ALT": {
-      "model": 0.5113,
+      "model": 0.5099,
       "odds": 2.22,
       "odds_raw": 2.38,
       "market": 0.3913
@@ -25443,13 +23115,13 @@
     },
     "DEP_GOL_1_5": {
      "UST": {
-      "model": 0.3633,
+      "model": 0.3425,
       "odds": 2.05,
       "odds_raw": 2.205,
       "market": 0.425
      },
      "ALT": {
-      "model": 0.6367,
+      "model": 0.6575,
       "odds": 1.51,
       "odds_raw": 1.63,
       "market": 0.575
@@ -25461,30 +23133,30 @@
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
      "odds": 1.31,
-     "confidence": 0.64,
-     "model_prob": 0.586,
+     "confidence": 0.636,
+     "model_prob": 0.573,
      "market_prob": 0.663,
-     "ev": -0.161,
+     "ev": -0.166,
      "kind": "safe"
     },
     {
      "market_type": "DEP_GOL_1_5",
      "selection": "ALT",
      "odds": 1.51,
-     "confidence": 0.594,
-     "model_prob": 0.637,
+     "confidence": 0.6,
+     "model_prob": 0.657,
      "market_prob": 0.576,
-     "ev": -0.103,
+     "ev": -0.093,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
      "odds": 5.57,
-     "confidence": 0.171,
-     "model_prob": 0.207,
+     "confidence": 0.174,
+     "model_prob": 0.215,
      "market_prob": 0.156,
-     "ev": -0.046,
+     "ev": -0.032,
      "kind": "surprise"
     }
    ],
@@ -25540,8 +23212,8 @@
      ]
     }
    },
-   "home_form": "LLLLW",
-   "away_form": "LLDLD",
+   "home_form": "LLLWL",
+   "away_form": "LDLDL",
    "h2h": [
     {
      "date": "2026-05-13",
@@ -25592,8 +23264,8 @@
    "odds": 1.5,
    "odds_raw": 1.62,
    "odds_normalized": true,
-   "confidence_score": 0.586,
-   "model_prob": 0.599,
+   "confidence_score": 0.585,
+   "model_prob": 0.597,
    "market_prob": 0.58,
    "odds_source": "market",
    "bookmakers": 11,
@@ -25601,19 +23273,19 @@
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.3595,
+      "model": 0.3958,
       "odds": 1.96,
       "odds_raw": 2.1,
       "market": 0.4431
      },
      "X": {
-      "model": 0.2491,
+      "model": 0.2496,
       "odds": 3.39,
       "odds_raw": 3.625,
       "market": 0.2567
      },
      "2": {
-      "model": 0.3914,
+      "model": 0.3546,
       "odds": 2.9,
       "odds_raw": 3.1,
       "market": 0.3002
@@ -25621,13 +23293,13 @@
     },
     "UST_ALT_2_5": {
      "UST": {
-      "model": 0.5992,
+      "model": 0.5965,
       "odds": 1.5,
       "odds_raw": 1.62,
       "market": 0.5792
      },
      "ALT": {
-      "model": 0.4008,
+      "model": 0.4035,
       "odds": 2.07,
       "odds_raw": 2.23,
       "market": 0.4208
@@ -25635,13 +23307,13 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.626,
+      "model": 0.6237,
       "odds": 1.43,
       "odds_raw": 1.53,
       "market": 0.6087
      },
      "YOK": {
-      "model": 0.374,
+      "model": 0.3763,
       "odds": 2.22,
       "odds_raw": 2.38,
       "market": 0.3913
@@ -25649,13 +23321,13 @@
     },
     "UST_ALT_1_5": {
      "UST": {
-      "model": 0.8209,
+      "model": 0.8192,
       "odds": 1.1,
       "odds_raw": 1.18,
       "market": 0.7885
      },
      "ALT": {
-      "model": 0.1791,
+      "model": 0.1808,
       "odds": 4.11,
       "odds_raw": 4.4,
       "market": 0.2115
@@ -25663,13 +23335,13 @@
     },
     "UST_ALT_3_5": {
      "UST": {
-      "model": 0.3755,
+      "model": 0.3728,
       "odds": 2.4,
       "odds_raw": 2.55,
       "market": 0.3625
      },
      "ALT": {
-      "model": 0.6245,
+      "model": 0.6272,
       "odds": 1.36,
       "odds_raw": 1.45,
       "market": 0.6375
@@ -25677,13 +23349,13 @@
     },
     "UST_ALT_4_5": {
      "UST": {
-      "model": 0.2021,
+      "model": 0.1999,
       "odds": 4.22,
       "odds_raw": 4.55,
       "market": 0.2059
      },
      "ALT": {
-      "model": 0.7979,
+      "model": 0.8001,
       "odds": 1.1,
       "odds_raw": 1.18,
       "market": 0.7941
@@ -25691,19 +23363,19 @@
     },
     "CIFTE_SANS": {
      "1X": {
-      "model": 0.6086,
+      "model": 0.6454,
       "odds": 1.33,
       "odds_raw": 1.33,
       "market": 0.7045
      },
      "X2": {
-      "model": 0.6405,
+      "model": 0.6042,
       "odds": 1.68,
       "odds_raw": 1.68,
       "market": 0.5577
      },
      "12": {
-      "model": 0.7509,
+      "model": 0.7504,
       "odds": 1.27,
       "odds_raw": 1.27,
       "market": 0.7378
@@ -25711,13 +23383,13 @@
     },
     "EV_GOL_1_5": {
      "UST": {
-      "model": 0.4468,
+      "model": 0.4725,
       "odds": 1.74,
       "odds_raw": 1.87,
       "market": 0.5
      },
      "ALT": {
-      "model": 0.5532,
+      "model": 0.5275,
       "odds": 1.74,
       "odds_raw": 1.87,
       "market": 0.5
@@ -25725,13 +23397,13 @@
     },
     "DEP_GOL_1_5": {
      "UST": {
-      "model": 0.4711,
+      "model": 0.4412,
       "odds": 2.2,
       "odds_raw": 2.355,
       "market": 0.3946
      },
      "ALT": {
-      "model": 0.5289,
+      "model": 0.5588,
       "odds": 1.44,
       "odds_raw": 1.535,
       "market": 0.6054
@@ -25743,40 +23415,40 @@
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
      "odds": 1.43,
-     "confidence": 0.614,
-     "model_prob": 0.626,
+     "confidence": 0.613,
+     "model_prob": 0.624,
      "market_prob": 0.608,
-     "ev": -0.123,
-     "kind": "safe"
-    },
-    {
-     "market_type": "CIFTE_SANS",
-     "selection": "X2",
-     "odds": 1.68,
-     "confidence": 0.583,
-     "model_prob": 0.641,
-     "market_prob": 0.558,
-     "ev": -0.021,
+     "ev": -0.124,
      "kind": "safe"
     },
     {
      "market_type": "DEP_GOL_1_5",
      "selection": "ALT",
      "odds": 1.44,
-     "confidence": 0.582,
-     "model_prob": 0.529,
+     "confidence": 0.591,
+     "model_prob": 0.559,
      "market_prob": 0.604,
-     "ev": -0.162,
+     "ev": -0.149,
+     "kind": "safe"
+    },
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "X2",
+     "odds": 1.68,
+     "confidence": 0.572,
+     "model_prob": 0.604,
+     "market_prob": 0.558,
+     "ev": -0.04,
      "kind": "safe"
     },
     {
      "market_type": "1X2",
      "selection": "2",
      "odds": 2.9,
-     "confidence": 0.327,
-     "model_prob": 0.391,
+     "confidence": 0.316,
+     "model_prob": 0.355,
      "market_prob": 0.3,
-     "ev": -0.051,
+     "ev": -0.083,
      "kind": "surprise"
     }
    ],
@@ -25822,8 +23494,8 @@
      ]
     }
    },
-   "home_form": "DDLLD",
-   "away_form": "WWWLD",
+   "home_form": "DLLDW",
+   "away_form": "WWLDL",
    "h2h": [
     {
      "date": "2026-03-21",
@@ -25882,8 +23554,8 @@
    "odds": 1.26,
    "odds_raw": 1.34,
    "odds_normalized": true,
-   "confidence_score": 0.675,
-   "model_prob": 0.636,
+   "confidence_score": 0.674,
+   "model_prob": 0.631,
    "market_prob": 0.692,
    "odds_source": "market",
    "bookmakers": 11,
@@ -25891,19 +23563,19 @@
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.5221,
+      "model": 0.4356,
       "odds": 1.65,
       "odds_raw": 1.755,
       "market": 0.5283
      },
      "X": {
-      "model": 0.2286,
+      "model": 0.2403,
       "odds": 3.85,
       "odds_raw": 4.1,
       "market": 0.2261
      },
      "2": {
-      "model": 0.2493,
+      "model": 0.324,
       "odds": 3.54,
       "odds_raw": 3.775,
       "market": 0.2456
@@ -25911,13 +23583,13 @@
     },
     "UST_ALT_2_5": {
      "UST": {
-      "model": 0.6356,
+      "model": 0.6307,
       "odds": 1.26,
       "odds_raw": 1.345,
       "market": 0.6922
      },
      "ALT": {
-      "model": 0.3644,
+      "model": 0.3693,
       "odds": 2.83,
       "odds_raw": 3.025,
       "market": 0.3078
@@ -25925,13 +23597,13 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.6328,
+      "model": 0.6468,
       "odds": 1.28,
       "odds_raw": 1.36,
       "market": 0.677
      },
      "YOK": {
-      "model": 0.3672,
+      "model": 0.3532,
       "odds": 2.69,
       "odds_raw": 2.85,
       "market": 0.323
@@ -25939,13 +23611,13 @@
     },
     "UST_ALT_1_5": {
      "UST": {
-      "model": 0.8433,
+      "model": 0.8405,
       "odds": 1.02,
       "odds_raw": 1.11,
       "market": 0.8502
      },
      "ALT": {
-      "model": 0.1567,
+      "model": 0.1595,
       "odds": 5.8,
       "odds_raw": 6.3,
       "market": 0.1498
@@ -25953,13 +23625,13 @@
     },
     "UST_ALT_3_5": {
      "UST": {
-      "model": 0.4142,
+      "model": 0.4088,
       "odds": 1.78,
       "odds_raw": 1.91,
       "market": 0.4893
      },
      "ALT": {
-      "model": 0.5858,
+      "model": 0.5912,
       "odds": 1.7,
       "odds_raw": 1.83,
       "market": 0.5107
@@ -25967,13 +23639,13 @@
     },
     "UST_ALT_4_5": {
      "UST": {
-      "model": 0.2329,
+      "model": 0.2285,
       "odds": 2.9,
       "odds_raw": 3.1,
       "market": 0.3002
      },
      "ALT": {
-      "model": 0.7671,
+      "model": 0.7715,
       "odds": 1.24,
       "odds_raw": 1.33,
       "market": 0.6998
@@ -25981,19 +23653,19 @@
     },
     "CIFTE_SANS": {
      "1X": {
-      "model": 0.7507,
+      "model": 0.676,
       "odds": 1.25,
       "odds_raw": 1.25,
       "market": 0.7524
      },
      "X2": {
-      "model": 0.4779,
+      "model": 0.5644,
       "odds": 2.0,
       "odds_raw": 2.0,
       "market": 0.4703
      },
      "12": {
-      "model": 0.7714,
+      "model": 0.7597,
       "odds": 1.21,
       "odds_raw": 1.21,
       "market": 0.7773
@@ -26001,13 +23673,13 @@
     },
     "EV_GOL_1_5": {
      "UST": {
-      "model": 0.5846,
+      "model": 0.5244,
       "odds": 1.38,
       "odds_raw": 1.48,
       "market": 0.6281
      },
      "ALT": {
-      "model": 0.4154,
+      "model": 0.4756,
       "odds": 2.34,
       "odds_raw": 2.5,
       "market": 0.3719
@@ -26015,13 +23687,13 @@
     },
     "DEP_GOL_1_5": {
      "UST": {
-      "model": 0.3767,
+      "model": 0.4401,
       "odds": 2.02,
       "odds_raw": 2.17,
       "market": 0.4297
      },
      "ALT": {
-      "model": 0.6233,
+      "model": 0.5599,
       "odds": 1.52,
       "odds_raw": 1.635,
       "market": 0.5703
@@ -26030,43 +23702,33 @@
    },
    "alternatives": [
     {
-     "market_type": "CIFTE_SANS",
-     "selection": "1X",
-     "odds": 1.25,
-     "confidence": 0.752,
-     "model_prob": 0.751,
-     "market_prob": 0.752,
-     "ev": -0.06,
-     "kind": "banko"
-    },
-    {
      "market_type": "KG_VAR_YOK",
      "selection": "VAR",
      "odds": 1.28,
-     "confidence": 0.664,
-     "model_prob": 0.633,
+     "confidence": 0.668,
+     "model_prob": 0.647,
      "market_prob": 0.678,
-     "ev": -0.15,
+     "ev": -0.145,
      "kind": "safe"
     },
     {
      "market_type": "EV_GOL_1_5",
      "selection": "UST",
      "odds": 1.38,
-     "confidence": 0.616,
-     "model_prob": 0.585,
+     "confidence": 0.598,
+     "model_prob": 0.524,
      "market_prob": 0.629,
-     "ev": -0.15,
+     "ev": -0.175,
      "kind": "safe"
     },
     {
-     "market_type": "UST_ALT_1_5",
-     "selection": "ALT",
-     "odds": 5.8,
-     "confidence": 0.152,
-     "model_prob": 0.157,
-     "market_prob": 0.15,
-     "ev": -0.12,
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 3.54,
+     "confidence": 0.269,
+     "model_prob": 0.324,
+     "market_prob": 0.246,
+     "ev": -0.046,
      "kind": "surprise"
     }
    ],
@@ -26112,8 +23774,8 @@
      ]
     }
    },
-   "home_form": "WDWDL",
-   "away_form": "WDWWD",
+   "home_form": "DWDLL",
+   "away_form": "DWWDW",
    "h2h": [
     {
      "date": "2026-05-09",
@@ -26172,8 +23834,8 @@
    "odds": 1.27,
    "odds_raw": 1.35,
    "odds_normalized": true,
-   "confidence_score": 0.656,
-   "model_prob": 0.584,
+   "confidence_score": 0.658,
+   "model_prob": 0.591,
    "market_prob": 0.686,
    "odds_source": "market",
    "bookmakers": 11,
@@ -26181,19 +23843,19 @@
    "markets": {
     "1X2": {
      "1": {
-      "model": 0.4431,
+      "model": 0.4673,
       "odds": 1.72,
       "odds_raw": 1.83,
       "market": 0.5064
      },
      "X": {
-      "model": 0.2494,
+      "model": 0.2454,
       "odds": 3.8,
       "odds_raw": 4.05,
       "market": 0.2288
      },
      "2": {
-      "model": 0.3075,
+      "model": 0.2873,
       "odds": 3.28,
       "odds_raw": 3.5,
       "market": 0.2648
@@ -26201,13 +23863,13 @@
     },
     "UST_ALT_2_5": {
      "UST": {
-      "model": 0.5838,
+      "model": 0.5909,
       "odds": 1.27,
       "odds_raw": 1.355,
       "market": 0.6871
      },
      "ALT": {
-      "model": 0.4162,
+      "model": 0.4091,
       "odds": 2.78,
       "odds_raw": 2.975,
       "market": 0.3129
@@ -26215,13 +23877,13 @@
     },
     "KG_VAR_YOK": {
      "VAR": {
-      "model": 0.6091,
+      "model": 0.6104,
       "odds": 1.28,
       "odds_raw": 1.36,
       "market": 0.6785
      },
      "YOK": {
-      "model": 0.3909,
+      "model": 0.3896,
       "odds": 2.7,
       "odds_raw": 2.87,
       "market": 0.3215
@@ -26229,13 +23891,13 @@
     },
     "UST_ALT_1_5": {
      "UST": {
-      "model": 0.811,
+      "model": 0.8155,
       "odds": 1.02,
       "odds_raw": 1.1,
       "market": 0.8553
      },
      "ALT": {
-      "model": 0.189,
+      "model": 0.1845,
       "odds": 6.01,
       "odds_raw": 6.5,
       "market": 0.1447
@@ -26243,13 +23905,13 @@
     },
     "UST_ALT_3_5": {
      "UST": {
-      "model": 0.3598,
+      "model": 0.367,
       "odds": 1.78,
       "odds_raw": 1.91,
       "market": 0.4893
      },
      "ALT": {
-      "model": 0.6402,
+      "model": 0.633,
       "odds": 1.7,
       "odds_raw": 1.83,
       "market": 0.5107
@@ -26257,13 +23919,13 @@
     },
     "UST_ALT_4_5": {
      "UST": {
-      "model": 0.19,
+      "model": 0.1955,
       "odds": 2.9,
       "odds_raw": 3.1,
       "market": 0.3002
      },
      "ALT": {
-      "model": 0.81,
+      "model": 0.8045,
       "odds": 1.24,
       "odds_raw": 1.33,
       "market": 0.6998
@@ -26271,19 +23933,19 @@
     },
     "CIFTE_SANS": {
      "1X": {
-      "model": 0.6925,
+      "model": 0.7127,
       "odds": 1.27,
       "odds_raw": 1.27,
       "market": 0.7401
      },
      "X2": {
-      "model": 0.5569,
+      "model": 0.5327,
       "odds": 1.92,
       "odds_raw": 1.92,
       "market": 0.4895
      },
      "12": {
-      "model": 0.7506,
+      "model": 0.7546,
       "odds": 1.22,
       "odds_raw": 1.22,
       "market": 0.7704
@@ -26291,13 +23953,13 @@
     },
     "EV_GOL_1_5": {
      "UST": {
-      "model": 0.4978,
+      "model": 0.519,
       "odds": 1.4,
       "odds_raw": 1.505,
       "market": 0.6195
      },
      "ALT": {
-      "model": 0.5022,
+      "model": 0.481,
       "odds": 2.29,
       "odds_raw": 2.45,
       "market": 0.3805
@@ -26305,13 +23967,13 @@
     },
     "DEP_GOL_1_5": {
      "UST": {
-      "model": 0.3944,
+      "model": 0.3816,
       "odds": 1.96,
       "odds_raw": 2.1,
       "market": 0.443
      },
      "ALT": {
-      "model": 0.6056,
+      "model": 0.6184,
       "odds": 1.56,
       "odds_raw": 1.67,
       "market": 0.557
@@ -26324,7 +23986,7 @@
      "selection": "VAR",
      "odds": 1.28,
      "confidence": 0.658,
-     "model_prob": 0.609,
+     "model_prob": 0.61,
      "market_prob": 0.678,
      "ev": -0.158,
      "kind": "safe"
@@ -26333,20 +23995,20 @@
      "market_type": "EV_GOL_1_5",
      "selection": "UST",
      "odds": 1.4,
-     "confidence": 0.584,
-     "model_prob": 0.498,
+     "confidence": 0.59,
+     "model_prob": 0.519,
      "market_prob": 0.621,
-     "ev": -0.183,
+     "ev": -0.174,
      "kind": "safe"
     },
     {
      "market_type": "UST_ALT_1_5",
      "selection": "ALT",
      "odds": 6.01,
-     "confidence": 0.158,
-     "model_prob": 0.189,
+     "confidence": 0.157,
+     "model_prob": 0.184,
      "market_prob": 0.145,
-     "ev": -0.049,
+     "ev": -0.057,
      "kind": "surprise"
     }
    ],
@@ -26402,8 +24064,8 @@
      ]
     }
    },
-   "home_form": "LDLWD",
-   "away_form": "WWWWD",
+   "home_form": "DLWDD",
+   "away_form": "WWWDL",
    "h2h": [
     {
      "date": "2026-08-16",
@@ -26697,6 +24359,2347 @@
      "home_id": 135,
      "hg": 2,
      "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490472",
+   "fixture_id": 1490472,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "FC Dallas",
+   "away_team": "Portland Timbers",
+   "home_id": 1597,
+   "away_id": 1617,
+   "kickoff": "2026-09-13T00:30:00+00:00",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.26,
+   "odds_raw": 1.36,
+   "odds_normalized": true,
+   "confidence_score": 0.676,
+   "model_prob": 0.641,
+   "market_prob": 0.691,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.5217,
+      "odds": 1.64,
+      "odds_raw": 1.75,
+      "market": 0.5302
+     },
+     "X": {
+      "model": 0.2277,
+      "odds": 3.87,
+      "odds_raw": 4.125,
+      "market": 0.2249
+     },
+     "2": {
+      "model": 0.2506,
+      "odds": 3.55,
+      "odds_raw": 3.79,
+      "market": 0.2448
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.6408,
+      "odds": 1.26,
+      "odds_raw": 1.36,
+      "market": 0.6916
+     },
+     "ALT": {
+      "model": 0.3592,
+      "odds": 2.82,
+      "odds_raw": 3.05,
+      "market": 0.3084
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.6371,
+      "odds": 1.29,
+      "odds_raw": 1.36,
+      "market": 0.6762
+     },
+     "YOK": {
+      "model": 0.3629,
+      "odds": 2.69,
+      "odds_raw": 2.84,
+      "market": 0.3238
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.8464,
+      "odds": 1.02,
+      "odds_raw": 1.1,
+      "market": 0.8553
+     },
+     "ALT": {
+      "model": 0.1536,
+      "odds": 6.01,
+      "odds_raw": 6.5,
+      "market": 0.1447
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.4199,
+      "odds": 1.78,
+      "odds_raw": 1.91,
+      "market": 0.4893
+     },
+     "ALT": {
+      "model": 0.5801,
+      "odds": 1.7,
+      "odds_raw": 1.83,
+      "market": 0.5107
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.2375,
+      "odds": 2.82,
+      "odds_raw": 3.0,
+      "market": 0.3088
+     },
+     "ALT": {
+      "model": 0.7625,
+      "odds": 1.26,
+      "odds_raw": 1.34,
+      "market": 0.6912
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.7494,
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7503
+     },
+     "X2": {
+      "model": 0.4783,
+      "odds": 1.95,
+      "odds_raw": 1.95,
+      "market": 0.481
+     },
+     "12": {
+      "model": 0.7723,
+      "odds": 1.22,
+      "odds_raw": 1.22,
+      "market": 0.7687
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.5879,
+      "odds": 1.36,
+      "odds_raw": 1.455,
+      "market": 0.639
+     },
+     "ALT": {
+      "model": 0.4121,
+      "odds": 2.41,
+      "odds_raw": 2.575,
+      "market": 0.361
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.3816,
+      "odds": 2.01,
+      "odds_raw": 2.15,
+      "market": 0.432
+     },
+     "ALT": {
+      "model": 0.6184,
+      "odds": 1.53,
+      "odds_raw": 1.635,
+      "market": 0.568
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "1X",
+     "odds": 1.25,
+     "confidence": 0.75,
+     "model_prob": 0.749,
+     "market_prob": 0.75,
+     "ev": -0.062,
+     "kind": "banko"
+    },
+    {
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.29,
+     "confidence": 0.664,
+     "model_prob": 0.637,
+     "market_prob": 0.676,
+     "ev": -0.143,
+     "kind": "safe"
+    },
+    {
+     "market_type": "EV_GOL_1_5",
+     "selection": "UST",
+     "odds": 1.36,
+     "confidence": 0.624,
+     "model_prob": 0.588,
+     "market_prob": 0.639,
+     "ev": -0.152,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_1_5",
+     "selection": "ALT",
+     "odds": 6.01,
+     "confidence": 0.148,
+     "model_prob": 0.154,
+     "market_prob": 0.145,
+     "ev": -0.113,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "WLDWW",
+   "away_form": "WDLWD",
+   "h2h": [
+    {
+     "date": "2026-07-23",
+     "home": "Portland Timbers",
+     "away": "FC Dallas",
+     "home_id": 1617,
+     "hg": 2,
+     "ag": 2
+    },
+    {
+     "date": "2025-09-28",
+     "home": "Portland Timbers",
+     "away": "FC Dallas",
+     "home_id": 1617,
+     "hg": 2,
+     "ag": 2
+    },
+    {
+     "date": "2025-08-10",
+     "home": "FC Dallas",
+     "away": "Portland Timbers",
+     "home_id": 1597,
+     "hg": 2,
+     "ag": 0
+    },
+    {
+     "date": "2024-10-06",
+     "home": "Portland Timbers",
+     "away": "FC Dallas",
+     "home_id": 1617,
+     "hg": 0,
+     "ag": 0
+    },
+    {
+     "date": "2024-07-05",
+     "home": "FC Dallas",
+     "away": "Portland Timbers",
+     "home_id": 1597,
+     "hg": 3,
+     "ag": 2
+    }
+   ]
+  },
+  {
+   "id": "af_1490471",
+   "fixture_id": 1490471,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "Sporting Kansas City",
+   "away_team": "Los Angeles FC",
+   "home_id": 1611,
+   "away_id": 1616,
+   "kickoff": "2026-09-13T00:30:00+00:00",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.35,
+   "odds_raw": 1.45,
+   "odds_normalized": true,
+   "confidence_score": 0.619,
+   "model_prob": 0.563,
+   "market_prob": 0.643,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.2611,
+      "odds": 4.44,
+      "odds_raw": 4.775,
+      "market": 0.1958
+     },
+     "X": {
+      "model": 0.2479,
+      "odds": 4.02,
+      "odds_raw": 4.325,
+      "market": 0.2162
+     },
+     "2": {
+      "model": 0.491,
+      "odds": 1.48,
+      "odds_raw": 1.59,
+      "market": 0.588
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5629,
+      "odds": 1.35,
+      "odds_raw": 1.445,
+      "market": 0.6428
+     },
+     "ALT": {
+      "model": 0.4371,
+      "odds": 2.43,
+      "odds_raw": 2.6,
+      "market": 0.3572
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5824,
+      "odds": 1.43,
+      "odds_raw": 1.53,
+      "market": 0.6087
+     },
+     "YOK": {
+      "model": 0.4176,
+      "odds": 2.22,
+      "odds_raw": 2.38,
+      "market": 0.3913
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.797,
+      "odds": 1.06,
+      "odds_raw": 1.14,
+      "market": 0.823
+     },
+     "ALT": {
+      "model": 0.203,
+      "odds": 4.91,
+      "odds_raw": 5.3,
+      "market": 0.177
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.339,
+      "odds": 2.03,
+      "odds_raw": 2.2,
+      "market": 0.4286
+     },
+     "ALT": {
+      "model": 0.661,
+      "odds": 1.52,
+      "odds_raw": 1.65,
+      "market": 0.5714
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.1745,
+      "odds": 3.44,
+      "odds_raw": 3.7,
+      "market": 0.2525
+     },
+     "ALT": {
+      "model": 0.8255,
+      "odds": 1.16,
+      "odds_raw": 1.25,
+      "market": 0.7475
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.509,
+      "odds": 2.3,
+      "odds_raw": 2.3,
+      "market": 0.411
+     },
+     "X2": {
+      "model": 0.7389,
+      "odds": 1.18,
+      "odds_raw": 1.18,
+      "market": 0.8012
+     },
+     "12": {
+      "model": 0.7521,
+      "odds": 1.2,
+      "odds_raw": 1.2,
+      "market": 0.7878
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.3401,
+      "odds": 2.57,
+      "odds_raw": 2.75,
+      "market": 0.3381
+     },
+     "ALT": {
+      "model": 0.6599,
+      "odds": 1.31,
+      "odds_raw": 1.405,
+      "market": 0.6619
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.5163,
+      "odds": 1.38,
+      "odds_raw": 1.49,
+      "market": 0.6289
+     },
+     "ALT": {
+      "model": 0.4837,
+      "odds": 2.34,
+      "odds_raw": 2.525,
+      "market": 0.3711
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "EV_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.31,
+     "confidence": 0.662,
+     "model_prob": 0.66,
+     "market_prob": 0.662,
+     "ev": -0.133,
+     "kind": "safe"
+    },
+    {
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.43,
+     "confidence": 0.6,
+     "model_prob": 0.582,
+     "market_prob": 0.608,
+     "ev": -0.141,
+     "kind": "safe"
+    },
+    {
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 1.48,
+     "confidence": 0.559,
+     "model_prob": 0.491,
+     "market_prob": 0.588,
+     "ev": -0.173,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_1_5",
+     "selection": "ALT",
+     "odds": 4.91,
+     "confidence": 0.185,
+     "model_prob": 0.203,
+     "market_prob": 0.178,
+     "ev": -0.091,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "LDLLL",
+   "away_form": "LDDDW",
+   "h2h": [
+    {
+     "date": "2026-07-26",
+     "home": "Los Angeles FC",
+     "away": "Sporting Kansas City",
+     "home_id": 1616,
+     "hg": 4,
+     "ag": 0
+    },
+    {
+     "date": "2025-06-09",
+     "home": "Los Angeles FC",
+     "away": "Sporting Kansas City",
+     "home_id": 1616,
+     "hg": 3,
+     "ag": 1
+    },
+    {
+     "date": "2025-03-23",
+     "home": "Sporting Kansas City",
+     "away": "Los Angeles FC",
+     "home_id": 1611,
+     "hg": 0,
+     "ag": 2
+    },
+    {
+     "date": "2024-10-06",
+     "home": "Sporting Kansas City",
+     "away": "Los Angeles FC",
+     "home_id": 1611,
+     "hg": 0,
+     "ag": 3
+    },
+    {
+     "date": "2024-09-26",
+     "home": "Los Angeles FC",
+     "away": "Sporting Kansas City",
+     "home_id": 1616,
+     "hg": 3,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490473",
+   "fixture_id": 1490473,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "St. Louis City",
+   "away_team": "Minnesota United FC",
+   "home_id": 20787,
+   "away_id": 1612,
+   "kickoff": "2026-09-13T00:30:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.86,
+   "odds_raw": 2.0,
+   "odds_normalized": true,
+   "confidence_score": 0.488,
+   "model_prob": 0.538,
+   "market_prob": 0.467,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.5376,
+      "odds": 1.86,
+      "odds_raw": 2.0,
+      "market": 0.467
+     },
+     "X": {
+      "model": 0.2345,
+      "odds": 3.49,
+      "odds_raw": 3.75,
+      "market": 0.2491
+     },
+     "2": {
+      "model": 0.228,
+      "odds": 3.06,
+      "odds_raw": 3.29,
+      "market": 0.2839
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5892,
+      "odds": 1.43,
+      "odds_raw": 1.54,
+      "market": 0.6091
+     },
+     "ALT": {
+      "model": 0.4108,
+      "odds": 2.22,
+      "odds_raw": 2.4,
+      "market": 0.3909
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5895,
+      "odds": 1.38,
+      "odds_raw": 1.48,
+      "market": 0.6281
+     },
+     "YOK": {
+      "model": 0.4105,
+      "odds": 2.34,
+      "odds_raw": 2.5,
+      "market": 0.3719
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.8142,
+      "odds": 1.07,
+      "odds_raw": 1.15,
+      "market": 0.813
+     },
+     "ALT": {
+      "model": 0.1858,
+      "odds": 4.65,
+      "odds_raw": 5.0,
+      "market": 0.187
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3652,
+      "odds": 2.15,
+      "odds_raw": 2.32,
+      "market": 0.4036
+     },
+     "ALT": {
+      "model": 0.6348,
+      "odds": 1.46,
+      "odds_raw": 1.57,
+      "market": 0.5964
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.1941,
+      "odds": 3.79,
+      "odds_raw": 4.1,
+      "market": 0.2293
+     },
+     "ALT": {
+      "model": 0.8059,
+      "odds": 1.13,
+      "odds_raw": 1.22,
+      "market": 0.7707
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.772,
+      "odds": 1.3,
+      "odds_raw": 1.3,
+      "market": 0.7209
+     },
+     "X2": {
+      "model": 0.4624,
+      "odds": 1.77,
+      "odds_raw": 1.77,
+      "market": 0.5294
+     },
+     "12": {
+      "model": 0.7655,
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7497
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.5634,
+      "odds": 1.62,
+      "odds_raw": 1.73,
+      "market": 0.5362
+     },
+     "ALT": {
+      "model": 0.4366,
+      "odds": 1.87,
+      "odds_raw": 2.0,
+      "market": 0.4638
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.325,
+      "odds": 2.14,
+      "odds_raw": 2.29,
+      "market": 0.4067
+     },
+     "ALT": {
+      "model": 0.675,
+      "odds": 1.47,
+      "odds_raw": 1.57,
+      "market": 0.5933
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "12",
+     "odds": 1.25,
+     "confidence": 0.754,
+     "model_prob": 0.766,
+     "market_prob": 0.75,
+     "ev": -0.057,
+     "kind": "banko"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.47,
+     "confidence": 0.617,
+     "model_prob": 0.675,
+     "market_prob": 0.593,
+     "ev": -0.092,
+     "kind": "safe"
+    },
+    {
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.38,
+     "confidence": 0.617,
+     "model_prob": 0.59,
+     "market_prob": 0.629,
+     "ev": -0.148,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_3_5",
+     "selection": "ALT",
+     "odds": 1.46,
+     "confidence": 0.607,
+     "model_prob": 0.635,
+     "market_prob": 0.596,
+     "ev": -0.113,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_1_5",
+     "selection": "ALT",
+     "odds": 4.65,
+     "confidence": 0.187,
+     "model_prob": 0.186,
+     "market_prob": 0.187,
+     "ev": -0.132,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "DWDWD",
+   "away_form": "LWDLL",
+   "h2h": [
+    {
+     "date": "2025-07-27",
+     "home": "St. Louis City",
+     "away": "Minnesota United FC",
+     "home_id": 20787,
+     "hg": 1,
+     "ag": 2
+    },
+    {
+     "date": "2025-05-21",
+     "home": "Minnesota United FC",
+     "away": "St. Louis City",
+     "home_id": 1612,
+     "hg": 3,
+     "ag": 2
+    },
+    {
+     "date": "2025-05-18",
+     "home": "Minnesota United FC",
+     "away": "St. Louis City",
+     "home_id": 1612,
+     "hg": 3,
+     "ag": 0
+    },
+    {
+     "date": "2024-10-20",
+     "home": "Minnesota United FC",
+     "away": "St. Louis City",
+     "home_id": 1612,
+     "hg": 4,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1550965",
+   "fixture_id": 1550965,
+   "league_id": 262,
+   "competition": "Liga MX",
+   "home_team": "Monterrey",
+   "away_team": "Tigres UANL",
+   "home_id": 2282,
+   "away_id": 2279,
+   "kickoff": "2026-09-13T01:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.41,
+   "odds_raw": 1.5,
+   "odds_normalized": true,
+   "confidence_score": 0.608,
+   "model_prob": 0.589,
+   "market_prob": 0.617,
+   "odds_source": "market",
+   "bookmakers": 14,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.4022,
+      "odds": 2.09,
+      "odds_raw": 2.2,
+      "market": 0.4167
+     },
+     "X": {
+      "model": 0.2591,
+      "odds": 3.25,
+      "odds_raw": 3.425,
+      "market": 0.2677
+     },
+     "2": {
+      "model": 0.3387,
+      "odds": 2.76,
+      "odds_raw": 2.905,
+      "market": 0.3156
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5518,
+      "odds": 1.48,
+      "odds_raw": 1.6,
+      "market": 0.5866
+     },
+     "ALT": {
+      "model": 0.4482,
+      "odds": 2.1,
+      "odds_raw": 2.27,
+      "market": 0.4134
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5888,
+      "odds": 1.41,
+      "odds_raw": 1.5,
+      "market": 0.6164
+     },
+     "YOK": {
+      "model": 0.4112,
+      "odds": 2.27,
+      "odds_raw": 2.41,
+      "market": 0.3836
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.7897,
+      "odds": 1.1,
+      "odds_raw": 1.175,
+      "market": 0.792
+     },
+     "ALT": {
+      "model": 0.2103,
+      "odds": 4.18,
+      "odds_raw": 4.475,
+      "market": 0.208
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3283,
+      "odds": 2.29,
+      "odds_raw": 2.455,
+      "market": 0.3793
+     },
+     "ALT": {
+      "model": 0.6717,
+      "odds": 1.4,
+      "odds_raw": 1.5,
+      "market": 0.6207
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.1667,
+      "odds": 4.07,
+      "odds_raw": 4.34,
+      "market": 0.2138
+     },
+     "ALT": {
+      "model": 0.8333,
+      "odds": 1.11,
+      "odds_raw": 1.18,
+      "market": 0.7862
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.6613,
+      "odds": 1.36,
+      "odds_raw": 1.36,
+      "market": 0.6862
+     },
+     "X2": {
+      "model": 0.5978,
+      "odds": 1.62,
+      "odds_raw": 1.62,
+      "market": 0.5761
+     },
+     "12": {
+      "model": 0.7409,
+      "odds": 1.265,
+      "odds_raw": 1.265,
+      "market": 0.7377
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.4476,
+      "odds": 1.76,
+      "odds_raw": 1.87,
+      "market": 0.4946
+     },
+     "ALT": {
+      "model": 0.5524,
+      "odds": 1.72,
+      "odds_raw": 1.83,
+      "market": 0.5054
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.3992,
+      "odds": 2.07,
+      "odds_raw": 2.2,
+      "market": 0.4211
+     },
+     "ALT": {
+      "model": 0.6008,
+      "odds": 1.5,
+      "odds_raw": 1.6,
+      "market": 0.5789
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "UST_ALT_3_5",
+     "selection": "ALT",
+     "odds": 1.4,
+     "confidence": 0.636,
+     "model_prob": 0.672,
+     "market_prob": 0.621,
+     "ev": -0.11,
+     "kind": "safe"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.5,
+     "confidence": 0.586,
+     "model_prob": 0.601,
+     "market_prob": 0.58,
+     "ev": -0.121,
+     "kind": "safe"
+    },
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "X2",
+     "odds": 1.62,
+     "confidence": 0.583,
+     "model_prob": 0.598,
+     "market_prob": 0.576,
+     "ev": -0.056,
+     "kind": "safe"
+    },
+    {
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 2.76,
+     "confidence": 0.322,
+     "model_prob": 0.339,
+     "market_prob": 0.315,
+     "ev": -0.11,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "LWWLL",
+   "away_form": "LLWDD",
+   "h2h": [
+    {
+     "date": "2026-03-08",
+     "home": "Tigres UANL",
+     "away": "Monterrey",
+     "home_id": 2279,
+     "hg": 1,
+     "ag": 0
+    },
+    {
+     "date": "2025-11-02",
+     "home": "Monterrey",
+     "away": "Tigres UANL",
+     "home_id": 2282,
+     "hg": 1,
+     "ag": 1
+    },
+    {
+     "date": "2025-04-13",
+     "home": "Tigres UANL",
+     "away": "Monterrey",
+     "home_id": 2279,
+     "hg": 2,
+     "ag": 1
+    },
+    {
+     "date": "2024-10-20",
+     "home": "Monterrey",
+     "away": "Tigres UANL",
+     "home_id": 2282,
+     "hg": 4,
+     "ag": 2
+    },
+    {
+     "date": "2024-05-13",
+     "home": "Monterrey",
+     "away": "Tigres UANL",
+     "home_id": 2282,
+     "hg": 1,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490474",
+   "fixture_id": 1490474,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "Real Salt Lake",
+   "away_team": "New York City FC",
+   "home_id": 1606,
+   "away_id": 1604,
+   "kickoff": "2026-09-13T01:30:00+00:00",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.48,
+   "odds_raw": 1.59,
+   "odds_normalized": true,
+   "confidence_score": 0.59,
+   "model_prob": 0.597,
+   "market_prob": 0.587,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.4862,
+      "odds": 1.76,
+      "odds_raw": 1.89,
+      "market": 0.4937
+     },
+     "X": {
+      "model": 0.2417,
+      "odds": 3.52,
+      "odds_raw": 3.775,
+      "market": 0.2472
+     },
+     "2": {
+      "model": 0.2721,
+      "odds": 3.36,
+      "odds_raw": 3.6,
+      "market": 0.2592
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.597,
+      "odds": 1.48,
+      "odds_raw": 1.595,
+      "market": 0.5863
+     },
+     "ALT": {
+      "model": 0.403,
+      "odds": 2.1,
+      "odds_raw": 2.26,
+      "market": 0.4137
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.6112,
+      "odds": 1.45,
+      "odds_raw": 1.53,
+      "market": 0.6005
+     },
+     "YOK": {
+      "model": 0.3888,
+      "odds": 2.18,
+      "odds_raw": 2.3,
+      "market": 0.3995
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.8194,
+      "odds": 1.1,
+      "odds_raw": 1.18,
+      "market": 0.7923
+     },
+     "ALT": {
+      "model": 0.1806,
+      "odds": 4.19,
+      "odds_raw": 4.5,
+      "market": 0.2077
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3733,
+      "odds": 2.27,
+      "odds_raw": 2.42,
+      "market": 0.3827
+     },
+     "ALT": {
+      "model": 0.6267,
+      "odds": 1.41,
+      "odds_raw": 1.5,
+      "market": 0.6173
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.2003,
+      "odds": 4.01,
+      "odds_raw": 4.33,
+      "market": 0.217
+     },
+     "ALT": {
+      "model": 0.7997,
+      "odds": 1.11,
+      "odds_raw": 1.2,
+      "market": 0.783
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.7279,
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7475
+     },
+     "X2": {
+      "model": 0.5138,
+      "odds": 1.85,
+      "odds_raw": 1.85,
+      "market": 0.5051
+     },
+     "12": {
+      "model": 0.7583,
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7475
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.5356,
+      "odds": 1.59,
+      "odds_raw": 1.7,
+      "market": 0.5467
+     },
+     "ALT": {
+      "model": 0.4644,
+      "odds": 1.92,
+      "odds_raw": 2.05,
+      "market": 0.4533
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.372,
+      "odds": 2.38,
+      "odds_raw": 2.54,
+      "market": 0.365
+     },
+     "ALT": {
+      "model": 0.628,
+      "odds": 1.37,
+      "odds_raw": 1.46,
+      "market": 0.635
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "12",
+     "odds": 1.25,
+     "confidence": 0.751,
+     "model_prob": 0.758,
+     "market_prob": 0.747,
+     "ev": -0.062,
+     "kind": "banko"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.37,
+     "confidence": 0.633,
+     "model_prob": 0.628,
+     "market_prob": 0.635,
+     "ev": -0.133,
+     "kind": "safe"
+    },
+    {
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.45,
+     "confidence": 0.604,
+     "model_prob": 0.611,
+     "market_prob": 0.601,
+     "ev": -0.125,
+     "kind": "safe"
+    },
+    {
+     "market_type": "1X2",
+     "selection": "2",
+     "odds": 3.36,
+     "confidence": 0.263,
+     "model_prob": 0.272,
+     "market_prob": 0.259,
+     "ev": -0.117,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "LLLDL",
+   "away_form": "LDDDL",
+   "h2h": [
+    {
+     "date": "2025-01-24",
+     "home": "Real Salt Lake",
+     "away": "New York City FC",
+     "home_id": 1606,
+     "hg": 2,
+     "ag": 2
+    },
+    {
+     "date": "2025-01-24",
+     "home": "Real Salt Lake",
+     "away": "New York City FC",
+     "home_id": 1606,
+     "hg": 2,
+     "ag": 2
+    },
+    {
+     "date": "2023-06-11",
+     "home": "Real Salt Lake",
+     "away": "New York City FC",
+     "home_id": 1606,
+     "hg": 0,
+     "ag": 0
+    },
+    {
+     "date": "2022-04-17",
+     "home": "New York City FC",
+     "away": "Real Salt Lake",
+     "home_id": 1604,
+     "hg": 6,
+     "ag": 0
+    },
+    {
+     "date": "2019-08-04",
+     "home": "Real Salt Lake",
+     "away": "New York City FC",
+     "home_id": 1606,
+     "hg": 3,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490475",
+   "fixture_id": 1490475,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "Colorado Rapids",
+   "away_team": "CF Montreal",
+   "home_id": 1610,
+   "away_id": 1614,
+   "kickoff": "2026-09-13T01:30:00+00:00",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.53,
+   "odds_raw": 1.62,
+   "odds_normalized": true,
+   "confidence_score": 0.571,
+   "model_prob": 0.578,
+   "market_prob": 0.568,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.5777,
+      "odds": 1.53,
+      "odds_raw": 1.625,
+      "market": 0.5675
+     },
+     "X": {
+      "model": 0.2225,
+      "odds": 3.75,
+      "odds_raw": 3.975,
+      "market": 0.232
+     },
+     "2": {
+      "model": 0.1998,
+      "odds": 4.34,
+      "odds_raw": 4.6,
+      "market": 0.2005
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.6063,
+      "odds": 1.46,
+      "odds_raw": 1.57,
+      "market": 0.5974
+     },
+     "ALT": {
+      "model": 0.3937,
+      "odds": 2.16,
+      "odds_raw": 2.33,
+      "market": 0.4026
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5879,
+      "odds": 1.49,
+      "odds_raw": 1.6,
+      "market": 0.5844
+     },
+     "YOK": {
+      "model": 0.4121,
+      "odds": 2.09,
+      "odds_raw": 2.25,
+      "market": 0.4156
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.825,
+      "odds": 1.08,
+      "odds_raw": 1.17,
+      "market": 0.8024
+     },
+     "ALT": {
+      "model": 0.175,
+      "odds": 4.4,
+      "odds_raw": 4.75,
+      "market": 0.1976
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3829,
+      "odds": 2.23,
+      "odds_raw": 2.4,
+      "market": 0.3893
+     },
+     "ALT": {
+      "model": 0.6171,
+      "odds": 1.42,
+      "odds_raw": 1.53,
+      "market": 0.6107
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.2077,
+      "odds": 3.91,
+      "odds_raw": 4.2,
+      "market": 0.2222
+     },
+     "ALT": {
+      "model": 0.7923,
+      "odds": 1.12,
+      "odds_raw": 1.2,
+      "market": 0.7778
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.8002,
+      "odds": 1.18,
+      "odds_raw": 1.18,
+      "market": 0.7981
+     },
+     "X2": {
+      "model": 0.4223,
+      "odds": 2.19,
+      "odds_raw": 2.19,
+      "market": 0.43
+     },
+     "12": {
+      "model": 0.7775,
+      "odds": 1.22,
+      "odds_raw": 1.22,
+      "market": 0.7719
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.5992,
+      "odds": 1.48,
+      "odds_raw": 1.57,
+      "market": 0.589
+     },
+     "ALT": {
+      "model": 0.4008,
+      "odds": 2.12,
+      "odds_raw": 2.25,
+      "market": 0.411
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.3066,
+      "odds": 2.72,
+      "odds_raw": 2.91,
+      "market": 0.3201
+     },
+     "ALT": {
+      "model": 0.6934,
+      "odds": 1.28,
+      "odds_raw": 1.37,
+      "market": 0.6799
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.28,
+     "confidence": 0.684,
+     "model_prob": 0.693,
+     "market_prob": 0.68,
+     "ev": -0.124,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_3_5",
+     "selection": "ALT",
+     "odds": 1.42,
+     "confidence": 0.613,
+     "model_prob": 0.617,
+     "market_prob": 0.611,
+     "ev": -0.13,
+     "kind": "safe"
+    },
+    {
+     "market_type": "KG_VAR_YOK",
+     "selection": "VAR",
+     "odds": 1.49,
+     "confidence": 0.585,
+     "model_prob": 0.588,
+     "market_prob": 0.584,
+     "ev": -0.128,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_4_5",
+     "selection": "UST",
+     "odds": 3.91,
+     "confidence": 0.218,
+     "model_prob": 0.208,
+     "market_prob": 0.223,
+     "ev": -0.147,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "WLWLD",
+   "away_form": "WDLLL",
+   "h2h": [
+    {
+     "date": "2024-06-23",
+     "home": "Colorado Rapids",
+     "away": "CF Montreal",
+     "home_id": 1610,
+     "hg": 4,
+     "ag": 1
+    },
+    {
+     "date": "2019-08-04",
+     "home": "Colorado Rapids",
+     "away": "CF Montreal",
+     "home_id": 1610,
+     "hg": 6,
+     "ag": 3
+    },
+    {
+     "date": "2018-07-07",
+     "home": "CF Montreal",
+     "away": "Colorado Rapids",
+     "home_id": 1614,
+     "hg": 2,
+     "ag": 1
+    },
+    {
+     "date": "2017-10-01",
+     "home": "Colorado Rapids",
+     "away": "CF Montreal",
+     "home_id": 1610,
+     "hg": 2,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490477",
+   "fixture_id": 1490477,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "San Jose Earthquakes",
+   "away_team": "Houston Dynamo",
+   "home_id": 1596,
+   "away_id": 1600,
+   "kickoff": "2026-09-13T02:30:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.41,
+   "odds_raw": 1.5,
+   "odds_normalized": true,
+   "confidence_score": 0.611,
+   "model_prob": 0.601,
+   "market_prob": 0.616,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.3986,
+      "odds": 2.19,
+      "odds_raw": 2.355,
+      "market": 0.3962
+     },
+     "X": {
+      "model": 0.2557,
+      "odds": 3.4,
+      "odds_raw": 3.65,
+      "market": 0.2556
+     },
+     "2": {
+      "model": 0.3457,
+      "odds": 2.5,
+      "odds_raw": 2.68,
+      "market": 0.3482
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5678,
+      "odds": 1.51,
+      "odds_raw": 1.62,
+      "market": 0.577
+     },
+     "ALT": {
+      "model": 0.4322,
+      "odds": 2.06,
+      "odds_raw": 2.21,
+      "market": 0.423
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.6014,
+      "odds": 1.41,
+      "odds_raw": 1.5,
+      "market": 0.6154
+     },
+     "YOK": {
+      "model": 0.3986,
+      "odds": 2.26,
+      "odds_raw": 2.4,
+      "market": 0.3846
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.8005,
+      "odds": 1.1,
+      "odds_raw": 1.18,
+      "market": 0.7885
+     },
+     "ALT": {
+      "model": 0.1995,
+      "odds": 4.11,
+      "odds_raw": 4.4,
+      "market": 0.2115
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3438,
+      "odds": 2.34,
+      "odds_raw": 2.53,
+      "market": 0.3722
+     },
+     "ALT": {
+      "model": 0.6562,
+      "odds": 1.39,
+      "odds_raw": 1.5,
+      "market": 0.6278
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.178,
+      "odds": 4.19,
+      "odds_raw": 4.5,
+      "market": 0.2077
+     },
+     "ALT": {
+      "model": 0.822,
+      "odds": 1.1,
+      "odds_raw": 1.18,
+      "market": 0.7923
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.6543,
+      "odds": 1.44,
+      "odds_raw": 1.44,
+      "market": 0.653
+     },
+     "X2": {
+      "model": 0.6014,
+      "odds": 1.55,
+      "odds_raw": 1.55,
+      "market": 0.6066
+     },
+     "12": {
+      "model": 0.7443,
+      "odds": 1.27,
+      "odds_raw": 1.27,
+      "market": 0.7404
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.4554,
+      "odds": 1.83,
+      "odds_raw": 1.95,
+      "market": 0.4751
+     },
+     "ALT": {
+      "model": 0.5446,
+      "odds": 1.66,
+      "odds_raw": 1.765,
+      "market": 0.5249
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.4151,
+      "odds": 1.99,
+      "odds_raw": 2.125,
+      "market": 0.4371
+     },
+     "ALT": {
+      "model": 0.5849,
+      "odds": 1.54,
+      "odds_raw": 1.65,
+      "market": 0.5629
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "UST_ALT_3_5",
+     "selection": "ALT",
+     "odds": 1.39,
+     "confidence": 0.636,
+     "model_prob": 0.656,
+     "market_prob": 0.627,
+     "ev": -0.116,
+     "kind": "safe"
+    },
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "X2",
+     "odds": 1.55,
+     "confidence": 0.605,
+     "model_prob": 0.601,
+     "market_prob": 0.607,
+     "ev": -0.062,
+     "kind": "safe"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.54,
+     "confidence": 0.57,
+     "model_prob": 0.585,
+     "market_prob": 0.564,
+     "ev": -0.122,
+     "kind": "safe"
+    },
+    {
+     "market_type": "1X2",
+     "selection": "X",
+     "odds": 3.4,
+     "confidence": 0.256,
+     "model_prob": 0.256,
+     "market_prob": 0.256,
+     "ev": -0.131,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "LLDDW",
+   "away_form": "WLDDW",
+   "h2h": [
+    {
+     "date": "2025-08-24",
+     "home": "Houston Dynamo",
+     "away": "San Jose Earthquakes",
+     "home_id": 1600,
+     "hg": 1,
+     "ag": 2
+    },
+    {
+     "date": "2025-05-25",
+     "home": "San Jose Earthquakes",
+     "away": "Houston Dynamo",
+     "home_id": 1596,
+     "hg": 3,
+     "ag": 3
+    },
+    {
+     "date": "2024-07-18",
+     "home": "San Jose Earthquakes",
+     "away": "Houston Dynamo",
+     "home_id": 1596,
+     "hg": 0,
+     "ag": 1
+    },
+    {
+     "date": "2024-03-31",
+     "home": "Houston Dynamo",
+     "away": "San Jose Earthquakes",
+     "home_id": 1600,
+     "hg": 2,
+     "ag": 1
+    },
+    {
+     "date": "2023-06-22",
+     "home": "Houston Dynamo",
+     "away": "San Jose Earthquakes",
+     "home_id": 1600,
+     "hg": 4,
+     "ag": 1
+    }
+   ]
+  },
+  {
+   "id": "af_1490476",
+   "fixture_id": 1490476,
+   "league_id": 253,
+   "competition": "MLS",
+   "home_team": "Los Angeles Galaxy",
+   "away_team": "Seattle Sounders",
+   "home_id": 1605,
+   "away_id": 1595,
+   "kickoff": "2026-09-13T02:30:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.38,
+   "odds_raw": 1.47,
+   "odds_normalized": true,
+   "confidence_score": 0.612,
+   "model_prob": 0.569,
+   "market_prob": 0.63,
+   "odds_source": "market",
+   "bookmakers": 11,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.455,
+      "odds": 1.9,
+      "odds_raw": 2.04,
+      "market": 0.4575
+     },
+     "X": {
+      "model": 0.2582,
+      "odds": 3.52,
+      "odds_raw": 3.775,
+      "market": 0.2472
+     },
+     "2": {
+      "model": 0.2867,
+      "odds": 2.94,
+      "odds_raw": 3.16,
+      "market": 0.2953
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5364,
+      "odds": 1.42,
+      "odds_raw": 1.53,
+      "market": 0.6107
+     },
+     "ALT": {
+      "model": 0.4636,
+      "odds": 2.23,
+      "odds_raw": 2.4,
+      "market": 0.3893
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5695,
+      "odds": 1.38,
+      "odds_raw": 1.47,
+      "market": 0.6297
+     },
+     "YOK": {
+      "model": 0.4305,
+      "odds": 2.35,
+      "odds_raw": 2.5,
+      "market": 0.3703
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.7789,
+      "odds": 1.07,
+      "odds_raw": 1.17,
+      "market": 0.8104
+     },
+     "ALT": {
+      "model": 0.2211,
+      "odds": 4.59,
+      "odds_raw": 5.0,
+      "market": 0.1896
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.3136,
+      "odds": 2.15,
+      "odds_raw": 2.31,
+      "market": 0.4046
+     },
+     "ALT": {
+      "model": 0.6864,
+      "odds": 1.46,
+      "odds_raw": 1.57,
+      "market": 0.5954
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.1562,
+      "odds": 3.72,
+      "odds_raw": 4.0,
+      "market": 0.2337
+     },
+     "ALT": {
+      "model": 0.8438,
+      "odds": 1.13,
+      "odds_raw": 1.22,
+      "market": 0.7663
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.7133,
+      "odds": 1.33,
+      "odds_raw": 1.33,
+      "market": 0.706
+     },
+     "X2": {
+      "model": 0.545,
+      "odds": 1.73,
+      "odds_raw": 1.73,
+      "market": 0.5428
+     },
+     "12": {
+      "model": 0.7418,
+      "odds": 1.25,
+      "odds_raw": 1.25,
+      "market": 0.7512
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.475,
+      "odds": 1.62,
+      "odds_raw": 1.73,
+      "market": 0.5362
+     },
+     "ALT": {
+      "model": 0.525,
+      "odds": 1.87,
+      "odds_raw": 2.0,
+      "market": 0.4638
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.3464,
+      "odds": 2.1,
+      "odds_raw": 2.25,
+      "market": 0.4133
+     },
+     "ALT": {
+      "model": 0.6536,
+      "odds": 1.48,
+      "odds_raw": 1.585,
+      "market": 0.5867
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "UST_ALT_3_5",
+     "selection": "ALT",
+     "odds": 1.46,
+     "confidence": 0.623,
+     "model_prob": 0.686,
+     "market_prob": 0.596,
+     "ev": -0.091,
+     "kind": "safe"
+    },
+    {
+     "market_type": "DEP_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.48,
+     "confidence": 0.607,
+     "model_prob": 0.654,
+     "market_prob": 0.587,
+     "ev": -0.102,
+     "kind": "safe"
+    },
+    {
+     "market_type": "UST_ALT_1_5",
+     "selection": "ALT",
+     "odds": 4.59,
+     "confidence": 0.199,
+     "model_prob": 0.221,
+     "market_prob": 0.189,
+     "ev": -0.088,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "WDLWL",
+   "away_form": "LLDDD",
+   "h2h": [
+    {
+     "date": "2026-05-17",
+     "home": "Seattle Sounders",
+     "away": "Los Angeles Galaxy",
+     "home_id": 1595,
+     "hg": 0,
+     "ag": 2
+    },
+    {
+     "date": "2025-09-14",
+     "home": "Seattle Sounders",
+     "away": "Los Angeles Galaxy",
+     "home_id": 1595,
+     "hg": 2,
+     "ag": 2
+    },
+    {
+     "date": "2025-08-28",
+     "home": "Los Angeles Galaxy",
+     "away": "Seattle Sounders",
+     "home_id": 1605,
+     "hg": 0,
+     "ag": 2
+    },
+    {
+     "date": "2025-08-11",
+     "home": "Los Angeles Galaxy",
+     "away": "Seattle Sounders",
+     "home_id": 1605,
+     "hg": 0,
+     "ag": 4
+    },
+    {
+     "date": "2024-12-01",
+     "home": "Los Angeles Galaxy",
+     "away": "Seattle Sounders",
+     "home_id": 1605,
+     "hg": 1,
+     "ag": 0
+    }
+   ]
+  },
+  {
+   "id": "af_1550961",
+   "fixture_id": 1550961,
+   "league_id": 262,
+   "competition": "Liga MX",
+   "home_team": "Cruz Azul",
+   "away_team": "Club America",
+   "home_id": 2295,
+   "away_id": 2287,
+   "kickoff": "2026-09-13T03:00:00+00:00",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.55,
+   "odds_raw": 1.65,
+   "odds_normalized": true,
+   "confidence_score": 0.558,
+   "model_prob": 0.553,
+   "market_prob": 0.561,
+   "odds_source": "market",
+   "bookmakers": 14,
+   "data_reliability": "exploratory",
+   "markets": {
+    "1X2": {
+     "1": {
+      "model": 0.3391,
+      "odds": 2.7,
+      "odds_raw": 2.89,
+      "market": 0.3222
+     },
+     "X": {
+      "model": 0.2704,
+      "odds": 3.18,
+      "odds_raw": 3.4,
+      "market": 0.2739
+     },
+     "2": {
+      "model": 0.3906,
+      "odds": 2.15,
+      "odds_raw": 2.305,
+      "market": 0.404
+     }
+    },
+    "UST_ALT_2_5": {
+     "UST": {
+      "model": 0.5045,
+      "odds": 1.7,
+      "odds_raw": 1.845,
+      "market": 0.5113
+     },
+     "ALT": {
+      "model": 0.4955,
+      "odds": 1.78,
+      "odds_raw": 1.93,
+      "market": 0.4887
+     }
+    },
+    "KG_VAR_YOK": {
+     "VAR": {
+      "model": 0.5526,
+      "odds": 1.55,
+      "odds_raw": 1.65,
+      "market": 0.56
+     },
+     "YOK": {
+      "model": 0.4474,
+      "odds": 1.98,
+      "odds_raw": 2.1,
+      "market": 0.44
+     }
+    },
+    "UST_ALT_1_5": {
+     "UST": {
+      "model": 0.7561,
+      "odds": 1.17,
+      "odds_raw": 1.25,
+      "market": 0.7423
+     },
+     "ALT": {
+      "model": 0.2439,
+      "odds": 3.37,
+      "odds_raw": 3.6,
+      "market": 0.2577
+     }
+    },
+    "UST_ALT_3_5": {
+     "UST": {
+      "model": 0.2842,
+      "odds": 2.9,
+      "odds_raw": 3.1,
+      "market": 0.3002
+     },
+     "ALT": {
+      "model": 0.7158,
+      "odds": 1.24,
+      "odds_raw": 1.33,
+      "market": 0.6998
+     }
+    },
+    "UST_ALT_4_5": {
+     "UST": {
+      "model": 0.136,
+      "odds": 5.38,
+      "odds_raw": 5.785,
+      "market": 0.1616
+     },
+     "ALT": {
+      "model": 0.864,
+      "odds": 1.04,
+      "odds_raw": 1.115,
+      "market": 0.8384
+     }
+    },
+    "CIFTE_SANS": {
+     "1X": {
+      "model": 0.6094,
+      "odds": 1.565,
+      "odds_raw": 1.565,
+      "market": 0.5968
+     },
+     "X2": {
+      "model": 0.6609,
+      "odds": 1.375,
+      "odds_raw": 1.375,
+      "market": 0.6792
+     },
+     "12": {
+      "model": 0.7296,
+      "odds": 1.29,
+      "odds_raw": 1.29,
+      "market": 0.724
+     }
+    },
+    "EV_GOL_1_5": {
+     "UST": {
+      "model": 0.3698,
+      "odds": 2.32,
+      "odds_raw": 2.5,
+      "market": 0.375
+     },
+     "ALT": {
+      "model": 0.6302,
+      "odds": 1.39,
+      "odds_raw": 1.5,
+      "market": 0.625
+     }
+    },
+    "DEP_GOL_1_5": {
+     "UST": {
+      "model": 0.4089,
+      "odds": 2.03,
+      "odds_raw": 2.17,
+      "market": 0.4274
+     },
+     "ALT": {
+      "model": 0.5911,
+      "odds": 1.52,
+      "odds_raw": 1.62,
+      "market": 0.5726
+     }
+    }
+   },
+   "alternatives": [
+    {
+     "market_type": "EV_GOL_1_5",
+     "selection": "ALT",
+     "odds": 1.39,
+     "confidence": 0.627,
+     "model_prob": 0.63,
+     "market_prob": 0.625,
+     "ev": -0.129,
+     "kind": "safe"
+    },
+    {
+     "market_type": "CIFTE_SANS",
+     "selection": "1X",
+     "odds": 1.56,
+     "confidence": 0.601,
+     "model_prob": 0.609,
+     "market_prob": 0.597,
+     "ev": -0.06,
+     "kind": "safe"
+    },
+    {
+     "market_type": "1X2",
+     "selection": "1",
+     "odds": 2.7,
+     "confidence": 0.327,
+     "model_prob": 0.339,
+     "market_prob": 0.322,
+     "ev": -0.117,
+     "kind": "surprise"
+    }
+   ],
+   "strength_source": "xg",
+   "absences": {
+    "home": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    },
+    "away": {
+     "out": 0,
+     "doubtful": 0,
+     "suspended": 0,
+     "players": []
+    }
+   },
+   "home_form": "LLLWW",
+   "away_form": "DWWWW",
+   "h2h": [
+    {
+     "date": "2026-04-12",
+     "home": "Club America",
+     "away": "Cruz Azul",
+     "home_id": 2287,
+     "hg": 1,
+     "ag": 1
+    },
+    {
+     "date": "2025-10-19",
+     "home": "Cruz Azul",
+     "away": "Club America",
+     "home_id": 2295,
+     "hg": 2,
+     "ag": 1
+    },
+    {
+     "date": "2025-05-19",
+     "home": "Club America",
+     "away": "Cruz Azul",
+     "home_id": 2287,
+     "hg": 2,
+     "ag": 1
+    },
+    {
+     "date": "2025-05-16",
+     "home": "Cruz Azul",
+     "away": "Club America",
+     "home_id": 2295,
+     "hg": 1,
+     "ag": 0
+    },
+    {
+     "date": "2025-04-13",
+     "home": "Club America",
+     "away": "Cruz Azul",
+     "home_id": 2287,
+     "hg": 0,
+     "ag": 0
     }
    ]
   }
