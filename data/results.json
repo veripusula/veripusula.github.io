@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T00:23:50Z",
+ "generated_at": "2026-09-11T07:42:50Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -8161,6 +8161,23 @@
    "confidence": 0.537,
    "model_prob": 0.537,
    "market_prob": null
+  },
+  "af_1550955": {
+   "has_details": true,
+   "home_team": "U.N.A.M. - Pumas",
+   "away_team": "Leon",
+   "kickoff": "2026-09-06T18:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.78,
+   "hit": false,
+   "confidence": 0.515,
+   "model_prob": 0.576,
+   "market_prob": 0.489
   },
   "af_1493116": {
    "has_details": true,
