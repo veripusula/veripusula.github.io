@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T07:38:19Z",
+ "generated_at": "2026-09-12T15:17:19Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -9180,6 +9180,74 @@
    "hit": false,
    "confidence": 0.495,
    "model_prob": 0.582,
+   "market_prob": 0.457
+  },
+  "af_1563165": {
+   "has_details": true,
+   "home_team": "West Brom",
+   "away_team": "QPR",
+   "kickoff": "2026-09-12T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.84,
+   "hit": true,
+   "confidence": 0.519,
+   "model_prob": 0.628,
+   "market_prob": 0.473
+  },
+  "af_1563156": {
+   "has_details": true,
+   "home_team": "Bolton",
+   "away_team": "Cardiff",
+   "kickoff": "2026-09-12T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.4,
+   "hit": false,
+   "confidence": 0.606,
+   "model_prob": 0.57,
+   "market_prob": 0.621
+  },
+  "af_1563158": {
+   "has_details": true,
+   "home_team": "Derby",
+   "away_team": "Birmingham",
+   "kickoff": "2026-09-12T11:30:00+00:00",
+   "competition": "Championship",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.65,
+   "hit": false,
+   "confidence": 0.552,
+   "model_prob": 0.61,
+   "market_prob": 0.527
+  },
+  "af_1570378": {
+   "has_details": true,
+   "home_team": "Racing Santander",
+   "away_team": "Alaves",
+   "kickoff": "2026-09-12T12:00:00+00:00",
+   "competition": "La Liga",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.9,
+   "hit": false,
+   "confidence": 0.477,
+   "model_prob": 0.522,
    "market_prob": 0.457
   }
  }
