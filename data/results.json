@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T22:29:57Z",
+ "generated_at": "2026-09-14T00:20:57Z",
  "days": 30,
  "results": {
   "af_1584374": {
@@ -11136,6 +11136,57 @@
    "confidence": 0.567,
    "model_prob": 0.502,
    "market_prob": 0.595
+  },
+  "af_1493122": {
+   "has_details": true,
+   "home_team": "Argentinos JRS",
+   "away_team": "Gimnasia L.P.",
+   "kickoff": "2026-09-13T20:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.53,
+   "hit": true,
+   "confidence": 0.594,
+   "model_prob": 0.653,
+   "market_prob": 0.569
+  },
+  "af_1492375": {
+   "has_details": true,
+   "home_team": "Flamengo",
+   "away_team": "Corinthians",
+   "kickoff": "2026-09-13T20:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.69,
+   "hit": false,
+   "confidence": 0.56,
+   "model_prob": 0.668,
+   "market_prob": 0.514
+  },
+  "af_1490479": {
+   "has_details": true,
+   "home_team": "Chicago Fire",
+   "away_team": "New England Revolution",
+   "kickoff": "2026-09-13T21:30:00+00:00",
+   "competition": "MLS",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.32,
+   "hit": true,
+   "confidence": 0.64,
+   "model_prob": 0.6,
+   "market_prob": 0.657
   }
  }
 }
