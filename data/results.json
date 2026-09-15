@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T23:14:02Z",
+ "generated_at": "2026-09-15T00:48:17Z",
  "days": 30,
  "results": {
   "af_1570339": {
@@ -11289,6 +11289,40 @@
    "confidence": 0.633,
    "model_prob": 0.605,
    "market_prob": 0.645
+  },
+  "af_1493124": {
+   "has_details": true,
+   "home_team": "Banfield",
+   "away_team": "Barracas Central",
+   "kickoff": "2026-09-14T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.28,
+   "hit": true,
+   "confidence": 0.676,
+   "model_prob": 0.668,
+   "market_prob": 0.68
+  },
+  "af_1493127": {
+   "has_details": true,
+   "home_team": "Deportivo Riestra",
+   "away_team": "Lanus",
+   "kickoff": "2026-09-14T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 0,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.22,
+   "hit": false,
+   "confidence": 0.729,
+   "model_prob": 0.767,
+   "market_prob": 0.713
   }
  }
 }
