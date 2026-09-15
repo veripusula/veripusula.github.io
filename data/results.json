@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T00:48:17Z",
+ "generated_at": "2026-09-15T08:19:20Z",
  "days": 30,
  "results": {
   "af_1570339": {
@@ -11323,6 +11323,57 @@
    "confidence": 0.729,
    "model_prob": 0.767,
    "market_prob": 0.713
+  },
+  "af_1492371": {
+   "has_details": true,
+   "home_team": "Bahia",
+   "away_team": "Remo",
+   "kickoff": "2026-09-14T23:00:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.31,
+   "hit": true,
+   "confidence": 0.635,
+   "model_prob": 0.572,
+   "market_prob": 0.662
+  },
+  "af_1493132": {
+   "has_details": true,
+   "home_team": "Instituto Cordoba",
+   "away_team": "Estudiantes de Rio Cuarto",
+   "kickoff": "2026-09-15T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.31,
+   "hit": true,
+   "confidence": 0.682,
+   "model_prob": 0.721,
+   "market_prob": 0.665
+  },
+  "af_1550960": {
+   "has_details": true,
+   "home_team": "Leon",
+   "away_team": "Atletico San Luis",
+   "kickoff": "2026-09-15T01:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.61,
+   "hit": false,
+   "confidence": 0.548,
+   "model_prob": 0.568,
+   "market_prob": 0.54
   }
  }
 }
