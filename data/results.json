@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T00:40:41Z",
+ "generated_at": "2026-09-16T08:13:09Z",
  "days": 30,
  "results": {
   "af_1584375": {
@@ -5815,6 +5815,23 @@
    "confidence": 0.494,
    "model_prob": 0.543,
    "market_prob": 0.473
+  },
+  "af_1550948": {
+   "has_details": true,
+   "home_team": "Puebla",
+   "away_team": "Toluca",
+   "kickoff": "2026-09-05T01:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "2",
+   "odds": 1.53,
+   "hit": true,
+   "confidence": 0.557,
+   "model_prob": 0.532,
+   "market_prob": 0.568
   },
   "af_1550949": {
    "has_details": true,
