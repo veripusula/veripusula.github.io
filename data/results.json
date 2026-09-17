@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T16:35:42Z",
+ "generated_at": "2026-09-17T22:57:07Z",
  "days": 30,
  "results": {
   "af_1570351": {
@@ -11391,6 +11391,40 @@
    "confidence": 0.548,
    "model_prob": 0.581,
    "market_prob": 0.534
+  },
+  "af_1570386": {
+   "has_details": true,
+   "home_team": "Real Betis",
+   "away_team": "Getafe",
+   "kickoff": "2026-09-17T17:00:00+00:00",
+   "competition": "La Liga",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.63,
+   "hit": true,
+   "confidence": 0.543,
+   "model_prob": 0.565,
+   "market_prob": 0.534
+  },
+  "af_1570390": {
+   "has_details": true,
+   "home_team": "Malaga",
+   "away_team": "Villarreal",
+   "kickoff": "2026-09-17T19:30:00+00:00",
+   "competition": "La Liga",
+   "home": 1,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 2.04,
+   "hit": false,
+   "confidence": 0.462,
+   "model_prob": 0.547,
+   "market_prob": 0.425
   }
  }
 }
