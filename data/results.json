@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T00:47:49Z",
+ "generated_at": "2026-09-17T08:19:45Z",
  "days": 30,
  "results": {
   "af_1570351": {
@@ -11341,6 +11341,23 @@
    "model_prob": 0.539,
    "market_prob": 0.584
   },
+  "af_1570385": {
+   "has_details": true,
+   "home_team": "Barcelona",
+   "away_team": "Racing Santander",
+   "kickoff": "2026-09-16T19:30:00+00:00",
+   "competition": "La Liga",
+   "home": 7,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.01,
+   "hit": true,
+   "confidence": 0.815,
+   "model_prob": 0.645,
+   "market_prob": 0.888
+  },
   "af_1570389": {
    "has_details": false,
    "home_team": "Levante",
@@ -11357,6 +11374,23 @@
    "confidence": 0.535,
    "model_prob": 0.618,
    "market_prob": 0.5
+  },
+  "af_1492311": {
+   "has_details": true,
+   "home_team": "Botafogo",
+   "away_team": "Gremio",
+   "kickoff": "2026-09-16T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 3,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.63,
+   "hit": true,
+   "confidence": 0.548,
+   "model_prob": 0.581,
+   "market_prob": 0.534
   }
  }
 }
