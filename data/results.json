@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T22:43:05Z",
+ "generated_at": "2026-09-19T00:31:32Z",
  "days": 30,
  "results": {
   "af_1570351": {
@@ -11612,6 +11612,23 @@
    "confidence": 0.516,
    "model_prob": 0.567,
    "market_prob": 0.494
+  },
+  "af_1493140": {
+   "has_details": true,
+   "home_team": "Central Cordoba de Santiago",
+   "away_team": "Defensa Y Justicia",
+   "kickoff": "2026-09-18T21:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.39,
+   "hit": false,
+   "confidence": 0.61,
+   "model_prob": 0.571,
+   "market_prob": 0.626
   }
  }
 }
