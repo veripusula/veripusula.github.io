@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T00:31:32Z",
+ "generated_at": "2026-09-19T07:46:12Z",
  "days": 30,
  "results": {
   "af_1570351": {
@@ -11629,6 +11629,74 @@
    "confidence": 0.61,
    "model_prob": 0.571,
    "market_prob": 0.626
+  },
+  "af_1490481": {
+   "has_details": true,
+   "home_team": "New York City FC",
+   "away_team": "New York Red Bulls",
+   "kickoff": "2026-09-18T23:30:00+00:00",
+   "competition": "MLS",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.35,
+   "hit": false,
+   "confidence": 0.626,
+   "model_prob": 0.585,
+   "market_prob": 0.644
+  },
+  "af_1493146": {
+   "has_details": true,
+   "home_team": "Racing Club",
+   "away_team": "Sarmiento Junin",
+   "kickoff": "2026-09-19T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.55,
+   "hit": false,
+   "confidence": 0.574,
+   "model_prob": 0.601,
+   "market_prob": 0.562
+  },
+  "af_1550966": {
+   "has_details": true,
+   "home_team": "Puebla",
+   "away_team": "Atlante FC",
+   "kickoff": "2026-09-19T01:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.96,
+   "hit": false,
+   "confidence": 0.453,
+   "model_prob": 0.475,
+   "market_prob": 0.444
+  },
+  "af_1550967": {
+   "has_details": true,
+   "home_team": "FC Juarez",
+   "away_team": "Tigres UANL",
+   "kickoff": "2026-09-19T03:00:00+00:00",
+   "competition": "Liga MX",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.56,
+   "hit": false,
+   "confidence": 0.553,
+   "model_prob": 0.543,
+   "market_prob": 0.557
   }
  }
 }
