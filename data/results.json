@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T22:23:02Z",
+ "generated_at": "2026-09-20T00:17:08Z",
  "days": 30,
  "results": {
   "af_1493077": {
@@ -12632,6 +12632,40 @@
    "confidence": 0.604,
    "model_prob": 0.584,
    "market_prob": 0.612
+  },
+  "af_1492385": {
+   "has_details": true,
+   "home_team": "Mirassol",
+   "away_team": "Botafogo",
+   "kickoff": "2026-09-19T20:00:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 2.09,
+   "hit": true,
+   "confidence": 0.437,
+   "model_prob": 0.485,
+   "market_prob": 0.416
+  },
+  "af_1492386": {
+   "has_details": true,
+   "home_team": "Remo",
+   "away_team": "Santos",
+   "kickoff": "2026-09-19T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.59,
+   "hit": true,
+   "confidence": 0.551,
+   "model_prob": 0.56,
+   "market_prob": 0.547
   }
  }
 }
