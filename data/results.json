@@ -1,24 +1,7 @@
 {
- "generated_at": "2026-09-20T22:34:40Z",
+ "generated_at": "2026-09-21T00:24:38Z",
  "days": 30,
  "results": {
-  "af_1493081": {
-   "has_details": true,
-   "home_team": "Estudiantes de Rio Cuarto",
-   "away_team": "San Lorenzo",
-   "kickoff": "2026-08-21T23:00:00+00:00",
-   "competition": "Arjantin Ligi",
-   "home": 0,
-   "away": 0,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.36,
-   "hit": true,
-   "confidence": 0.732,
-   "model_prob": 0.817,
-   "market_prob": 0.695
-  },
   "af_1550936": {
    "has_details": true,
    "home_team": "Tigres UANL",
@@ -13737,6 +13720,23 @@
    "confidence": 0.625,
    "model_prob": 0.612,
    "market_prob": 0.631
+  },
+  "af_1492383": {
+   "has_details": true,
+   "home_team": "Flamengo",
+   "away_team": "RB Bragantino",
+   "kickoff": "2026-09-20T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.26,
+   "hit": true,
+   "confidence": 0.653,
+   "model_prob": 0.562,
+   "market_prob": 0.691
   }
  }
 }
