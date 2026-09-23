@@ -1,24 +1,7 @@
 {
- "generated_at": "2026-09-22T23:02:50Z",
+ "generated_at": "2026-09-23T00:50:52Z",
  "days": 30,
  "results": {
-  "af_1493087": {
-   "has_details": true,
-   "home_team": "Racing Club",
-   "away_team": "Boca Juniors",
-   "kickoff": "2026-08-24T00:30:00+00:00",
-   "competition": "Arjantin Ligi",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.45,
-   "hit": true,
-   "confidence": 0.628,
-   "model_prob": 0.59,
-   "market_prob": 0.645
-  },
   "af_1550938": {
    "has_details": true,
    "home_team": "U.N.A.M. - Pumas",
