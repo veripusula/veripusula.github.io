@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T08:12:57Z",
+ "generated_at": "2026-09-23T16:26:44Z",
  "days": 30,
  "results": {
   "af_1550089": {
@@ -11750,7 +11750,7 @@
    "market_prob": 0.691
   },
   "af_1493139": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Belgrano Cordoba",
    "away_team": "Estudiantes de Rio Cuarto",
    "kickoff": "2026-09-20T22:15:00+00:00",
