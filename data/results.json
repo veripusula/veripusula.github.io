@@ -1,24 +1,7 @@
 {
- "generated_at": "2026-09-23T00:50:52Z",
+ "generated_at": "2026-09-23T08:12:57Z",
  "days": 30,
  "results": {
-  "af_1550938": {
-   "has_details": true,
-   "home_team": "U.N.A.M. - Pumas",
-   "away_team": "Necaxa",
-   "kickoff": "2026-08-24T01:00:00+00:00",
-   "competition": "Liga MX",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.75,
-   "hit": false,
-   "confidence": 0.54,
-   "model_prob": 0.549,
-   "market_prob": 0.536
-  },
   "af_1550089": {
    "has_details": true,
    "home_team": "Bologna",
