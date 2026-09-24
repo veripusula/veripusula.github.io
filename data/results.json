@@ -1,41 +1,7 @@
 {
- "generated_at": "2026-09-23T23:00:27Z",
+ "generated_at": "2026-09-24T00:44:17Z",
  "days": 30,
  "results": {
-  "af_1493085": {
-   "has_details": true,
-   "home_team": "Lanus",
-   "away_team": "Argentinos JRS",
-   "kickoff": "2026-08-25T00:15:00+00:00",
-   "competition": "Arjantin Ligi",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.44,
-   "hit": true,
-   "confidence": 0.653,
-   "model_prob": 0.656,
-   "market_prob": 0.652
-  },
-  "af_1493090": {
-   "has_details": true,
-   "home_team": "Talleres Cordoba",
-   "away_team": "Rosario Central",
-   "kickoff": "2026-08-25T00:15:00+00:00",
-   "competition": "Arjantin Ligi",
-   "home": 2,
-   "away": 2,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.59,
-   "hit": false,
-   "confidence": 0.594,
-   "model_prob": 0.594,
-   "market_prob": null
-  },
   "af_1570342": {
    "has_details": true,
    "home_team": "Valencia",
