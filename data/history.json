@@ -2385,7 +2385,7 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-09-24T16:47:42Z",
+  "generated_at": "2026-09-24T23:17:06Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
@@ -2394,9 +2394,9 @@
    "hit_rate": 58.4
   },
   "last30": {
-   "n": 291,
-   "hits": 177,
-   "hit_rate": 60.8
+   "n": 290,
+   "hits": 176,
+   "hit_rate": 60.7
   },
   "by_market": {
    "1X2": {
@@ -2409,18 +2409,18 @@
     "n": 175,
     "hits": 107,
     "hit_rate": 61.1,
-    "label": "Üst/Alt 2.5"
+    "label": "Toplam Gol 2.5"
    },
    "KG_VAR_YOK": {
     "n": 86,
     "hits": 46,
     "hit_rate": 53.5,
-    "label": "KG Var/Yok"
+    "label": "Karşılıklı Gol"
    }
   },
   "best_market": {
    "market": "UST_ALT_2_5",
-   "label": "Üst/Alt 2.5",
+   "label": "Toplam Gol 2.5",
    "hit_rate": 61.1,
    "n": 175
   },
