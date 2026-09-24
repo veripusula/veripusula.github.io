@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T00:44:17Z",
+ "generated_at": "2026-09-24T08:03:49Z",
  "days": 30,
  "results": {
   "af_1570342": {
@@ -11714,6 +11714,23 @@
    "confidence": 0.681,
    "model_prob": 0.766,
    "market_prob": 0.644
+  },
+  "af_1490209": {
+   "has_details": true,
+   "home_team": "Seattle Sounders",
+   "away_team": "Real Salt Lake",
+   "kickoff": "2026-09-24T01:30:00+00:00",
+   "competition": "MLS",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.42,
+   "hit": false,
+   "confidence": 0.591,
+   "model_prob": 0.545,
+   "market_prob": 0.611
   }
  }
 }
