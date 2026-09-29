@@ -2385,7 +2385,7 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-09-29T17:53:20Z",
+  "generated_at": "2026-09-29T23:48:27Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
@@ -2394,9 +2394,9 @@
    "hit_rate": 58.4
   },
   "last30": {
-   "n": 234,
-   "hits": 138,
-   "hit_rate": 59.0
+   "n": 227,
+   "hits": 136,
+   "hit_rate": 59.9
   },
   "by_market": {
    "1X2": {
@@ -2432,9 +2432,9 @@
     "hit_rate": 58.6
    },
    "last30": {
-    "n": 353,
-    "hits": 206,
-    "hit_rate": 58.4
+    "n": 342,
+    "hits": 198,
+    "hit_rate": 57.9
    }
   }
  }
