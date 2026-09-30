@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-09-30T01:26:01Z",
+ "generated_at": "2026-09-30T09:14:37Z",
  "days": 30,
  "results": {
-  "af_1550947": {
-   "has_details": true,
-   "home_team": "Monterrey",
-   "away_team": "Atletico San Luis",
-   "kickoff": "2026-08-31T02:10:00+00:00",
-   "competition": "Liga MX",
-   "league_tier": "exploratory",
-   "home": 1,
-   "away": 3,
-   "status": "FT",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.37,
-   "hit": false,
-   "confidence": 0.61,
-   "model_prob": 0.55,
-   "market_prob": 0.636
-  },
   "af_1550103": {
    "has_details": true,
    "home_team": "Lecce",
@@ -12061,6 +12043,24 @@
    "confidence": 0.719,
    "model_prob": 0.628,
    "market_prob": 0.757
+  },
+  "af_1549719": {
+   "has_details": true,
+   "home_team": "Independiente Medellin",
+   "away_team": "Millonarios",
+   "kickoff": "2026-09-30T01:05:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.69,
+   "hit": false,
+   "confidence": 0.519,
+   "model_prob": 0.529,
+   "market_prob": 0.514
   },
   "af_1549797": {
    "has_details": true,
