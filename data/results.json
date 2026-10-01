@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T01:25:53Z",
+ "generated_at": "2026-10-01T09:42:16Z",
  "days": 30,
  "results": {
   "af_1585729": {
@@ -11827,6 +11827,24 @@
    "confidence": 0.597,
    "model_prob": 0.673,
    "market_prob": 0.565
+  },
+  "af_1549703": {
+   "has_details": true,
+   "home_team": "Atletico Nacional",
+   "away_team": "Junior",
+   "kickoff": "2026-10-01T01:00:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.44,
+   "hit": true,
+   "confidence": 0.596,
+   "model_prob": 0.577,
+   "market_prob": 0.604
   }
  }
 }
