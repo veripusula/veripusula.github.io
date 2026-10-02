@@ -2385,7 +2385,7 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-10-01T23:59:16Z",
+  "generated_at": "2026-10-02T01:46:28Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
@@ -2424,7 +2424,7 @@
    "hit_rate": 61.1,
    "n": 175
   },
-  "logged_total": 887,
+  "logged_total": 888,
   "exploratory": {
    "season": {
     "n": 500,
