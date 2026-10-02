@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T01:46:28Z",
+ "generated_at": "2026-10-02T09:16:42Z",
  "days": 30,
  "results": {
   "af_1585738": {
@@ -11773,6 +11773,60 @@
    "confidence": 0.574,
    "model_prob": 0.574,
    "market_prob": 0.574
+  },
+  "af_1520900": {
+   "has_details": true,
+   "home_team": "Athletic Club",
+   "away_team": "Sport Recife",
+   "kickoff": "2026-10-01T23:30:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.54,
+   "hit": false,
+   "confidence": 0.581,
+   "model_prob": 0.617,
+   "market_prob": 0.565
+  },
+  "af_1520908": {
+   "has_details": true,
+   "home_team": "Novorizontino",
+   "away_team": "Goias",
+   "kickoff": "2026-10-02T00:00:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.55,
+   "hit": true,
+   "confidence": 0.56,
+   "model_prob": 0.557,
+   "market_prob": 0.562
+  },
+  "af_1490463": {
+   "has_details": true,
+   "home_team": "Seattle Sounders",
+   "away_team": "Sporting Kansas City",
+   "kickoff": "2026-10-02T01:30:00+00:00",
+   "competition": "MLS",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.36,
+   "hit": true,
+   "confidence": 0.628,
+   "model_prob": 0.6,
+   "market_prob": 0.64
   }
  }
 }
