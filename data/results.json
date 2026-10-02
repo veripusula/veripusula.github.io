@@ -1,61 +1,7 @@
 {
- "generated_at": "2026-10-02T09:16:42Z",
+ "generated_at": "2026-10-02T17:40:19Z",
  "days": 30,
  "results": {
-  "af_1585738": {
-   "has_details": true,
-   "home_team": "Vanspor FK",
-   "away_team": "Batman Petrolspor",
-   "kickoff": "2026-09-02T14:00:00+00:00",
-   "competition": "TFF 1. Lig",
-   "league_tier": "core",
-   "home": 0,
-   "away": 2,
-   "status": "FT",
-   "market_type": "KG_VAR_YOK",
-   "selection": "VAR",
-   "odds": 1.59,
-   "hit": false,
-   "confidence": 0.552,
-   "model_prob": 0.563,
-   "market_prob": 0.547
-  },
-  "af_1585736": {
-   "has_details": true,
-   "home_team": "Sivasspor",
-   "away_team": "Mardin 1969",
-   "kickoff": "2026-09-02T17:00:00+00:00",
-   "competition": "TFF 1. Lig",
-   "league_tier": "core",
-   "home": 2,
-   "away": 2,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.6,
-   "hit": false,
-   "confidence": 0.548,
-   "model_prob": 0.556,
-   "market_prob": 0.544
-  },
-  "af_1585734": {
-   "has_details": true,
-   "home_team": "Fatih Karagümrük",
-   "away_team": "Kayserispor",
-   "kickoff": "2026-09-02T17:00:00+00:00",
-   "competition": "TFF 1. Lig",
-   "league_tier": "core",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.67,
-   "hit": true,
-   "confidence": 0.518,
-   "model_prob": 0.514,
-   "market_prob": 0.52
-  },
   "af_1558607": {
    "has_details": true,
    "home_team": "St. Truiden",
@@ -11827,6 +11773,24 @@
    "confidence": 0.628,
    "model_prob": 0.6,
    "market_prob": 0.64
+  },
+  "af_1528923": {
+   "has_details": true,
+   "home_team": "Kazakhstan",
+   "away_team": "Moldova",
+   "kickoff": "2026-10-02T14:00:00+00:00",
+   "competition": "UEFA Uluslar Ligi",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.56,
+   "hit": false,
+   "confidence": 0.556,
+   "model_prob": 0.556,
+   "market_prob": 0.556
   }
  }
 }
