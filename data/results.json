@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T23:52:57Z",
+ "generated_at": "2026-10-03T01:19:16Z",
  "days": 30,
  "results": {
   "af_1585733": {
@@ -11863,6 +11863,42 @@
    "confidence": 0.577,
    "model_prob": 0.577,
    "market_prob": 0.577
+  },
+  "af_1493161": {
+   "has_details": true,
+   "home_team": "Independiente",
+   "away_team": "Instituto Cordoba",
+   "kickoff": "2026-10-02T22:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 4,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.37,
+   "hit": false,
+   "confidence": 0.62,
+   "model_prob": 0.587,
+   "market_prob": 0.635
+  },
+  "af_1520909": {
+   "has_details": true,
+   "home_team": "São Bernardo",
+   "away_team": "CRB",
+   "kickoff": "2026-10-02T22:30:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.73,
+   "hit": false,
+   "confidence": 0.543,
+   "model_prob": 0.636,
+   "market_prob": 0.503
   }
  }
 }
