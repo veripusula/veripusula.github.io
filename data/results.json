@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T09:16:05Z",
+ "generated_at": "2026-10-04T16:40:23Z",
  "days": 30,
  "results": {
   "af_1584394": {
@@ -12548,6 +12548,24 @@
    "model_prob": 0.632,
    "market_prob": 0.618
   },
+  "af_1569957": {
+   "has_details": true,
+   "home_team": "Real Sociedad II",
+   "away_team": "Granada CF",
+   "kickoff": "2026-10-04T12:00:00+00:00",
+   "competition": "İspanya La Liga 2",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.71,
+   "hit": false,
+   "confidence": 0.517,
+   "model_prob": 0.539,
+   "market_prob": 0.507
+  },
   "af_1591632": {
    "has_details": false,
    "home_team": "1461 Trabzon FK",
@@ -12583,6 +12601,24 @@
    "confidence": 0.515,
    "model_prob": 0.531,
    "market_prob": 0.509
+  },
+  "af_1528937": {
+   "has_details": true,
+   "home_team": "Azerbaijan",
+   "away_team": "Lithuania",
+   "kickoff": "2026-10-04T13:00:00+00:00",
+   "competition": "UEFA Uluslar Ligi",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.37,
+   "hit": true,
+   "confidence": 0.636,
+   "model_prob": 0.636,
+   "market_prob": 0.636
   },
   "af_1591325": {
    "has_details": false,
