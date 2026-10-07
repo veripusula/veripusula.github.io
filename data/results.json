@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-06T23:55:13Z",
+ "generated_at": "2026-10-07T01:44:46Z",
  "days": 30,
  "results": {
-  "af_1493116": {
-   "has_details": true,
-   "home_team": "Racing Club",
-   "away_team": "Atletico Tucuman",
-   "kickoff": "2026-09-07T00:30:00+00:00",
-   "competition": "Arjantin Ligi",
-   "league_tier": "exploratory",
-   "home": 1,
-   "away": 2,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.44,
-   "hit": false,
-   "confidence": 0.611,
-   "model_prob": 0.626,
-   "market_prob": 0.604
-  },
   "af_1550956": {
    "has_details": true,
    "home_team": "Cruz Azul",
@@ -10891,6 +10873,24 @@
    "confidence": 0.654,
    "model_prob": 0.654,
    "market_prob": 0.654
+  },
+  "af_1520918": {
+   "has_details": true,
+   "home_team": "Sport Recife",
+   "away_team": "São Bernardo",
+   "kickoff": "2026-10-06T22:30:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.66,
+   "hit": true,
+   "confidence": 0.528,
+   "model_prob": 0.539,
+   "market_prob": 0.523
   },
   "af_1545655": {
    "has_details": true,
