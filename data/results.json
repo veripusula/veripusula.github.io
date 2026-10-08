@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T02:13:25Z",
+ "generated_at": "2026-10-08T09:53:26Z",
  "days": 30,
  "results": {
   "af_1552136": {
@@ -10980,6 +10980,24 @@
    "hit": true,
    "confidence": 0.529,
    "model_prob": 0.551,
+   "market_prob": 0.52
+  },
+  "af_1492393": {
+   "has_details": true,
+   "home_team": "Cruzeiro",
+   "away_team": "Sao Paulo",
+   "kickoff": "2026-10-08T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": true,
+   "confidence": 0.542,
+   "model_prob": 0.594,
    "market_prob": 0.52
   }
  }
