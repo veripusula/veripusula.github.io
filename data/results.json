@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-08T09:53:26Z",
+ "generated_at": "2026-10-08T18:42:11Z",
  "days": 30,
  "results": {
-  "af_1552136": {
-   "has_details": true,
-   "home_team": "NEC Nijmegen",
-   "away_team": "Excelsior",
-   "kickoff": "2026-09-08T16:45:00+00:00",
-   "competition": "Eredivisie",
-   "league_tier": "exploratory",
-   "home": 2,
-   "away": 2,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.28,
-   "hit": true,
-   "confidence": 0.676,
-   "model_prob": 0.666,
-   "market_prob": 0.68
-  },
   "af_1563149": {
    "has_details": true,
    "home_team": "Watford",
