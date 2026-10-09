@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T02:28:39Z",
+ "generated_at": "2026-10-09T09:57:27Z",
  "days": 30,
  "results": {
   "af_1552142": {
@@ -10963,6 +10963,60 @@
    "confidence": 0.547,
    "model_prob": 0.579,
    "market_prob": 0.533
+  },
+  "af_1492396": {
+   "has_details": true,
+   "home_team": "Palmeiras",
+   "away_team": "Bahia",
+   "kickoff": "2026-10-09T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 2.0,
+   "hit": true,
+   "confidence": 0.457,
+   "model_prob": 0.51,
+   "market_prob": 0.435
+  },
+  "af_1492394": {
+   "has_details": true,
+   "home_team": "Fluminense",
+   "away_team": "Coritiba",
+   "kickoff": "2026-10-09T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 4,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.37,
+   "hit": true,
+   "confidence": 0.614,
+   "model_prob": 0.564,
+   "market_prob": 0.635
+  },
+  "af_1507076": {
+   "has_details": true,
+   "home_team": "Daejeon Citizen",
+   "away_team": "Jeonbuk Motors",
+   "kickoff": "2026-10-09T05:00:00+00:00",
+   "competition": "Güney Kore K League 1",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.85,
+   "hit": false,
+   "confidence": 0.529,
+   "model_prob": 0.665,
+   "market_prob": 0.47
   }
  }
 }
