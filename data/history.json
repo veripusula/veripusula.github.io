@@ -2385,30 +2385,30 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-10-09T18:12:58Z",
+  "generated_at": "2026-10-10T00:10:14Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
-   "n": 372,
-   "hits": 218,
-   "hit_rate": 58.6
+   "n": 378,
+   "hits": 223,
+   "hit_rate": 59.0
   },
   "last30": {
-   "n": 144,
-   "hits": 89,
-   "hit_rate": 61.8
+   "n": 150,
+   "hits": 94,
+   "hit_rate": 62.7
   },
   "by_market": {
    "1X2": {
-    "n": 109,
-    "hits": 63,
-    "hit_rate": 57.8,
+    "n": 111,
+    "hits": 64,
+    "hit_rate": 57.7,
     "label": "Maç Sonucu"
    },
    "UST_ALT_2_5": {
-    "n": 176,
-    "hits": 108,
-    "hit_rate": 61.4,
+    "n": 180,
+    "hits": 112,
+    "hit_rate": 62.2,
     "label": "Toplam Gol 2.5"
    },
    "KG_VAR_YOK": {
@@ -2421,20 +2421,20 @@
   "best_market": {
    "market": "UST_ALT_2_5",
    "label": "Toplam Gol 2.5",
-   "hit_rate": 61.4,
-   "n": 176
+   "hit_rate": 62.2,
+   "n": 180
   },
-  "logged_total": 1048,
+  "logged_total": 1050,
   "exploratory": {
    "season": {
-    "n": 528,
-    "hits": 308,
-    "hit_rate": 58.3
+    "n": 535,
+    "hits": 309,
+    "hit_rate": 57.8
    },
    "last30": {
-    "n": 251,
-    "hits": 143,
-    "hit_rate": 57.0
+    "n": 248,
+    "hits": 136,
+    "hit_rate": 54.8
    }
   }
  }
