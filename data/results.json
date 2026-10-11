@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:43:05Z",
+ "generated_at": "2026-10-11T01:11:07Z",
  "days": 30,
  "results": {
   "af_1584405": {
@@ -11414,6 +11414,24 @@
    "model_prob": 0.563,
    "market_prob": 0.564
   },
+  "af_1550985": {
+   "has_details": true,
+   "home_team": "Club Queretaro",
+   "away_team": "Atlante FC",
+   "kickoff": "2026-10-10T01:00:00+00:00",
+   "competition": "Liga MX",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.67,
+   "hit": false,
+   "confidence": 0.532,
+   "model_prob": 0.559,
+   "market_prob": 0.52
+  },
   "af_1550984": {
    "has_details": true,
    "home_team": "Puebla",
@@ -13719,7 +13737,7 @@
    "market_prob": 0.564
   },
   "af_1493168": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Barracas Central",
    "away_team": "Huracan",
    "kickoff": "2026-10-10T18:45:00+00:00",
@@ -13737,7 +13755,7 @@
    "market_prob": 0.718
   },
   "af_1558651": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Zulte Waregem",
    "away_team": "Gent",
    "kickoff": "2026-10-10T18:45:00+00:00",
@@ -13755,7 +13773,7 @@
    "market_prob": 0.536
   },
   "af_1558646": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Genk",
    "away_team": "Kortrijk",
    "kickoff": "2026-10-10T18:45:00+00:00",
@@ -13773,7 +13791,7 @@
    "market_prob": 0.643
   },
   "af_1570411": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Real Madrid",
    "away_team": "Villarreal",
    "kickoff": "2026-10-10T19:00:00+00:00",
@@ -13791,7 +13809,7 @@
    "market_prob": 0.712
   },
   "af_1552183": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Ajax",
    "away_team": "NEC Nijmegen",
    "kickoff": "2026-10-10T19:00:00+00:00",
@@ -13809,7 +13827,7 @@
    "market_prob": 0.721
   },
   "af_1569963": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Celta de Vigo II",
    "away_team": "Real Sociedad II",
    "kickoff": "2026-10-10T19:00:00+00:00",
@@ -13827,7 +13845,7 @@
    "market_prob": 0.551
   },
   "af_1575509": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Academico Viseu",
    "away_team": "Estoril",
    "kickoff": "2026-10-10T19:30:00+00:00",
@@ -13845,7 +13863,7 @@
    "market_prob": 0.415
   },
   "af_1493169": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Central Cordoba de Santiago",
    "away_team": "Estudiantes L.P.",
    "kickoff": "2026-10-10T20:00:00+00:00",
@@ -13863,7 +13881,7 @@
    "market_prob": 0.636
   },
   "af_1505535": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Huachipato",
    "away_team": "O'Higgins",
    "kickoff": "2026-10-10T20:30:00+00:00",
@@ -13881,7 +13899,7 @@
    "market_prob": 0.54
   },
   "af_1549821": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Deportivo Pereira",
    "away_team": "Deportivo Cali",
    "kickoff": "2026-10-10T20:30:00+00:00",
@@ -13899,7 +13917,7 @@
    "market_prob": 0.554
   },
   "af_1492409": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Vasco DA Gama",
    "away_team": "Remo",
    "kickoff": "2026-10-10T21:00:00+00:00",
@@ -13915,6 +13933,24 @@
    "confidence": 0.67,
    "model_prob": 0.67,
    "market_prob": null
+  },
+  "af_1493180": {
+   "has_details": true,
+   "home_team": "Tigre",
+   "away_team": "Banfield",
+   "kickoff": "2026-10-10T22:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.59,
+   "hit": false,
+   "confidence": 0.546,
+   "model_prob": 0.547,
+   "market_prob": 0.546
   },
   "af_1591335": {
    "has_details": false,
