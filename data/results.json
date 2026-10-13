@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T03:08:14Z",
+ "generated_at": "2026-10-13T10:01:57Z",
  "days": 30,
  "results": {
   "af_1552167": {
@@ -15139,6 +15139,24 @@
    "confidence": 0.589,
    "model_prob": 0.576,
    "market_prob": 0.594
+  },
+  "af_1549816": {
+   "has_details": true,
+   "home_team": "Chico",
+   "away_team": "Cucuta",
+   "kickoff": "2026-10-13T01:10:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.5,
+   "hit": true,
+   "confidence": 0.593,
+   "model_prob": 0.623,
+   "market_prob": 0.58
   }
  }
 }
