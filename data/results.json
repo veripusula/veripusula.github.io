@@ -1,43 +1,7 @@
 {
- "generated_at": "2026-10-14T08:20:29Z",
+ "generated_at": "2026-10-14T16:52:55Z",
  "days": 30,
  "results": {
-  "af_1550125": {
-   "has_details": true,
-   "home_team": "Torino",
-   "away_team": "AS Roma",
-   "kickoff": "2026-09-14T16:30:00+00:00",
-   "competition": "Serie A",
-   "league_tier": "core",
-   "home": 0,
-   "away": 2,
-   "status": "FT",
-   "market_type": "1X2",
-   "selection": "2",
-   "odds": 1.43,
-   "hit": true,
-   "confidence": 0.586,
-   "model_prob": 0.533,
-   "market_prob": 0.608
-  },
-  "af_1550118": {
-   "has_details": true,
-   "home_team": "Como",
-   "away_team": "Parma",
-   "kickoff": "2026-09-14T16:30:00+00:00",
-   "competition": "Serie A",
-   "league_tier": "core",
-   "home": 2,
-   "away": 1,
-   "status": "FT",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.12,
-   "hit": true,
-   "confidence": 0.752,
-   "model_prob": 0.689,
-   "market_prob": 0.779
-  },
   "af_1584408": {
    "has_details": true,
    "home_team": "Gaziantep FK",
@@ -14779,6 +14743,24 @@
    "confidence": 0.57,
    "model_prob": 0.687,
    "market_prob": 0.52
+  },
+  "af_1585781": {
+   "has_details": true,
+   "home_team": "Batman Petrolspor",
+   "away_team": "İstanbulspor",
+   "kickoff": "2026-10-14T11:30:00+00:00",
+   "competition": "TFF 1. Lig",
+   "league_tier": "core",
+   "home": 4,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.52,
+   "hit": true,
+   "confidence": 0.589,
+   "model_prob": 0.629,
+   "market_prob": 0.573
   }
  }
 }
