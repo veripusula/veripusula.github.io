@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T01:22:35Z",
+ "generated_at": "2026-10-14T08:20:29Z",
  "days": 30,
  "results": {
   "af_1550125": {
@@ -14725,6 +14725,60 @@
    "confidence": 0.576,
    "model_prob": 0.573,
    "market_prob": 0.577
+  },
+  "af_1549745": {
+   "has_details": true,
+   "home_team": "Bucaramanga",
+   "away_team": "Águilas Doradas",
+   "kickoff": "2026-10-13T23:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.92,
+   "hit": false,
+   "confidence": 0.488,
+   "model_prob": 0.572,
+   "market_prob": 0.452
+  },
+  "af_1639863": {
+   "has_details": true,
+   "home_team": "Boca Juniors",
+   "away_team": "Vasco DA Gama",
+   "kickoff": "2026-10-14T00:30:00+00:00",
+   "competition": "Copa Sudamericana",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.34,
+   "hit": true,
+   "confidence": 0.647,
+   "model_prob": 0.647,
+   "market_prob": 0.647
+  },
+  "af_1549812": {
+   "has_details": false,
+   "home_team": "Millonarios",
+   "away_team": "Once Caldas",
+   "kickoff": "2026-10-14T01:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": null,
+   "away": null,
+   "status": "PST",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": null,
+   "confidence": 0.57,
+   "model_prob": 0.687,
+   "market_prob": 0.52
   }
  }
 }
