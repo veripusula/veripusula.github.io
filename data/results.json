@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-14T23:21:59Z",
+ "generated_at": "2026-10-15T00:45:54Z",
  "days": 30,
  "results": {
-  "af_1493132": {
-   "has_details": true,
-   "home_team": "Instituto Cordoba",
-   "away_team": "Estudiantes de Rio Cuarto",
-   "kickoff": "2026-09-15T00:15:00+00:00",
-   "competition": "Arjantin Ligi",
-   "league_tier": "exploratory",
-   "home": 2,
-   "away": 1,
-   "status": "FT",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.31,
-   "hit": true,
-   "confidence": 0.682,
-   "model_prob": 0.721,
-   "market_prob": 0.665
-  },
   "af_1550960": {
    "has_details": true,
    "home_team": "Leon",
@@ -6733,6 +6715,24 @@
    "confidence": 0.719,
    "model_prob": 0.649,
    "market_prob": 0.749
+  },
+  "af_1493164": {
+   "has_details": true,
+   "home_team": "Sarmiento Junin",
+   "away_team": "River Plate",
+   "kickoff": "2026-10-04T17:45:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.27,
+   "hit": true,
+   "confidence": 0.682,
+   "model_prob": 0.682,
+   "market_prob": null
   },
   "af_1528941": {
    "has_details": true,
@@ -14833,6 +14833,42 @@
    "confidence": 0.735,
    "model_prob": 0.735,
    "market_prob": 0.735
+  },
+  "af_1549721": {
+   "has_details": true,
+   "home_team": "Junior",
+   "away_team": "Deportivo Pereira",
+   "kickoff": "2026-10-14T21:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.16,
+   "hit": false,
+   "confidence": 0.701,
+   "model_prob": 0.582,
+   "market_prob": 0.752
+  },
+  "af_1640557": {
+   "has_details": true,
+   "home_team": "Atletico-MG",
+   "away_team": "Atletico Torque",
+   "kickoff": "2026-10-14T22:00:00+00:00",
+   "competition": "Copa Sudamericana",
+   "league_tier": "extended",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.3,
+   "hit": true,
+   "confidence": 0.671,
+   "model_prob": 0.671,
+   "market_prob": 0.671
   }
  }
 }
