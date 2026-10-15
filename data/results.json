@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T07:58:17Z",
+ "generated_at": "2026-10-15T16:39:20Z",
  "days": 30,
  "results": {
   "af_1570391": {
@@ -15157,6 +15157,24 @@
    "confidence": 0.598,
    "model_prob": 0.555,
    "market_prob": 0.616
+  },
+  "af_1585784": {
+   "has_details": true,
+   "home_team": "Mardin 1969",
+   "away_team": "Fatih Karagümrük",
+   "kickoff": "2026-10-15T14:00:00+00:00",
+   "competition": "TFF 1. Lig",
+   "league_tier": "core",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.95,
+   "hit": true,
+   "confidence": 0.45,
+   "model_prob": 0.46,
+   "market_prob": 0.446
   }
  }
 }
