@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T07:52:08Z",
+ "generated_at": "2026-10-16T16:23:15Z",
  "days": 30,
  "results": {
   "af_1570384": {
@@ -15859,6 +15859,42 @@
    "confidence": 0.621,
    "model_prob": 0.613,
    "market_prob": 0.624
+  },
+  "af_1523275": {
+   "has_details": true,
+   "home_team": "Henan Jianye",
+   "away_team": "Tianjin Teda",
+   "kickoff": "2026-10-16T11:35:00+00:00",
+   "competition": "Çin Super League",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.84,
+   "hit": true,
+   "confidence": 0.495,
+   "model_prob": 0.545,
+   "market_prob": 0.473
+  },
+  "af_1603050": {
+   "has_details": true,
+   "home_team": "Al-Qadisiyah FC",
+   "away_team": "Abha",
+   "kickoff": "2026-10-16T13:15:00+00:00",
+   "competition": "Suudi Pro Lig",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.05,
+   "hit": true,
+   "confidence": 0.779,
+   "model_prob": 0.664,
+   "market_prob": 0.829
   }
  }
 }
