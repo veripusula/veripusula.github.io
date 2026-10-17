@@ -2385,56 +2385,56 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-10-17T07:29:43Z",
+  "generated_at": "2026-10-17T15:18:39Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
-   "n": 450,
-   "hits": 264,
+   "n": 453,
+   "hits": 266,
    "hit_rate": 58.7
   },
   "last30": {
-   "n": 149,
-   "hits": 91,
-   "hit_rate": 61.1
+   "n": 152,
+   "hits": 93,
+   "hit_rate": 61.2
   },
   "by_market": {
    "1X2": {
-    "n": 136,
-    "hits": 79,
-    "hit_rate": 58.1,
+    "n": 137,
+    "hits": 80,
+    "hit_rate": 58.4,
     "label": "Maç Sonucu"
    },
    "UST_ALT_2_5": {
-    "n": 207,
-    "hits": 128,
-    "hit_rate": 61.8,
+    "n": 208,
+    "hits": 129,
+    "hit_rate": 62.0,
     "label": "Toplam Gol 2.5"
    },
    "KG_VAR_YOK": {
-    "n": 107,
+    "n": 108,
     "hits": 57,
-    "hit_rate": 53.3,
+    "hit_rate": 52.8,
     "label": "Karşılıklı Gol"
    }
   },
   "best_market": {
    "market": "UST_ALT_2_5",
    "label": "Toplam Gol 2.5",
-   "hit_rate": 61.8,
-   "n": 207
+   "hit_rate": 62.0,
+   "n": 208
   },
   "logged_total": 1234,
   "exploratory": {
    "season": {
-    "n": 653,
+    "n": 656,
     "hits": 381,
-    "hit_rate": 58.3
+    "hit_rate": 58.1
    },
    "last30": {
-    "n": 265,
+    "n": 268,
     "hits": 151,
-    "hit_rate": 57.0
+    "hit_rate": 56.3
    }
   }
  }
