@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T22:57:02Z",
+ "generated_at": "2026-10-17T00:43:55Z",
  "days": 30,
  "results": {
   "af_1570386": {
@@ -16219,6 +16219,24 @@
    "confidence": 0.574,
    "model_prob": 0.571,
    "market_prob": 0.576
+  },
+  "af_1493186": {
+   "has_details": true,
+   "home_team": "Defensa Y Justicia",
+   "away_team": "Instituto Cordoba",
+   "kickoff": "2026-10-16T22:00:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.43,
+   "hit": true,
+   "confidence": 0.601,
+   "model_prob": 0.584,
+   "market_prob": 0.608
   }
  }
 }
