@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-21T23:31:27Z",
+ "generated_at": "2026-10-22T00:51:54Z",
  "days": 30,
  "results": {
-  "af_1493144": {
-   "has_details": true,
-   "home_team": "Lanus",
-   "away_team": "Estudiantes L.P.",
-   "kickoff": "2026-09-22T00:15:00+00:00",
-   "competition": "Arjantin Ligi",
-   "league_tier": "exploratory",
-   "home": 2,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.35,
-   "hit": false,
-   "confidence": 0.681,
-   "model_prob": 0.766,
-   "market_prob": 0.644
-  },
   "af_1490209": {
    "has_details": true,
    "home_team": "Seattle Sounders",
@@ -19801,6 +19783,24 @@
    "confidence": 0.591,
    "model_prob": 0.55,
    "market_prob": 0.608
+  },
+  "af_1640558": {
+   "has_details": true,
+   "home_team": "Atletico Torque",
+   "away_team": "Atletico-MG",
+   "kickoff": "2026-10-21T22:00:00+00:00",
+   "competition": "Copa Sudamericana",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.54,
+   "hit": false,
+   "confidence": 0.563,
+   "model_prob": 0.563,
+   "market_prob": 0.563
   },
   "af_1556101": {
    "has_details": true,
