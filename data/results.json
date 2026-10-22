@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T08:17:14Z",
+ "generated_at": "2026-10-22T16:55:24Z",
  "days": 30,
  "results": {
   "af_1490209": {
@@ -19999,6 +19999,24 @@
    "confidence": 0.633,
    "model_prob": 0.703,
    "market_prob": 0.603
+  },
+  "af_1603065": {
+   "has_details": true,
+   "home_team": "Al-Hazm",
+   "away_team": "Al-Fayha",
+   "kickoff": "2026-10-22T13:40:00+00:00",
+   "competition": "Suudi Pro Lig",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.62,
+   "hit": true,
+   "confidence": 0.537,
+   "model_prob": 0.54,
+   "market_prob": 0.536
   },
   "af_1549829": {
    "has_details": true,
