@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T00:52:18Z",
+ "generated_at": "2026-10-23T08:14:26Z",
  "days": 30,
  "results": {
   "af_1490209": {
@@ -8461,6 +8461,24 @@
    "confidence": 0.462,
    "model_prob": 0.545,
    "market_prob": 0.426
+  },
+  "af_1549815": {
+   "has_details": true,
+   "home_team": "Atletico Nacional",
+   "away_team": "Deportivo Pasto",
+   "kickoff": "2026-10-11T01:15:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.13,
+   "hit": true,
+   "confidence": 0.706,
+   "model_prob": 0.562,
+   "market_prob": 0.768
   },
   "af_1490523": {
    "has_details": true,
@@ -20647,6 +20665,24 @@
    "confidence": 0.495,
    "model_prob": 0.495,
    "market_prob": 0.495
+  },
+  "af_1640556": {
+   "has_details": true,
+   "home_team": "Flamengo",
+   "away_team": "Estudiantes L.P.",
+   "kickoff": "2026-10-23T00:30:00+00:00",
+   "competition": "Copa Libertadores",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 0,
+   "status": "PEN",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.29,
+   "hit": false,
+   "confidence": 0.672,
+   "model_prob": 0.672,
+   "market_prob": 0.672
   },
   "af_1603065": {
    "has_details": true,
