@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T23:17:42Z",
+ "generated_at": "2026-10-24T00:59:49Z",
  "days": 30,
  "results": {
   "af_1490209": {
@@ -21277,6 +21277,24 @@
    "confidence": 0.542,
    "model_prob": 0.545,
    "market_prob": 0.541
+  },
+  "af_1493203": {
+   "has_details": true,
+   "home_team": "Gimnasia M.",
+   "away_team": "Platense",
+   "kickoff": "2026-10-23T21:30:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.4,
+   "hit": false,
+   "confidence": 0.608,
+   "model_prob": 0.575,
+   "market_prob": 0.622
   }
  }
 }
