@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-28T01:34:23Z",
+ "generated_at": "2026-10-28T09:15:14Z",
  "days": 30,
  "results": {
-  "af_1550983": {
-   "has_details": true,
-   "home_team": "Necaxa",
-   "away_team": "Club America",
-   "kickoff": "2026-09-28T03:00:00+00:00",
-   "competition": "Liga MX",
-   "league_tier": "exploratory",
-   "home": 2,
-   "away": 4,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.56,
-   "hit": true,
-   "confidence": 0.563,
-   "model_prob": 0.573,
-   "market_prob": 0.558
-  },
   "af_1545605": {
    "has_details": true,
    "home_team": "Latvia",
@@ -25471,6 +25453,24 @@
    "confidence": 0.565,
    "model_prob": 0.565,
    "market_prob": 0.565
+  },
+  "af_1549726": {
+   "has_details": true,
+   "home_team": "Chico",
+   "away_team": "Junior",
+   "kickoff": "2026-10-28T01:05:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.59,
+   "hit": true,
+   "confidence": 0.564,
+   "model_prob": 0.603,
+   "market_prob": 0.547
   },
   "af_1569983": {
    "has_details": true,
