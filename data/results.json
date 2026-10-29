@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:07:47Z",
+ "generated_at": "2026-10-29T01:56:26Z",
  "days": 30,
  "results": {
   "af_1528912": {
@@ -25598,6 +25598,60 @@
    "model_prob": 0.62,
    "market_prob": 0.5
   },
+  "af_1492435": {
+   "has_details": true,
+   "home_team": "Fluminense",
+   "away_team": "Internacional",
+   "kickoff": "2026-10-28T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.78,
+   "hit": true,
+   "confidence": 0.491,
+   "model_prob": 0.497,
+   "market_prob": 0.489
+  },
+  "af_1492438": {
+   "has_details": true,
+   "home_team": "Santos",
+   "away_team": "Palmeiras",
+   "kickoff": "2026-10-28T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.65,
+   "hit": true,
+   "confidence": 0.574,
+   "model_prob": 0.687,
+   "market_prob": 0.526
+  },
+  "af_1492432": {
+   "has_details": true,
+   "home_team": "RB Bragantino",
+   "away_team": "Chapecoense-sc",
+   "kickoff": "2026-10-28T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 3,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.19,
+   "hit": true,
+   "confidence": 0.695,
+   "model_prob": 0.613,
+   "market_prob": 0.73
+  },
   "af_1494316": {
    "has_details": true,
    "home_team": "IFK Goteborg",
@@ -25633,6 +25687,24 @@
    "confidence": 0.498,
    "model_prob": 0.556,
    "market_prob": 0.473
+  },
+  "af_1549731": {
+   "has_details": true,
+   "home_team": "Once Caldas",
+   "away_team": "Alianza Valledupar",
+   "kickoff": "2026-10-28T23:00:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.73,
+   "hit": true,
+   "confidence": 0.512,
+   "model_prob": 0.534,
+   "market_prob": 0.503
   },
   "af_1563780": {
    "has_details": true,
