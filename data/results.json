@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T02:08:36Z",
+ "generated_at": "2026-10-30T09:32:21Z",
  "days": 30,
  "results": {
   "af_1549703": {
@@ -25975,6 +25975,42 @@
    "confidence": 0.65,
    "model_prob": 0.726,
    "market_prob": 0.618
+  },
+  "af_1492436": {
+   "has_details": true,
+   "home_team": "Gremio",
+   "away_team": "Atletico Paranaense",
+   "kickoff": "2026-10-30T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.74,
+   "hit": false,
+   "confidence": 0.521,
+   "model_prob": 0.572,
+   "market_prob": 0.499
+  },
+  "af_1549724": {
+   "has_details": true,
+   "home_team": "Atletico Nacional",
+   "away_team": "Santa Fe",
+   "kickoff": "2026-10-30T01:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.97,
+   "hit": true,
+   "confidence": 0.494,
+   "model_prob": 0.614,
+   "market_prob": 0.442
   },
   "af_1549723": {
    "has_details": true,
