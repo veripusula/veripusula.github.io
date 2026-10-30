@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T09:32:21Z",
+ "generated_at": "2026-10-30T17:55:03Z",
  "days": 30,
  "results": {
   "af_1549703": {
@@ -26011,6 +26011,42 @@
    "confidence": 0.494,
    "model_prob": 0.614,
    "market_prob": 0.442
+  },
+  "af_1603072": {
+   "has_details": true,
+   "home_team": "Al Diriyah",
+   "away_team": "NEOM",
+   "kickoff": "2026-10-30T14:50:00+00:00",
+   "competition": "Suudi Pro Lig",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.81,
+   "hit": false,
+   "confidence": 0.513,
+   "model_prob": 0.586,
+   "market_prob": 0.481
+  },
+  "af_1603071": {
+   "has_details": true,
+   "home_team": "Abha",
+   "away_team": "Al-Ittihad FC",
+   "kickoff": "2026-10-30T13:45:00+00:00",
+   "competition": "Suudi Pro Lig",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 1,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.48,
+   "hit": true,
+   "confidence": 0.575,
+   "model_prob": 0.542,
+   "market_prob": 0.589
   },
   "af_1549723": {
    "has_details": true,
