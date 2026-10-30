@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-10-30T00:04:32Z",
+ "generated_at": "2026-10-30T02:08:36Z",
  "days": 30,
  "results": {
-  "af_1549719": {
-   "has_details": true,
-   "home_team": "Independiente Medellin",
-   "away_team": "Millonarios",
-   "kickoff": "2026-09-30T01:05:00+00:00",
-   "competition": "Kolombiya Primera A",
-   "league_tier": "extended",
-   "home": 2,
-   "away": 2,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.69,
-   "hit": false,
-   "confidence": 0.519,
-   "model_prob": 0.529,
-   "market_prob": 0.514
-  },
   "af_1549703": {
    "has_details": true,
    "home_team": "Atletico Nacional",
@@ -25940,6 +25922,42 @@
    "model_prob": 0.584,
    "market_prob": 0.621
   },
+  "af_1492430": {
+   "has_details": true,
+   "home_team": "Atletico-MG",
+   "away_team": "Cruzeiro",
+   "kickoff": "2026-10-29T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "UST",
+   "odds": 1.79,
+   "hit": false,
+   "confidence": 0.507,
+   "model_prob": 0.557,
+   "market_prob": 0.486
+  },
+  "af_1492439": {
+   "has_details": true,
+   "home_team": "Vasco DA Gama",
+   "away_team": "Flamengo",
+   "kickoff": "2026-10-29T23:00:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 4,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.58,
+   "hit": true,
+   "confidence": 0.561,
+   "model_prob": 0.584,
+   "market_prob": 0.551
+  },
   "af_1563780": {
    "has_details": true,
    "home_team": "Barnet",
@@ -25957,6 +25975,24 @@
    "confidence": 0.65,
    "model_prob": 0.726,
    "market_prob": 0.618
+  },
+  "af_1549723": {
+   "has_details": true,
+   "home_team": "America de Cali",
+   "away_team": "Fortaleza FC",
+   "kickoff": "2026-10-29T23:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.7,
+   "hit": false,
+   "confidence": 0.555,
+   "model_prob": 0.656,
+   "market_prob": 0.511
   }
  }
 }
