@@ -1,43 +1,7 @@
 {
- "generated_at": "2026-10-31T23:31:37Z",
+ "generated_at": "2026-11-01T01:23:40Z",
  "days": 30,
  "results": {
-  "af_1520908": {
-   "has_details": true,
-   "home_team": "Novorizontino",
-   "away_team": "Goias",
-   "kickoff": "2026-10-02T00:00:00+00:00",
-   "competition": "Brezilya Série B",
-   "league_tier": "extended",
-   "home": 3,
-   "away": 0,
-   "status": "FT",
-   "market_type": "1X2",
-   "selection": "1",
-   "odds": 1.55,
-   "hit": true,
-   "confidence": 0.56,
-   "model_prob": 0.557,
-   "market_prob": 0.562
-  },
-  "af_1549849": {
-   "has_details": true,
-   "home_team": "Internacional de Bogota",
-   "away_team": "Once Caldas",
-   "kickoff": "2026-10-02T01:00:00+00:00",
-   "competition": "Kolombiya Primera A",
-   "league_tier": "extended",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.59,
-   "hit": true,
-   "confidence": 0.575,
-   "model_prob": 0.641,
-   "market_prob": 0.547
-  },
   "af_1490463": {
    "has_details": true,
    "home_team": "Seattle Sounders",
@@ -28371,7 +28335,7 @@
    "market_prob": null
   },
   "af_1490585": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "FC Cincinnati",
    "away_team": "Philadelphia Union",
    "kickoff": "2026-10-31T18:00:00+00:00",
@@ -28389,7 +28353,7 @@
    "market_prob": null
   },
   "af_1603074": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Al-Hilal Saudi FC",
    "away_team": "Al-Fateh",
    "kickoff": "2026-10-31T18:00:00+00:00",
@@ -28407,7 +28371,7 @@
    "market_prob": 0.866
   },
   "af_1601590": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Sampdoria",
    "away_team": "Virtus Entella",
    "kickoff": "2026-10-31T18:30:00+00:00",
@@ -28425,7 +28389,7 @@
    "market_prob": 0.554
   },
   "af_1561957": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Lask Linz",
    "away_team": "WSG Wattens",
    "kickoff": "2026-10-31T18:30:00+00:00",
@@ -28443,7 +28407,7 @@
    "market_prob": 0.695
   },
   "af_1490594": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Sporting Kansas City",
    "away_team": "FC Dallas",
    "kickoff": "2026-10-31T19:00:00+00:00",
@@ -28461,7 +28425,7 @@
    "market_prob": null
   },
   "af_1490595": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "St. Louis City",
    "away_team": "San Diego",
    "kickoff": "2026-10-31T19:00:00+00:00",
@@ -28479,7 +28443,7 @@
    "market_prob": null
   },
   "af_1552515": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Guingamp",
    "away_team": "Saint Etienne",
    "kickoff": "2026-10-31T19:00:00+00:00",
@@ -28497,7 +28461,7 @@
    "market_prob": 0.531
   },
   "af_1520951": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Botafogo SP",
    "away_team": "Sport Recife",
    "kickoff": "2026-10-31T19:00:00+00:00",
@@ -28515,7 +28479,7 @@
    "market_prob": 0.547
   },
   "af_1553210": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "GKS Katowice",
    "away_team": "Widzew Łódź",
    "kickoff": "2026-10-31T19:15:00+00:00",
@@ -28533,7 +28497,7 @@
    "market_prob": 0.592
   },
   "af_1576221": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Karlsruher SC",
    "away_team": "1. FC Heidenheim",
    "kickoff": "2026-10-31T19:30:00+00:00",
@@ -28551,7 +28515,7 @@
    "market_prob": 0.638
   },
   "af_1555416": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "FC Luzern",
    "away_team": "FC Sion",
    "kickoff": "2026-10-31T19:30:00+00:00",
@@ -28569,7 +28533,7 @@
    "market_prob": 0.701
   },
   "af_1550177": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "AC Milan",
    "away_team": "Inter",
    "kickoff": "2026-10-31T19:45:00+00:00",
@@ -28587,7 +28551,7 @@
    "market_prob": 0.585
   },
   "af_1552809": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Estac Troyes",
    "away_team": "Le Mans",
    "kickoff": "2026-10-31T19:45:00+00:00",
@@ -28605,7 +28569,7 @@
    "market_prob": 0.524
   },
   "af_1558662": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Anderlecht",
    "away_team": "KVC Westerlo",
    "kickoff": "2026-10-31T19:45:00+00:00",
@@ -28623,7 +28587,7 @@
    "market_prob": 0.601
   },
   "af_1558663": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "SK Beveren",
    "away_team": "Union St. Gilloise",
    "kickoff": "2026-10-31T19:45:00+00:00",
@@ -28641,7 +28605,7 @@
    "market_prob": 0.557
   },
   "af_1557447": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Aston Villa",
    "away_team": "Fulham",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28659,7 +28623,7 @@
    "market_prob": 0.436
   },
   "af_1570434": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Barcelona",
    "away_team": "Alaves",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28677,7 +28641,7 @@
    "market_prob": 0.858
   },
   "af_1493216": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Deportivo Riestra",
    "away_team": "Talleres Cordoba",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28695,7 +28659,7 @@
    "market_prob": 0.659
   },
   "af_1552210": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Ajax",
    "away_team": "AZ Alkmaar",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28713,7 +28677,7 @@
    "market_prob": 0.683
   },
   "af_1552211": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Cambuur",
    "away_team": "GO Ahead Eagles",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28731,7 +28695,7 @@
    "market_prob": 0.655
   },
   "af_1569992": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Albacete",
    "away_team": "Sabadell",
    "kickoff": "2026-10-31T20:00:00+00:00",
@@ -28749,7 +28713,7 @@
    "market_prob": 0.511
   },
   "af_1575532": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "FC Porto",
    "away_team": "Estoril",
    "kickoff": "2026-10-31T20:30:00+00:00",
@@ -28767,7 +28731,7 @@
    "market_prob": 0.765
   },
   "af_1520959": {
-   "has_details": false,
+   "has_details": true,
    "home_team": "Vila Nova",
    "away_team": "Juventude",
    "kickoff": "2026-10-31T20:30:00+00:00",
@@ -28783,6 +28747,78 @@
    "confidence": 0.65,
    "model_prob": 0.684,
    "market_prob": 0.636
+  },
+  "af_1490596": {
+   "has_details": true,
+   "home_team": "San Jose Earthquakes",
+   "away_team": "Real Salt Lake",
+   "kickoff": "2026-10-31T21:00:00+00:00",
+   "competition": "MLS",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.73,
+   "hit": true,
+   "confidence": 0.502,
+   "model_prob": 0.502,
+   "market_prob": null
+  },
+  "af_1490592": {
+   "has_details": true,
+   "home_team": "Los Angeles Galaxy",
+   "away_team": "Austin",
+   "kickoff": "2026-10-31T21:00:00+00:00",
+   "competition": "MLS",
+   "league_tier": "exploratory",
+   "home": 4,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.36,
+   "hit": true,
+   "confidence": 0.641,
+   "model_prob": 0.641,
+   "market_prob": null
+  },
+  "af_1493226": {
+   "has_details": true,
+   "home_team": "Velez Sarsfield",
+   "away_team": "San Lorenzo",
+   "kickoff": "2026-10-31T22:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.41,
+   "hit": false,
+   "confidence": 0.652,
+   "model_prob": 0.735,
+   "market_prob": 0.617
+  },
+  "af_1520957": {
+   "has_details": true,
+   "home_team": "Nautico Recife",
+   "away_team": "Avai",
+   "kickoff": "2026-10-31T22:30:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.87,
+   "hit": true,
+   "confidence": 0.486,
+   "model_prob": 0.535,
+   "market_prob": 0.465
   },
   "af_1549723": {
    "has_details": true,
