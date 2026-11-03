@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:31:00Z",
+ "generated_at": "2026-11-03T03:38:39Z",
  "days": 30,
  "results": {
   "af_1569957": {
@@ -30511,6 +30511,42 @@
    "confidence": 0.413,
    "model_prob": 0.537,
    "market_prob": 0.36
+  },
+  "af_1493212": {
+   "has_details": true,
+   "home_team": "Atletico Tucuman",
+   "away_team": "Argentinos JRS",
+   "kickoff": "2026-11-03T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 2,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.4,
+   "hit": false,
+   "confidence": 0.638,
+   "model_prob": 0.676,
+   "market_prob": 0.622
+  },
+  "af_1493220": {
+   "has_details": true,
+   "home_team": "Independ. Rivadavia",
+   "away_team": "Banfield",
+   "kickoff": "2026-11-03T00:15:00+00:00",
+   "competition": "Arjantin Ligi",
+   "league_tier": "exploratory",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.43,
+   "hit": true,
+   "confidence": 0.622,
+   "model_prob": 0.657,
+   "market_prob": 0.607
   },
   "af_1570001": {
    "has_details": true,
