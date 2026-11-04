@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T02:35:25Z",
+ "generated_at": "2026-11-04T10:20:58Z",
  "days": 30,
  "results": {
   "af_1569952": {
@@ -30601,6 +30601,24 @@
    "confidence": 0.575,
    "model_prob": 0.693,
    "market_prob": 0.524
+  },
+  "af_1492446": {
+   "has_details": true,
+   "home_team": "Internacional",
+   "away_team": "Coritiba",
+   "kickoff": "2026-11-04T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.47,
+   "hit": true,
+   "confidence": 0.612,
+   "model_prob": 0.659,
+   "market_prob": 0.591
   },
   "af_1570001": {
    "has_details": true,
