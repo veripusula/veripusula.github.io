@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:42:07Z",
+ "generated_at": "2026-11-05T10:15:38Z",
  "days": 30,
  "results": {
   "af_1528951": {
@@ -30691,6 +30691,60 @@
    "confidence": 0.504,
    "model_prob": 0.608,
    "market_prob": 0.46
+  },
+  "af_1492441": {
+   "has_details": true,
+   "home_team": "Botafogo",
+   "away_team": "Atletico-MG",
+   "kickoff": "2026-11-05T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.94,
+   "hit": true,
+   "confidence": 0.479,
+   "model_prob": 0.552,
+   "market_prob": 0.447
+  },
+  "af_1492448": {
+   "has_details": true,
+   "home_team": "Sao Paulo",
+   "away_team": "Corinthians",
+   "kickoff": "2026-11-05T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.46,
+   "hit": true,
+   "confidence": 0.601,
+   "model_prob": 0.612,
+   "market_prob": 0.597
+  },
+  "af_1549851": {
+   "has_details": true,
+   "home_team": "Millonarios",
+   "away_team": "America de Cali",
+   "kickoff": "2026-11-05T01:30:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.61,
+   "hit": true,
+   "confidence": 0.576,
+   "model_prob": 0.658,
+   "market_prob": 0.54
   },
   "af_1635745": {
    "has_details": true,
