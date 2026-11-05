@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T00:58:49Z",
+ "generated_at": "2026-11-05T02:42:07Z",
  "days": 30,
  "results": {
   "af_1528951": {
@@ -29864,6 +29864,24 @@
    "model_prob": 0.569,
    "market_prob": 0.588
   },
+  "af_1549845": {
+   "has_details": true,
+   "home_team": "Cucuta",
+   "away_team": "Santa Fe",
+   "kickoff": "2026-11-02T23:10:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 1,
+   "away": 0,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.67,
+   "hit": true,
+   "confidence": 0.54,
+   "model_prob": 0.582,
+   "market_prob": 0.521
+  },
   "af_1520955": {
    "has_details": true,
    "home_team": "Goias",
@@ -30637,6 +30655,42 @@
    "confidence": 0.72,
    "model_prob": 0.72,
    "market_prob": 0.72
+  },
+  "af_1492445": {
+   "has_details": true,
+   "home_team": "Flamengo",
+   "away_team": "Gremio",
+   "kickoff": "2026-11-04T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 3,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.08,
+   "hit": true,
+   "confidence": 0.759,
+   "model_prob": 0.644,
+   "market_prob": 0.808
+  },
+  "af_1492440": {
+   "has_details": true,
+   "home_team": "Atletico Paranaense",
+   "away_team": "Vasco DA Gama",
+   "kickoff": "2026-11-04T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 1,
+   "away": 3,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.89,
+   "hit": false,
+   "confidence": 0.504,
+   "model_prob": 0.608,
+   "market_prob": 0.46
   },
   "af_1635745": {
    "has_details": true,
