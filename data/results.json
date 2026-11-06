@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:03:04Z",
+ "generated_at": "2026-11-06T02:46:56Z",
  "days": 30,
  "results": {
   "af_1492395": {
@@ -31213,6 +31213,42 @@
    "confidence": 0.545,
    "model_prob": 0.545,
    "market_prob": 0.545
+  },
+  "af_1492447": {
+   "has_details": true,
+   "home_team": "Palmeiras",
+   "away_team": "Remo",
+   "kickoff": "2026-11-05T22:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 6,
+   "away": 1,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.13,
+   "hit": true,
+   "confidence": 0.743,
+   "model_prob": 0.59,
+   "market_prob": 0.77
+  },
+  "af_1520962": {
+   "has_details": true,
+   "home_team": "Botafogo SP",
+   "away_team": "Londrina",
+   "kickoff": "2026-11-05T22:30:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 4,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.64,
+   "hit": true,
+   "confidence": 0.527,
+   "model_prob": 0.513,
+   "market_prob": 0.53
   },
   "af_1635745": {
    "has_details": true,
