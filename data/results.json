@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:46:56Z",
+ "generated_at": "2026-11-06T10:19:25Z",
  "days": 30,
  "results": {
   "af_1492395": {
@@ -31249,6 +31249,24 @@
    "confidence": 0.527,
    "model_prob": 0.513,
    "market_prob": 0.53
+  },
+  "af_1492444": {
+   "has_details": true,
+   "home_team": "Cruzeiro",
+   "away_team": "Bahia",
+   "kickoff": "2026-11-06T00:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 3,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.58,
+   "hit": true,
+   "confidence": 0.544,
+   "model_prob": 0.512,
+   "market_prob": 0.549
   },
   "af_1635745": {
    "has_details": true,
