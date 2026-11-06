@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T10:19:25Z",
+ "generated_at": "2026-11-06T19:07:51Z",
  "days": 30,
  "results": {
   "af_1492395": {
@@ -31267,6 +31267,24 @@
    "confidence": 0.544,
    "model_prob": 0.512,
    "market_prob": 0.549
+  },
+  "af_1561440": {
+   "has_details": true,
+   "home_team": "Lokomotiv",
+   "away_team": "Rubin",
+   "kickoff": "2026-11-06T16:30:00+00:00",
+   "competition": "Rusya Premier Lig",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 1,
+   "status": "FT",
+   "market_type": "UST_ALT_2_5",
+   "selection": "ALT",
+   "odds": 1.66,
+   "hit": true,
+   "confidence": 0.53,
+   "model_prob": 0.569,
+   "market_prob": 0.523
   },
   "af_1635745": {
    "has_details": true,
