@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-11-10T02:49:10Z",
+ "generated_at": "2026-11-10T04:16:01Z",
  "days": 30,
  "results": {
-  "af_1550989": {
-   "has_details": true,
-   "home_team": "Club America",
-   "away_team": "Monterrey",
-   "kickoff": "2026-10-11T03:10:00+00:00",
-   "competition": "Liga MX",
-   "league_tier": "exploratory",
-   "home": 1,
-   "away": 1,
-   "status": "FT",
-   "market_type": "UST_ALT_2_5",
-   "selection": "UST",
-   "odds": 1.49,
-   "hit": false,
-   "confidence": 0.598,
-   "model_prob": 0.63,
-   "market_prob": 0.584
-  },
   "af_1556083": {
    "has_details": true,
    "home_team": "JEF United Chiba",
