@@ -1,25 +1,7 @@
 {
- "generated_at": "2026-11-13T01:14:36Z",
+ "generated_at": "2026-11-13T02:49:20Z",
  "days": 30,
  "results": {
-  "af_1549812": {
-   "has_details": false,
-   "home_team": "Millonarios",
-   "away_team": "Once Caldas",
-   "kickoff": "2026-10-14T01:30:00+00:00",
-   "competition": "Kolombiya Primera A",
-   "league_tier": "extended",
-   "home": null,
-   "away": null,
-   "status": "PST",
-   "market_type": "UST_ALT_2_5",
-   "selection": "ALT",
-   "odds": 1.67,
-   "hit": null,
-   "confidence": 0.57,
-   "model_prob": 0.687,
-   "market_prob": 0.52
-  },
   "af_1585781": {
    "has_details": true,
    "home_team": "Batman Petrolspor",
@@ -30026,6 +30008,24 @@
    "model_prob": 0.841,
    "market_prob": 0.841
   },
+  "af_1549870": {
+   "has_details": true,
+   "home_team": "Llaneros",
+   "away_team": "Chico",
+   "kickoff": "2026-11-12T21:00:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.57,
+   "hit": false,
+   "confidence": 0.545,
+   "model_prob": 0.486,
+   "market_prob": 0.555
+  },
   "af_1520977": {
    "has_details": true,
    "home_team": "Ponte Preta",
@@ -30061,6 +30061,24 @@
    "confidence": 0.75,
    "model_prob": 0.292,
    "market_prob": 0.831
+  },
+  "af_1520978": {
+   "has_details": true,
+   "home_team": "São Bernardo",
+   "away_team": "Athletic Club",
+   "kickoff": "2026-11-12T23:00:00+00:00",
+   "competition": "Brezilya Série B",
+   "league_tier": "extended",
+   "home": 2,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.8,
+   "hit": false,
+   "confidence": 0.486,
+   "model_prob": 0.501,
+   "market_prob": 0.484
   }
  }
 }
