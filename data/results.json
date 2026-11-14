@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:37:40Z",
+ "generated_at": "2026-11-14T09:46:03Z",
  "days": 30,
  "results": {
   "af_1585784": {
@@ -29395,6 +29395,24 @@
    "confidence": 0.841,
    "model_prob": 0.841,
    "market_prob": 0.841
+  },
+  "af_1549869": {
+   "has_details": true,
+   "home_team": "Internacional de Bogota",
+   "away_team": "Santa Fe",
+   "kickoff": "2026-11-12T21:00:00+00:00",
+   "competition": "Kolombiya Primera A",
+   "league_tier": "extended",
+   "home": 0,
+   "away": 2,
+   "status": "FT",
+   "market_type": "KG_VAR_YOK",
+   "selection": "VAR",
+   "odds": 1.5,
+   "hit": false,
+   "confidence": 0.556,
+   "model_prob": 0.428,
+   "market_prob": 0.579
   },
   "af_1549870": {
    "has_details": true,
