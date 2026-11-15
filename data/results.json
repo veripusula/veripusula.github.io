@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T00:00:33Z",
+ "generated_at": "2026-11-15T02:03:39Z",
  "days": 30,
  "results": {
   "af_1523275": {
@@ -29773,6 +29773,42 @@
    "confidence": 0.511,
    "model_prob": 0.494,
    "market_prob": 0.514
+  },
+  "af_1492455": {
+   "has_details": true,
+   "home_team": "Mirassol",
+   "away_team": "Atletico-MG",
+   "kickoff": "2026-11-14T21:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 0,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "1",
+   "odds": 1.83,
+   "hit": false,
+   "confidence": 0.47,
+   "model_prob": 0.443,
+   "market_prob": 0.474
+  },
+  "af_1492312": {
+   "has_details": true,
+   "home_team": "Chapecoense-sc",
+   "away_team": "Vasco DA Gama",
+   "kickoff": "2026-11-14T23:30:00+00:00",
+   "competition": "Brasileirão",
+   "league_tier": "exploratory",
+   "home": 0,
+   "away": 2,
+   "status": "FT",
+   "market_type": "1X2",
+   "selection": "2",
+   "odds": 1.46,
+   "hit": true,
+   "confidence": 0.569,
+   "model_prob": 0.423,
+   "market_prob": 0.595
   },
   "af_1591378": {
    "has_details": false,
