@@ -2385,7 +2385,7 @@
   }
  ],
  "forward": {
-  "generated_at": "2026-11-14T17:48:23Z",
+  "generated_at": "2026-11-15T00:00:33Z",
   "season_label": "2026-27",
   "since": "2026-08-15",
   "season": {
@@ -2432,9 +2432,9 @@
     "hit_rate": 59.8
    },
    "last30": {
-    "n": 369,
+    "n": 368,
     "hits": 231,
-    "hit_rate": 62.6
+    "hit_rate": 62.8
    }
   }
  }
